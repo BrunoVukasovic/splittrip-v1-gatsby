@@ -1,0 +1,2918 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "jsonName": "dev-404-page-5f9",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "componentPath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "8f51ce82d67c762717f60199c95a150f",
+        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5": {
+      "resolve": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "fa8c118ef07e5fa7e297256f1e07de48",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1fc32581-893a-55e8-8927-bcd667e2b700": {
+      "resolve": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "id": "1fc32581-893a-55e8-8927-bcd667e2b700",
+      "name": "load-babel-config",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "packageJson": {
+        "name": "load-babel-config",
+        "description": "Internal plugin that handles loading Babel configs",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "94ce13f42810577599a3d1e5bd71f253",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "a5079d69-ba80-53dc-82f9-0f440bd5448c": {
+      "resolve": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "a5079d69-ba80-53dc-82f9-0f440bd5448c",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "ff34d7120c2278b0a4f68ce769398c0b",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "f795702c-a3b8-5a88-88ee-5d06019d44fa": {
+      "resolve": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "e40df5762637ecc96053903f114c327e",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84dad27f-1d44-51fc-ac56-4db2e5222995": {
+      "resolve": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "84dad27f-1d44-51fc-ac56-4db2e5222995",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "c8cd09cad901712a513ba0a7a49b3b6f",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84d6154d-4241-556c-a679-cc8339cac100": {
+      "resolve": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/node_modules/gatsby-plugin-sharp",
+      "id": "84d6154d-4241-556c-a679-cc8339cac100",
+      "name": "gatsby-plugin-sharp",
+      "version": "2.0.10",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "2.0.10",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "imagemin",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-mozjpeg",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^4.1.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mini-svg-data-uri",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.0"
+          },
+          {
+            "name": "svgo",
+            "version": "^0.7.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "7d8274465bc5dc8e8736e97c5e5ac9bd",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "2847462d-e980-51b8-b45c-46ddefda4060": {
+      "resolve": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/node_modules/gatsby-remark-images",
+      "id": "2847462d-e980-51b8-b45c-46ddefda4060",
+      "name": "gatsby-remark-images",
+      "version": "2.0.5",
+      "pluginOptions": {
+        "plugins": [],
+        "maxWidth": 1000,
+        "linkImagesToOriginal": false,
+        "backgroundColor": "transparent",
+        "wrapperStyle": "",
+        "showCaptions": false,
+        "pathPrefix": "",
+        "withWebp": false
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/node_modules/gatsby-remark-images",
+      "packageJson": {
+        "name": "gatsby-remark-images",
+        "description": "Processes images in markdown so they can be used in the production build.",
+        "version": "2.0.5",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "markdown",
+          "remark",
+          "responsive images"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit-parents",
+            "version": "^2.0.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.0-beta.5"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "0b89d39409ef6618fc4ed8e7e49e8118",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "7374ebf2-d961-52ee-92a2-c25e7cb387a9": {
+      "resolve": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip",
+      "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "name": "default-site-plugin",
+      "version": "84cffb668278f176d2aaa7b945983fb5",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip",
+      "packageJson": {
+        "name": "gatsby-starter-hello-world",
+        "description": "Gatsby hello world starter",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "classnames",
+            "version": "^2.2.6"
+          },
+          {
+            "name": "gatsby",
+            "version": "^2.0.34"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.10"
+          },
+          {
+            "name": "gatsby-remark-images",
+            "version": "^2.0.5"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^2.0.6"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^2.1.11"
+          },
+          {
+            "name": "react",
+            "version": "^16.5.1"
+          },
+          {
+            "name": "react-dom",
+            "version": "^16.5.1"
+          },
+          {
+            "name": "rimraf",
+            "version": "^2.6.2"
+          }
+        ],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "fee910a3abd9d07c061ab24e4bc4dc0b",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "My first Gatsby application",
+        "description": "Hello, World!"
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2018-12-08T16:24:51.273Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "eb74065a35349d50a6ea4fad3c6a57ad",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "13e88509-718e-51ba-a44e-ca1e9f16ddff": {
+      "resolve": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/node_modules/gatsby-source-filesystem",
+      "id": "13e88509-718e-51ba-a44e-ca1e9f16ddff",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.6",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "C:\\My Documents\\HCI\\travel-agency\\creating-blog\\splittrip/content/posts",
+        "name": "posts"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.6",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "03aabd152d0409d78b8fa1b7635674f2",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "9fd5a5f1-74c8-5b12-8b4d-4adc8e246540": {
+      "resolve": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/node_modules/gatsby-transformer-remark",
+      "id": "9fd5a5f1-74c8-5b12-8b4d-4adc8e246540",
+      "name": "gatsby-transformer-remark",
+      "version": "2.1.11",
+      "pluginOptions": {
+        "plugins": [
+          {
+            "resolve": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/node_modules/gatsby-remark-images",
+            "id": "2847462d-e980-51b8-b45c-46ddefda4060",
+            "name": "gatsby-remark-images",
+            "version": "2.0.5",
+            "pluginOptions": {
+              "$ref": "$[\"nodes\"][\"2847462d-e980-51b8-b45c-46ddefda4060\"][\"pluginOptions\"]"
+            },
+            "nodeAPIs": {
+              "$ref": "$[\"nodes\"][\"2847462d-e980-51b8-b45c-46ddefda4060\"][\"nodeAPIs\"]"
+            },
+            "browserAPIs": {
+              "$ref": "$[\"nodes\"][\"2847462d-e980-51b8-b45c-46ddefda4060\"][\"browserAPIs\"]"
+            },
+            "ssrAPIs": {
+              "$ref": "$[\"nodes\"][\"2847462d-e980-51b8-b45c-46ddefda4060\"][\"ssrAPIs\"]"
+            },
+            "pluginFilepath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/node_modules/gatsby-remark-images"
+          }
+        ]
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "2.1.11",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "hast-util-raw",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^9.0.0"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.18.2"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.4"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-remove-position",
+            "version": "^1.1.2"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.33"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "984cbb5c3c5b8392f98b80c4e75746b9",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "e7a5f0b6-1a8f-5a0a-939f-45e02538515b": {
+      "resolve": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/node_modules/gatsby-plugin-page-creator",
+      "id": "e7a5f0b6-1a8f-5a0a-939f-45e02538515b",
+      "name": "gatsby-plugin-page-creator",
+      "version": "2.0.2",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/pages",
+        "pathCheck": false
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/node_modules/gatsby-plugin-page-creator",
+      "packageJson": {
+        "name": "gatsby-plugin-page-creator",
+        "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
+        "version": "2.0.2",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "glob",
+            "version": "^7.1.1"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "parse-filepath",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "3c33823a8ba4ae79945279a9685e130a",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "6a6f0005-7c42-56aa-9f7a-f3082c8534bf": {
+      "id": "6a6f0005-7c42-56aa-9f7a-f3082c8534bf",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "e6f14a6d1f6d4150cf199047a989382b",
+        "type": "Directory",
+        "description": "Directory \"content\\posts\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts",
+      "relativePath": "",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-12-08T12:53:21.029Z",
+      "accessTime": "2018-12-08T16:24:57.855Z",
+      "changeTime": "2018-12-08T12:53:21.029Z",
+      "birthTime": "2018-12-08T12:53:20.810Z",
+      "root": "C:/",
+      "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content",
+      "base": "posts",
+      "ext": "",
+      "name": "posts",
+      "relativeDirectory": "..",
+      "dev": 2597077015,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 2533274790495291,
+      "atimeMs": 1544286297855.3147,
+      "mtimeMs": 1544273601028.7026,
+      "ctimeMs": 1544273601028.7026,
+      "birthtimeMs": 1544273600809.953,
+      "atime": "2018-12-08T16:24:57.855Z",
+      "mtime": "2018-12-08T12:53:21.029Z",
+      "ctime": "2018-12-08T12:53:21.029Z",
+      "birthtime": "2018-12-08T12:53:20.810Z"
+    },
+    "57a069cb-c8e9-5bc4-85cd-3e9652c84270": {
+      "id": "57a069cb-c8e9-5bc4-85cd-3e9652c84270",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "1d99afd44848c15490b4549989941c7a",
+        "type": "Directory",
+        "description": "Directory \"content\\posts\\03-11-2018--post-5\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/03-11-2018--post-5",
+      "relativePath": "03-11-2018--post-5",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-12-08T12:53:20.888Z",
+      "accessTime": "2018-12-08T16:24:57.840Z",
+      "changeTime": "2018-12-08T12:53:20.888Z",
+      "birthTime": "2018-12-08T12:53:20.888Z",
+      "root": "C:/",
+      "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts",
+      "base": "03-11-2018--post-5",
+      "ext": "",
+      "name": "03-11-2018--post-5",
+      "relativeDirectory": "",
+      "dev": 2597077015,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 12103423998660628,
+      "atimeMs": 1544286297839.6897,
+      "mtimeMs": 1544273600888.0776,
+      "ctimeMs": 1544273600888.0776,
+      "birthtimeMs": 1544273600888.0776,
+      "atime": "2018-12-08T16:24:57.840Z",
+      "mtime": "2018-12-08T12:53:20.888Z",
+      "ctime": "2018-12-08T12:53:20.888Z",
+      "birthtime": "2018-12-08T12:53:20.888Z"
+    },
+    "0c94aea8-a7a6-5d67-b833-f411a60fe4cb": {
+      "id": "0c94aea8-a7a6-5d67-b833-f411a60fe4cb",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "6dac774ec9576bab541690ee198f9597",
+        "type": "Directory",
+        "description": "Directory \"content\\posts\\01-11-2018--post-3\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/01-11-2018--post-3",
+      "relativePath": "01-11-2018--post-3",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-12-08T12:53:20.826Z",
+      "accessTime": "2018-12-08T16:24:57.840Z",
+      "changeTime": "2018-12-08T12:53:20.826Z",
+      "birthTime": "2018-12-08T12:53:20.826Z",
+      "root": "C:/",
+      "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts",
+      "base": "01-11-2018--post-3",
+      "ext": "",
+      "name": "01-11-2018--post-3",
+      "relativeDirectory": "",
+      "dev": 2597077015,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 2533274790495294,
+      "atimeMs": 1544286297839.6897,
+      "mtimeMs": 1544273600825.5957,
+      "ctimeMs": 1544273600825.5957,
+      "birthtimeMs": 1544273600825.5957,
+      "atime": "2018-12-08T16:24:57.840Z",
+      "mtime": "2018-12-08T12:53:20.826Z",
+      "ctime": "2018-12-08T12:53:20.826Z",
+      "birthtime": "2018-12-08T12:53:20.826Z"
+    },
+    "1ecb8ccb-f8f1-5187-85df-b0164950e7e8": {
+      "id": "1ecb8ccb-f8f1-5187-85df-b0164950e7e8",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b0903dbc8a40ffa764481203ba140e2c",
+        "type": "Directory",
+        "description": "Directory \"content\\posts\\06-11-2018--post-6\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/06-11-2018--post-6",
+      "relativePath": "06-11-2018--post-6",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-12-08T12:53:20.919Z",
+      "accessTime": "2018-12-08T16:24:57.840Z",
+      "changeTime": "2018-12-08T12:53:20.919Z",
+      "birthTime": "2018-12-08T12:53:20.919Z",
+      "root": "C:/",
+      "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts",
+      "base": "06-11-2018--post-6",
+      "ext": "",
+      "name": "06-11-2018--post-6",
+      "relativeDirectory": "",
+      "dev": 2597077015,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 13510798882215328,
+      "atimeMs": 1544286297839.6897,
+      "mtimeMs": 1544273600919.3284,
+      "ctimeMs": 1544273600919.3284,
+      "birthtimeMs": 1544273600919.3284,
+      "atime": "2018-12-08T16:24:57.840Z",
+      "mtime": "2018-12-08T12:53:20.919Z",
+      "ctime": "2018-12-08T12:53:20.919Z",
+      "birthtime": "2018-12-08T12:53:20.919Z"
+    },
+    "f3b852d2-6d01-571f-8ebd-ba04353debef": {
+      "id": "f3b852d2-6d01-571f-8ebd-ba04353debef",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b3af8d66cbc4bac1dd99b8837a5ca5ab",
+        "type": "Directory",
+        "description": "Directory \"content\\posts\\02-11-2018--post-4\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/02-11-2018--post-4",
+      "relativePath": "02-11-2018--post-4",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-12-08T12:53:20.857Z",
+      "accessTime": "2018-12-08T16:24:57.840Z",
+      "changeTime": "2018-12-08T12:53:20.857Z",
+      "birthTime": "2018-12-08T12:53:20.857Z",
+      "root": "C:/",
+      "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts",
+      "base": "02-11-2018--post-4",
+      "ext": "",
+      "name": "02-11-2018--post-4",
+      "relativeDirectory": "",
+      "dev": 2597077015,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 12666373952081776,
+      "atimeMs": 1544286297839.6897,
+      "mtimeMs": 1544273600856.828,
+      "ctimeMs": 1544273600856.828,
+      "birthtimeMs": 1544273600856.828,
+      "atime": "2018-12-08T16:24:57.840Z",
+      "mtime": "2018-12-08T12:53:20.857Z",
+      "ctime": "2018-12-08T12:53:20.857Z",
+      "birthtime": "2018-12-08T12:53:20.857Z"
+    },
+    "68f9ca89-efbb-5647-997d-68ad1696e48a": {
+      "id": "68f9ca89-efbb-5647-997d-68ad1696e48a",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "e39d7e715badc86aad96d5481a7eb1d2",
+        "type": "Directory",
+        "description": "Directory \"content\\posts\\31-10-2018--post-2\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/31-10-2018--post-2",
+      "relativePath": "31-10-2018--post-2",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-12-08T12:53:21.044Z",
+      "accessTime": "2018-12-08T16:24:57.840Z",
+      "changeTime": "2018-12-08T12:53:21.044Z",
+      "birthTime": "2018-12-08T12:53:21.029Z",
+      "root": "C:/",
+      "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts",
+      "base": "31-10-2018--post-2",
+      "ext": "",
+      "name": "31-10-2018--post-2",
+      "relativeDirectory": "",
+      "dev": 2597077015,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 5629499534317563,
+      "atimeMs": 1544286297839.6897,
+      "mtimeMs": 1544273601044.3757,
+      "ctimeMs": 1544273601044.3757,
+      "birthtimeMs": 1544273601028.7026,
+      "atime": "2018-12-08T16:24:57.840Z",
+      "mtime": "2018-12-08T12:53:21.044Z",
+      "ctime": "2018-12-08T12:53:21.044Z",
+      "birthtime": "2018-12-08T12:53:21.029Z"
+    },
+    "48936a7d-62a7-5095-a771-3704309f2683": {
+      "id": "48936a7d-62a7-5095-a771-3704309f2683",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "dc2be625da24b7ac1462906c3c435e21",
+        "type": "Directory",
+        "description": "Directory \"content\\posts\\30-10-2018--hello-world\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/30-10-2018--hello-world",
+      "relativePath": "30-10-2018--hello-world",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-12-08T12:53:20.982Z",
+      "accessTime": "2018-12-08T16:24:57.840Z",
+      "changeTime": "2018-12-08T12:53:20.982Z",
+      "birthTime": "2018-12-08T12:53:20.982Z",
+      "root": "C:/",
+      "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts",
+      "base": "30-10-2018--hello-world",
+      "ext": "",
+      "name": "30-10-2018--hello-world",
+      "relativeDirectory": "",
+      "dev": 2597077015,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 4503599627474395,
+      "atimeMs": 1544286297839.6897,
+      "mtimeMs": 1544273600981.8276,
+      "ctimeMs": 1544273600981.8276,
+      "birthtimeMs": 1544273600981.8276,
+      "atime": "2018-12-08T16:24:57.840Z",
+      "mtime": "2018-12-08T12:53:20.982Z",
+      "ctime": "2018-12-08T12:53:20.982Z",
+      "birthtime": "2018-12-08T12:53:20.982Z"
+    },
+    "3f996c81-a888-5e6a-8ba5-617a460fc402": {
+      "id": "3f996c81-a888-5e6a-8ba5-617a460fc402",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d4de2b5371940de658c8a3e39e382d5b",
+        "type": "Directory",
+        "description": "Directory \"content\\posts\\03-11-2018--post-5\\images\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/03-11-2018--post-5/images",
+      "relativePath": "03-11-2018--post-5/images",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-12-08T14:20:01.697Z",
+      "accessTime": "2018-12-08T16:24:57.855Z",
+      "changeTime": "2018-12-08T14:20:01.697Z",
+      "birthTime": "2018-12-08T12:53:20.888Z",
+      "root": "C:/",
+      "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/03-11-2018--post-5",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "03-11-2018--post-5",
+      "dev": 2597077015,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 3096224743920833,
+      "atimeMs": 1544286297855.3147,
+      "mtimeMs": 1544278801696.7842,
+      "ctimeMs": 1544278801696.7842,
+      "birthtimeMs": 1544273600888.0776,
+      "atime": "2018-12-08T16:24:57.855Z",
+      "mtime": "2018-12-08T14:20:01.697Z",
+      "ctime": "2018-12-08T14:20:01.697Z",
+      "birthtime": "2018-12-08T12:53:20.888Z"
+    },
+    "012fd3bc-2127-5bde-9c23-0d54e38b693b": {
+      "id": "012fd3bc-2127-5bde-9c23-0d54e38b693b",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "75852c3e693b6768af9b751d8bccf9c6",
+        "type": "Directory",
+        "description": "Directory \"content\\posts\\01-11-2018--post-3\\images\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/01-11-2018--post-3/images",
+      "relativePath": "01-11-2018--post-3/images",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-12-08T12:53:20.841Z",
+      "accessTime": "2018-12-08T16:24:57.855Z",
+      "changeTime": "2018-12-08T12:53:20.841Z",
+      "birthTime": "2018-12-08T12:53:20.826Z",
+      "root": "C:/",
+      "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/01-11-2018--post-3",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "01-11-2018--post-3",
+      "dev": 2597077015,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 10696049115104492,
+      "atimeMs": 1544286297855.3147,
+      "mtimeMs": 1544273600841.2024,
+      "ctimeMs": 1544273600841.2024,
+      "birthtimeMs": 1544273600825.5957,
+      "atime": "2018-12-08T16:24:57.855Z",
+      "mtime": "2018-12-08T12:53:20.841Z",
+      "ctime": "2018-12-08T12:53:20.841Z",
+      "birthtime": "2018-12-08T12:53:20.826Z"
+    },
+    "6e067ff2-0a72-55a1-bfea-ef607eaf27fa": {
+      "id": "6e067ff2-0a72-55a1-bfea-ef607eaf27fa",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "e430237d60cf38be4068f067cef3ca94",
+        "type": "Directory",
+        "description": "Directory \"content\\posts\\02-11-2018--post-4\\images\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/02-11-2018--post-4/images",
+      "relativePath": "02-11-2018--post-4/images",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-12-08T12:53:20.872Z",
+      "accessTime": "2018-12-08T16:24:57.855Z",
+      "changeTime": "2018-12-08T12:53:20.872Z",
+      "birthTime": "2018-12-08T12:53:20.857Z",
+      "root": "C:/",
+      "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/02-11-2018--post-4",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "02-11-2018--post-4",
+      "dev": 2597077015,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 14355223812345752,
+      "atimeMs": 1544286297855.3147,
+      "mtimeMs": 1544273600872.453,
+      "ctimeMs": 1544273600872.453,
+      "birthtimeMs": 1544273600856.828,
+      "atime": "2018-12-08T16:24:57.855Z",
+      "mtime": "2018-12-08T12:53:20.872Z",
+      "ctime": "2018-12-08T12:53:20.872Z",
+      "birthtime": "2018-12-08T12:53:20.857Z"
+    },
+    "870560f3-049d-5884-8b96-d21c45bfe92a": {
+      "id": "870560f3-049d-5884-8b96-d21c45bfe92a",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "50aaa8b7848956f5adb9af7489343b16",
+        "type": "Directory",
+        "description": "Directory \"content\\posts\\06-11-2018--post-6\\images\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/06-11-2018--post-6/images",
+      "relativePath": "06-11-2018--post-6/images",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-12-08T14:09:18.391Z",
+      "accessTime": "2018-12-08T16:24:57.855Z",
+      "changeTime": "2018-12-08T14:09:18.391Z",
+      "birthTime": "2018-12-08T12:53:20.919Z",
+      "root": "C:/",
+      "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/06-11-2018--post-6",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "06-11-2018--post-6",
+      "dev": 2597077015,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 6755399441159633,
+      "atimeMs": 1544286297855.3147,
+      "mtimeMs": 1544278158391.4846,
+      "ctimeMs": 1544278158391.4846,
+      "birthtimeMs": 1544273600919.3284,
+      "atime": "2018-12-08T16:24:57.855Z",
+      "mtime": "2018-12-08T14:09:18.391Z",
+      "ctime": "2018-12-08T14:09:18.391Z",
+      "birthtime": "2018-12-08T12:53:20.919Z"
+    },
+    "fad997be-bba7-5a65-81a2-d6e93833179b": {
+      "id": "fad997be-bba7-5a65-81a2-d6e93833179b",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "cad588248db3494b8ed81a9a0c85a3f8",
+        "type": "Directory",
+        "description": "Directory \"content\\posts\\31-10-2018--post-2\\images\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/31-10-2018--post-2/images",
+      "relativePath": "31-10-2018--post-2/images",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-12-08T12:53:21.060Z",
+      "accessTime": "2018-12-08T16:24:57.855Z",
+      "changeTime": "2018-12-08T12:53:21.060Z",
+      "birthTime": "2018-12-08T12:53:21.044Z",
+      "root": "C:/",
+      "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/31-10-2018--post-2",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "31-10-2018--post-2",
+      "dev": 2597077015,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 5066549580896258,
+      "atimeMs": 1544286297855.3147,
+      "mtimeMs": 1544273601060.004,
+      "ctimeMs": 1544273601060.004,
+      "birthtimeMs": 1544273601044.3757,
+      "atime": "2018-12-08T16:24:57.855Z",
+      "mtime": "2018-12-08T12:53:21.060Z",
+      "ctime": "2018-12-08T12:53:21.060Z",
+      "birthtime": "2018-12-08T12:53:21.044Z"
+    },
+    "b29abd37-1af9-5021-ae91-9db3585d030b": {
+      "id": "b29abd37-1af9-5021-ae91-9db3585d030b",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "0403e3ce67b7ba84b7d576a19374e75d",
+        "type": "Directory",
+        "description": "Directory \"content\\posts\\30-10-2018--hello-world\\images\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/30-10-2018--hello-world/images",
+      "relativePath": "30-10-2018--hello-world/images",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-12-08T12:53:21.013Z",
+      "accessTime": "2018-12-08T16:24:57.855Z",
+      "changeTime": "2018-12-08T12:53:21.013Z",
+      "birthTime": "2018-12-08T12:53:20.982Z",
+      "root": "C:/",
+      "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/30-10-2018--hello-world",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "30-10-2018--hello-world",
+      "dev": 2597077015,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 6473924464449459,
+      "atimeMs": 1544286297855.3147,
+      "mtimeMs": 1544273601013.0798,
+      "ctimeMs": 1544273601013.0798,
+      "birthtimeMs": 1544273600981.8276,
+      "atime": "2018-12-08T16:24:57.855Z",
+      "mtime": "2018-12-08T12:53:21.013Z",
+      "ctime": "2018-12-08T12:53:21.013Z",
+      "birthtime": "2018-12-08T12:53:20.982Z"
+    },
+    "6b77e007-42c6-54fa-b950-aa8df35b09a3": {
+      "id": "6b77e007-42c6-54fa-b950-aa8df35b09a3",
+      "children": [
+        "46c6e461-d73f-5ae7-b762-b855cb0b231f"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b76bf5bb0cdcc737151d0a3ee4001bbf",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content\\posts\\03-11-2018--post-5\\index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/03-11-2018--post-5/index.md",
+      "relativePath": "03-11-2018--post-5/index.md",
+      "extension": "md",
+      "size": 4034,
+      "prettySize": "4.03 kB",
+      "modifiedTime": "2018-12-08T14:37:11.068Z",
+      "accessTime": "2018-12-08T15:08:04.614Z",
+      "changeTime": "2018-12-08T14:37:11.068Z",
+      "birthTime": "2018-12-08T12:53:20.888Z",
+      "root": "C:/",
+      "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/03-11-2018--post-5",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "03-11-2018--post-5",
+      "dev": 2597077015,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 10133099161686764,
+      "atimeMs": 1544281684613.9717,
+      "mtimeMs": 1544279831067.5164,
+      "ctimeMs": 1544279831067.5164,
+      "birthtimeMs": 1544273600888.0776,
+      "atime": "2018-12-08T15:08:04.614Z",
+      "mtime": "2018-12-08T14:37:11.068Z",
+      "ctime": "2018-12-08T14:37:11.068Z",
+      "birthtime": "2018-12-08T12:53:20.888Z"
+    },
+    "53768703-b905-5559-a0db-b36b1ebeaad1": {
+      "id": "53768703-b905-5559-a0db-b36b1ebeaad1",
+      "children": [
+        "5cf42cbc-cd47-5527-999b-8f87ffced445"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "fd097b4f0bfd131a155a58ba281ddd85",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content\\posts\\01-11-2018--post-3\\index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/01-11-2018--post-3/index.md",
+      "relativePath": "01-11-2018--post-3/index.md",
+      "extension": "md",
+      "size": 2282,
+      "prettySize": "2.28 kB",
+      "modifiedTime": "2018-12-06T19:58:27.703Z",
+      "accessTime": "2018-12-08T15:45:08.359Z",
+      "changeTime": "2018-12-06T19:58:27.703Z",
+      "birthTime": "2018-12-08T12:53:20.826Z",
+      "root": "C:/",
+      "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/01-11-2018--post-3",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "01-11-2018--post-3",
+      "dev": 2597077015,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 2814749767205956,
+      "atimeMs": 1544283908358.7546,
+      "mtimeMs": 1544126307703.0999,
+      "ctimeMs": 1544126307703.0999,
+      "birthtimeMs": 1544273600825.5957,
+      "atime": "2018-12-08T15:45:08.359Z",
+      "mtime": "2018-12-06T19:58:27.703Z",
+      "ctime": "2018-12-06T19:58:27.703Z",
+      "birthtime": "2018-12-08T12:53:20.826Z"
+    },
+    "1fb298ad-a7f1-53ac-bf9a-0d3b954a23ff": {
+      "id": "1fb298ad-a7f1-53ac-bf9a-0d3b954a23ff",
+      "children": [
+        "5476b69e-a803-5790-9b8b-e99062ec2c8e"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "4774e863ec752a42846e20a834e5b515",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content\\posts\\02-11-2018--post-4\\index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/02-11-2018--post-4/index.md",
+      "relativePath": "02-11-2018--post-4/index.md",
+      "extension": "md",
+      "size": 2190,
+      "prettySize": "2.19 kB",
+      "modifiedTime": "2018-12-06T19:58:27.764Z",
+      "accessTime": "2018-12-08T15:08:04.637Z",
+      "changeTime": "2018-12-06T19:58:27.764Z",
+      "birthTime": "2018-12-08T12:53:20.857Z",
+      "root": "C:/",
+      "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/02-11-2018--post-4",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "02-11-2018--post-4",
+      "dev": 2597077015,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 30399297484853130,
+      "atimeMs": 1544281684636.9858,
+      "mtimeMs": 1544126307764.099,
+      "ctimeMs": 1544126307764.099,
+      "birthtimeMs": 1544273600856.828,
+      "atime": "2018-12-08T15:08:04.637Z",
+      "mtime": "2018-12-06T19:58:27.764Z",
+      "ctime": "2018-12-06T19:58:27.764Z",
+      "birthtime": "2018-12-08T12:53:20.857Z"
+    },
+    "a47d7f52-58b4-5d5c-ae12-17b8dcd2e46b": {
+      "id": "a47d7f52-58b4-5d5c-ae12-17b8dcd2e46b",
+      "children": [
+        "c94dd025-76d3-52b9-8414-a174a2ba5a3d"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "4e75192ce487d069271b78e1f432e5f9",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content\\posts\\06-11-2018--post-6\\index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/06-11-2018--post-6/index.md",
+      "relativePath": "06-11-2018--post-6/index.md",
+      "extension": "md",
+      "size": 2149,
+      "prettySize": "2.15 kB",
+      "modifiedTime": "2018-12-08T14:37:30.573Z",
+      "accessTime": "2018-12-08T15:08:04.614Z",
+      "changeTime": "2018-12-08T14:37:30.573Z",
+      "birthTime": "2018-12-08T12:53:20.919Z",
+      "root": "C:/",
+      "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/06-11-2018--post-6",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "06-11-2018--post-6",
+      "dev": 2597077015,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 4503599627474378,
+      "atimeMs": 1544281684613.9717,
+      "mtimeMs": 1544279850573.232,
+      "ctimeMs": 1544279850573.232,
+      "birthtimeMs": 1544273600919.3284,
+      "atime": "2018-12-08T15:08:04.614Z",
+      "mtime": "2018-12-08T14:37:30.573Z",
+      "ctime": "2018-12-08T14:37:30.573Z",
+      "birthtime": "2018-12-08T12:53:20.919Z"
+    },
+    "0bd72cb5-5a0f-5c2a-8d2a-761590bd7ed1": {
+      "id": "0bd72cb5-5a0f-5c2a-8d2a-761590bd7ed1",
+      "children": [
+        "4506ea4c-ea45-5e6a-9f88-286bedc5179a"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "f1d4f11dcc38796cea6727feb2d5f57a",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content\\posts\\30-10-2018--hello-world\\index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/30-10-2018--hello-world/index.md",
+      "relativePath": "30-10-2018--hello-world/index.md",
+      "extension": "md",
+      "size": 2202,
+      "prettySize": "2.2 kB",
+      "modifiedTime": "2018-12-06T19:58:27.921Z",
+      "accessTime": "2018-12-08T15:08:04.637Z",
+      "changeTime": "2018-12-06T19:58:27.921Z",
+      "birthTime": "2018-12-08T12:53:20.982Z",
+      "root": "C:/",
+      "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/30-10-2018--hello-world",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "30-10-2018--hello-world",
+      "dev": 2597077015,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 5348024557606442,
+      "atimeMs": 1544281684636.9858,
+      "mtimeMs": 1544126307921.16,
+      "ctimeMs": 1544126307921.16,
+      "birthtimeMs": 1544273600981.8276,
+      "atime": "2018-12-08T15:08:04.637Z",
+      "mtime": "2018-12-06T19:58:27.921Z",
+      "ctime": "2018-12-06T19:58:27.921Z",
+      "birthtime": "2018-12-08T12:53:20.982Z"
+    },
+    "dbc71141-8a4f-550c-9690-10d637fe9700": {
+      "id": "dbc71141-8a4f-550c-9690-10d637fe9700",
+      "children": [
+        "2afac183-5e03-5882-afe8-69d5b98ccd93"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "936b28072d77bee87e20fe653b4e5c34",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content\\posts\\31-10-2018--post-2\\index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/31-10-2018--post-2/index.md",
+      "relativePath": "31-10-2018--post-2/index.md",
+      "extension": "md",
+      "size": 2187,
+      "prettySize": "2.19 kB",
+      "modifiedTime": "2018-12-06T19:58:27.943Z",
+      "accessTime": "2018-12-08T15:08:04.637Z",
+      "changeTime": "2018-12-06T19:58:27.943Z",
+      "birthTime": "2018-12-08T12:53:21.044Z",
+      "root": "C:/",
+      "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/31-10-2018--post-2",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "31-10-2018--post-2",
+      "dev": 2597077015,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 5629499534317566,
+      "atimeMs": 1544281684636.9858,
+      "mtimeMs": 1544126307943.0972,
+      "ctimeMs": 1544126307943.0972,
+      "birthtimeMs": 1544273601044.3757,
+      "atime": "2018-12-08T15:08:04.637Z",
+      "mtime": "2018-12-06T19:58:27.943Z",
+      "ctime": "2018-12-06T19:58:27.943Z",
+      "birthtime": "2018-12-08T12:53:21.044Z"
+    },
+    "a3476812-6b2f-5b14-b854-49f09f0e1125": {
+      "id": "a3476812-6b2f-5b14-b854-49f09f0e1125",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "2ce0de50e49982a70f369639cc040289",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\03-11-2018--post-5\\images\\hvar.JPG\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/03-11-2018--post-5/images/hvar.JPG",
+      "relativePath": "03-11-2018--post-5/images/hvar.JPG",
+      "extension": "jpg",
+      "size": 120287,
+      "prettySize": "120 kB",
+      "modifiedTime": "2018-12-08T14:19:14.644Z",
+      "accessTime": "2018-12-08T15:08:04.614Z",
+      "changeTime": "2018-12-08T14:19:14.644Z",
+      "birthTime": "2018-12-08T14:19:14.493Z",
+      "root": "C:/",
+      "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/03-11-2018--post-5/images",
+      "base": "hvar.JPG",
+      "ext": ".JPG",
+      "name": "hvar",
+      "relativeDirectory": "03-11-2018--post-5\\images",
+      "dev": 2597077015,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 69524319247546744,
+      "atimeMs": 1544281684613.9717,
+      "mtimeMs": 1544278754643.8289,
+      "ctimeMs": 1544278754643.8289,
+      "birthtimeMs": 1544278754492.8186,
+      "atime": "2018-12-08T15:08:04.614Z",
+      "mtime": "2018-12-08T14:19:14.644Z",
+      "ctime": "2018-12-08T14:19:14.644Z",
+      "birthtime": "2018-12-08T14:19:14.493Z"
+    },
+    "a607a2bb-134c-5bb2-9ad9-97481b58eff2": {
+      "id": "a607a2bb-134c-5bb2-9ad9-97481b58eff2",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "aad60012614f6a8427551f4224257b37",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\03-11-2018--post-5\\images\\split.JPG\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/03-11-2018--post-5/images/split.JPG",
+      "relativePath": "03-11-2018--post-5/images/split.JPG",
+      "extension": "jpg",
+      "size": 116555,
+      "prettySize": "117 kB",
+      "modifiedTime": "2018-12-08T14:18:17.018Z",
+      "accessTime": "2018-12-08T15:08:04.630Z",
+      "changeTime": "2018-12-08T14:18:17.018Z",
+      "birthTime": "2018-12-08T14:18:16.810Z",
+      "root": "C:/",
+      "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/03-11-2018--post-5/images",
+      "base": "split.JPG",
+      "ext": ".JPG",
+      "name": "split",
+      "relativeDirectory": "03-11-2018--post-5\\images",
+      "dev": 2597077015,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 4785074604807442,
+      "atimeMs": 1544281684629.5964,
+      "mtimeMs": 1544278697018.4226,
+      "ctimeMs": 1544278697018.4226,
+      "birthtimeMs": 1544278696809.8267,
+      "atime": "2018-12-08T15:08:04.630Z",
+      "mtime": "2018-12-08T14:18:17.018Z",
+      "ctime": "2018-12-08T14:18:17.018Z",
+      "birthtime": "2018-12-08T14:18:16.810Z"
+    },
+    "b8064db4-f44c-558d-a232-98369e0adf68": {
+      "id": "b8064db4-f44c-558d-a232-98369e0adf68",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "161be5391dd89c008e81002caeee6465",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\03-11-2018--post-5\\images\\mljet.JPG\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/03-11-2018--post-5/images/mljet.JPG",
+      "relativePath": "03-11-2018--post-5/images/mljet.JPG",
+      "extension": "jpg",
+      "size": 67088,
+      "prettySize": "67.1 kB",
+      "modifiedTime": "2018-12-08T14:19:35.883Z",
+      "accessTime": "2018-12-08T15:08:04.630Z",
+      "changeTime": "2018-12-08T16:24:15.479Z",
+      "birthTime": "2018-12-08T14:19:35.726Z",
+      "root": "C:/",
+      "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/03-11-2018--post-5/images",
+      "base": "mljet.JPG",
+      "ext": ".JPG",
+      "name": "mljet",
+      "relativeDirectory": "03-11-2018--post-5\\images",
+      "dev": 2597077015,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 123848989752689800,
+      "atimeMs": 1544281684629.5964,
+      "mtimeMs": 1544278775882.7861,
+      "ctimeMs": 1544286255478.871,
+      "birthtimeMs": 1544278775726.4272,
+      "atime": "2018-12-08T15:08:04.630Z",
+      "mtime": "2018-12-08T14:19:35.883Z",
+      "ctime": "2018-12-08T16:24:15.479Z",
+      "birthtime": "2018-12-08T14:19:35.726Z"
+    },
+    "a0c5d73d-40c9-52b2-8439-c4ac0e0eba94": {
+      "id": "a0c5d73d-40c9-52b2-8439-c4ac0e0eba94",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "0ec2c854b7bec233bf34c4baf22871a9",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\03-11-2018--post-5\\images\\makarska.JPG\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/03-11-2018--post-5/images/makarska.JPG",
+      "relativePath": "03-11-2018--post-5/images/makarska.JPG",
+      "extension": "jpg",
+      "size": 76297,
+      "prettySize": "76.3 kB",
+      "modifiedTime": "2018-12-08T14:20:01.723Z",
+      "accessTime": "2018-12-08T15:08:04.630Z",
+      "changeTime": "2018-12-08T16:24:15.480Z",
+      "birthTime": "2018-12-08T14:20:01.548Z",
+      "root": "C:/",
+      "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/03-11-2018--post-5/images",
+      "base": "makarska.JPG",
+      "ext": ".JPG",
+      "name": "makarska",
+      "relativeDirectory": "03-11-2018--post-5\\images",
+      "dev": 2597077015,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 19984723346471280,
+      "atimeMs": 1544281684629.5964,
+      "mtimeMs": 1544278801722.7937,
+      "ctimeMs": 1544286255479.8704,
+      "birthtimeMs": 1544278801547.7375,
+      "atime": "2018-12-08T15:08:04.630Z",
+      "mtime": "2018-12-08T14:20:01.723Z",
+      "ctime": "2018-12-08T16:24:15.480Z",
+      "birthtime": "2018-12-08T14:20:01.548Z"
+    },
+    "1b7bc842-0612-5655-b085-663add848d44": {
+      "id": "1b7bc842-0612-5655-b085-663add848d44",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "22e5424ced8c76e5251c68fbf92b253d",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\06-11-2018--post-6\\images\\why-you-should-see-the-dalmatian-coast.JPG\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/06-11-2018--post-6/images/why-you-should-see-the-dalmatian-coast.JPG",
+      "relativePath": "06-11-2018--post-6/images/why-you-should-see-the-dalmatian-coast.JPG",
+      "extension": "jpg",
+      "size": 53950,
+      "prettySize": "54 kB",
+      "modifiedTime": "2018-12-08T14:06:10.862Z",
+      "accessTime": "2018-12-08T15:08:04.614Z",
+      "changeTime": "2018-12-08T14:09:47.210Z",
+      "birthTime": "2018-12-08T14:06:10.610Z",
+      "root": "C:/",
+      "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/06-11-2018--post-6/images",
+      "base": "why-you-should-see-the-dalmatian-coast.JPG",
+      "ext": ".JPG",
+      "name": "why-you-should-see-the-dalmatian-coast",
+      "relativeDirectory": "06-11-2018--post-6\\images",
+      "dev": 2597077015,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 79375943432410620,
+      "atimeMs": 1544281684613.9717,
+      "mtimeMs": 1544277970861.9294,
+      "ctimeMs": 1544278187209.9763,
+      "birthtimeMs": 1544277970610.035,
+      "atime": "2018-12-08T15:08:04.614Z",
+      "mtime": "2018-12-08T14:06:10.862Z",
+      "ctime": "2018-12-08T14:09:47.210Z",
+      "birthtime": "2018-12-08T14:06:10.610Z"
+    },
+    "46329daa-14f7-5177-9ff3-685c7a68390f": {
+      "id": "46329daa-14f7-5177-9ff3-685c7a68390f",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "4380c5114c28cffdf917c788feea29b9",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\06-11-2018--post-6\\images\\why-you-should-see-the-dalmatian-coast2.JPG\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/06-11-2018--post-6/images/why-you-should-see-the-dalmatian-coast2.JPG",
+      "relativePath": "06-11-2018--post-6/images/why-you-should-see-the-dalmatian-coast2.JPG",
+      "extension": "jpg",
+      "size": 77415,
+      "prettySize": "77.4 kB",
+      "modifiedTime": "2018-12-08T14:07:21.914Z",
+      "accessTime": "2018-12-08T15:08:04.630Z",
+      "changeTime": "2018-12-08T14:09:45.601Z",
+      "birthTime": "2018-12-08T14:07:21.702Z",
+      "root": "C:/",
+      "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/06-11-2018--post-6/images",
+      "base": "why-you-should-see-the-dalmatian-coast2.JPG",
+      "ext": ".JPG",
+      "name": "why-you-should-see-the-dalmatian-coast2",
+      "relativeDirectory": "06-11-2018--post-6\\images",
+      "dev": 2597077015,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 78812993478993570,
+      "atimeMs": 1544281684629.5964,
+      "mtimeMs": 1544278041913.6338,
+      "ctimeMs": 1544278185601.2808,
+      "birthtimeMs": 1544278041702.12,
+      "atime": "2018-12-08T15:08:04.630Z",
+      "mtime": "2018-12-08T14:07:21.914Z",
+      "ctime": "2018-12-08T14:09:45.601Z",
+      "birthtime": "2018-12-08T14:07:21.702Z"
+    },
+    "46c6e461-d73f-5ae7-b762-b855cb0b231f": {
+      "id": "46c6e461-d73f-5ae7-b762-b855cb0b231f",
+      "children": [],
+      "parent": "6b77e007-42c6-54fa-b950-aa8df35b09a3",
+      "internal": {
+        "content": "\r\n<!-- markdownlint-disable MD033 -->\r\n\r\n## Split\r\n\r\n<figure class=\"figure\">\r\n    <img src=\"./images/split.JPG\" alt=\"Split\"/>\r\n    <figcaption class=\"figure__caption\">Split’s Riva</figcaption>\r\n</figure>\r\n\r\nI started my journey here, flying into Split Airport before taking a taxi into the city. Flights arrive here daily from throughout Europe. I stayed at Silver Gate Hostel for two nights, a simple hostel on the top floor of a building without elevators, which was right across from the entrance to Diocletian’s Palace. In my opinion, this was the best place to start my trip, as it’s a much smaller port and less touristy than Dubrovnik on the other end of the coast. Climb to the top of the bell tower for the best views in town.\r\n\r\nSpend your days here walking the Riva, the main promenade in town, where you’ll find plenty of cafes with outdoor dining, shops and ice cream shops. After you’ve wandered the walls of Diocletian’s Palace, stop by the farmer’s market, which often sets up outside. If you have time, take a tour of the city, which can teach you about the food culture, history, and Game of Thrones landmarks. Stop by the konobas for a bite or grab a slice of pizza from one of the local shops.\r\n\r\n## Hvar\r\n\r\n<figure class=\"figure\">\r\n    <img src=\"./images/hvar.JPG\" alt=\"Hvar\"/>\r\n    <figcaption class=\"figure__caption\">Overlooking Hvar\r\n</figcaption>\r\n</figure>\r\n\r\nThis town is known for celebrity-spotting, as notable names like Beyonce and Jay Z have been seen here. It’s a beautiful place whether you see some or not. Start with a climb to the top of the hill to the Fortress for the best views at sunset. Then have a casual dinner in town to prepare yourself for a big night out. If you have extra time, visit one of the historic cathedrals and monasteries.\r\n\r\nFor its relatively small size, Hvar is a party town and comes to life when the sun goes down. Kiva Bar is odd, but fun, with a tree growing in the middle of it. Get the tequila boom boom shot, which is mixed against a helmet the drinker must wear on their head. Carpe Diem Beach Stipanska is another favorite, a day and night club for lounging off your hangover or partying all night.\r\n\r\n## Mljet\r\n\r\n<figure class=\"figure\">\r\n    <img src=\"./images/mljet.JPG\" alt=\"Mljet\"/>\r\n    <figcaption class=\"figure__caption\">Mljet National Park</figcaption>\r\n</figure>\r\n\r\nThe southernmost island you might visit is Mljet, home to a national park that makes up most of the land. The population is less than 2,000, so your dining options are limited to a handful of restaurants that may have seasonal hours. It also depends on where you dock, but I found a simple restaurant offering pizza in the Pomena area, a short walk from the entrance to the park. The area was discovered before 6 BC when Greco-Roman geographers arrived to survey the land. The national park includes two large saltwater lakes, one of which is pictured. This is the best island for getting active, whether that means laying out, swimming in the lake, hiking or biking around the island.\r\n\r\n\r\n## Makarska\r\n\r\n<figure class=\"figure\">\r\n    <img src=\"./images/makarska.JPG\" alt=\"Makarska\"/>\r\n    <figcaption class=\"figure__caption\">Makarska Riviera</figcaption>\r\n</figure>\r\n\r\nLarge mountains crash into clear ocean in Makarska, a resort town with plenty of shops, restaurants and nightlife. Spend time at the rocky beach, pictured, which is the perfect place to cool off in the summer months. As with other towns on the coast, Makarska has historic churches and monasteries worth a visit. You’ll find more hotels here than elsewhere on the coast, with the exceptions being Split and Dubrovnik, so splurge on a nice place to stay and an authentic, local meal. The only exception is Hostel Yeti, a new accommodation near the nightlife district. End your night at Deep Makarska, a nightclub in a cave.\r\n\r\n# [Source](https://www.carolineinthecityblog.com/2016/03/17/guide-croatias-dalmatian-coast/)\r\n\r\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "9b3a95785152a0ef2f4ab2dd40702378",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Where to Go?",
+        "date": "2018-11-03",
+        "slug": "where-to-go-post",
+        "_PARENT": "6b77e007-42c6-54fa-b950-aa8df35b09a3"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\r\n<!-- markdownlint-disable MD033 -->\r\n\r\n## Split\r\n\r\n<figure class=\"figure\">\r\n    <img src=\"./images/split.JPG\" alt=\"Split\"/>\r\n    <figcaption class=\"figure__caption\">Split’s Riva</figcaption>\r\n</figure>\r\n\r\nI started my journey here, flying into Split Airport before taking a taxi into the city. Flights arrive here daily from throughout Europe. I stayed at Silver Gate Hostel for two nights, a simple hostel on the top floor of a building without elevators, which was right across from the entrance to Diocletian’s Palace. In my opinion, this was the best place to start my trip, as it’s a much smaller port and less touristy than Dubrovnik on the other end of the coast. Climb to the top of the bell tower for the best views in town.\r\n\r\nSpend your days here walking the Riva, the main promenade in town, where you’ll find plenty of cafes with outdoor dining, shops and ice cream shops. After you’ve wandered the walls of Diocletian’s Palace, stop by the farmer’s market, which often sets up outside. If you have time, take a tour of the city, which can teach you about the food culture, history, and Game of Thrones landmarks. Stop by the konobas for a bite or grab a slice of pizza from one of the local shops.\r\n\r\n## Hvar\r\n\r\n<figure class=\"figure\">\r\n    <img src=\"./images/hvar.JPG\" alt=\"Hvar\"/>\r\n    <figcaption class=\"figure__caption\">Overlooking Hvar\r\n</figcaption>\r\n</figure>\r\n\r\nThis town is known for celebrity-spotting, as notable names like Beyonce and Jay Z have been seen here. It’s a beautiful place whether you see some or not. Start with a climb to the top of the hill to the Fortress for the best views at sunset. Then have a casual dinner in town to prepare yourself for a big night out. If you have extra time, visit one of the historic cathedrals and monasteries.\r\n\r\nFor its relatively small size, Hvar is a party town and comes to life when the sun goes down. Kiva Bar is odd, but fun, with a tree growing in the middle of it. Get the tequila boom boom shot, which is mixed against a helmet the drinker must wear on their head. Carpe Diem Beach Stipanska is another favorite, a day and night club for lounging off your hangover or partying all night.\r\n\r\n## Mljet\r\n\r\n<figure class=\"figure\">\r\n    <img src=\"./images/mljet.JPG\" alt=\"Mljet\"/>\r\n    <figcaption class=\"figure__caption\">Mljet National Park</figcaption>\r\n</figure>\r\n\r\nThe southernmost island you might visit is Mljet, home to a national park that makes up most of the land. The population is less than 2,000, so your dining options are limited to a handful of restaurants that may have seasonal hours. It also depends on where you dock, but I found a simple restaurant offering pizza in the Pomena area, a short walk from the entrance to the park. The area was discovered before 6 BC when Greco-Roman geographers arrived to survey the land. The national park includes two large saltwater lakes, one of which is pictured. This is the best island for getting active, whether that means laying out, swimming in the lake, hiking or biking around the island.\r\n\r\n\r\n## Makarska\r\n\r\n<figure class=\"figure\">\r\n    <img src=\"./images/makarska.JPG\" alt=\"Makarska\"/>\r\n    <figcaption class=\"figure__caption\">Makarska Riviera</figcaption>\r\n</figure>\r\n\r\nLarge mountains crash into clear ocean in Makarska, a resort town with plenty of shops, restaurants and nightlife. Spend time at the rocky beach, pictured, which is the perfect place to cool off in the summer months. As with other towns on the coast, Makarska has historic churches and monasteries worth a visit. You’ll find more hotels here than elsewhere on the coast, with the exceptions being Split and Dubrovnik, so splurge on a nice place to stay and an authentic, local meal. The only exception is Hostel Yeti, a new accommodation near the nightlife district. End your night at Deep Makarska, a nightclub in a cave.\r\n\r\n# [Source](https://www.carolineinthecityblog.com/2016/03/17/guide-croatias-dalmatian-coast/)\r\n\r\n",
+      "fileAbsolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/03-11-2018--post-5/index.md"
+    },
+    "5cf42cbc-cd47-5527-999b-8f87ffced445": {
+      "id": "5cf42cbc-cd47-5527-999b-8f87ffced445",
+      "children": [],
+      "parent": "53768703-b905-5559-a0db-b36b1ebeaad1",
+      "internal": {
+        "content": "<!-- frontmetter je ovo troje -->\r\n\r\n<!-- markdownlint-disable MD033 -->\r\n\r\n<!-- pomocu plugina gatsby md pretvori u html -->\r\n\r\n# [Lorem Ipsum](https://www.lipsum.com/)\r\n\r\n<figure class=\"figure\">\r\n    <img src=\"./images/geran-de-klerk-136351-unsplash.jpg\" alt=\"Title\"/>\r\n    <figcaption class=\"figure__caption\">Title</figcaption>\r\n</figure>\r\n\r\n## What is Lorem Ipsum\r\n\r\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\r\n\r\n## Where does it come from?\r\n\r\n<figure class=\"figure\">\r\n    <img src=\"./images/nathan-anderson-443540-unsplash.jpg\" alt=\"Title\"/>\r\n    <figcaption class=\"figure__caption\">Title</figcaption>\r\n</figure>\r\n\r\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\r\n\r\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\r\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "53e42bf34b84e4c5ad3c1301e9d13070",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Post 3",
+        "date": "2018-11-01",
+        "slug": "post-three",
+        "_PARENT": "53768703-b905-5559-a0db-b36b1ebeaad1"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "<!-- frontmetter je ovo troje -->\r\n\r\n<!-- markdownlint-disable MD033 -->\r\n\r\n<!-- pomocu plugina gatsby md pretvori u html -->\r\n\r\n# [Lorem Ipsum](https://www.lipsum.com/)\r\n\r\n<figure class=\"figure\">\r\n    <img src=\"./images/geran-de-klerk-136351-unsplash.jpg\" alt=\"Title\"/>\r\n    <figcaption class=\"figure__caption\">Title</figcaption>\r\n</figure>\r\n\r\n## What is Lorem Ipsum\r\n\r\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\r\n\r\n## Where does it come from?\r\n\r\n<figure class=\"figure\">\r\n    <img src=\"./images/nathan-anderson-443540-unsplash.jpg\" alt=\"Title\"/>\r\n    <figcaption class=\"figure__caption\">Title</figcaption>\r\n</figure>\r\n\r\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\r\n\r\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\r\n",
+      "fileAbsolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/01-11-2018--post-3/index.md"
+    },
+    "c94dd025-76d3-52b9-8414-a174a2ba5a3d": {
+      "id": "c94dd025-76d3-52b9-8414-a174a2ba5a3d",
+      "children": [],
+      "parent": "a47d7f52-58b4-5d5c-ae12-17b8dcd2e46b",
+      "internal": {
+        "content": "\r\n<!-- markdownlint-disable MD033 -->\r\n\r\n<figure class=\"figure\">\r\n    <img src=\"./images/why-you-should-see-the-dalmatian-coast.JPG\" alt=\"Dalmatian Coast\"/>\r\n    <figcaption class=\"figure__caption\">Sunset</figcaption>\r\n</figure>\r\n\r\nSo why visit the Dalmatian Coast of Croatia at all? While there’s plenty to see in cities like Zagreb and Zadar, the long, thin nation is mostly coastline. Much of its history is based in this area too, which starts with Roman settlements. It’s also, arguably, the most beautiful area of the country. Crystal blue waters of the Adriatic and barrier islands make it a popular spot with vacationers from Britain and Australia, as well as the rest of Europe. Americans don’t seem to have caught on quite yet, as I only met one other while I was there.\r\n\r\n## What to Expect?\r\n\r\n<figure class=\"figure\">\r\n    <img src=\"./images/why-you-should-see-the-dalmatian-coast2.JPG\" alt=\"Dalmatian Food\"/>\r\n    <figcaption class=\"figure__caption\">Croatian food</figcaption>\r\n</figure>\r\n\r\nWhile the cost of traveling in Croatia may have gone up in the last six years, it’s still a great value destination. Distances aren’t very far so you can take public transportation very cheaply and easily. Food is delicious, especially on the coast where seafood is plentiful. The cuisine is similar to what you’ll find in Italy and the Balkans, including whole fish, risottos, and sausage platters. Konobas are the Croatian versions of trattorias, simple family-run eateries that have the best meals and prices.\r\n\r\nDon’t worry about drinking the water here, as they have Roman aqueducts. It is, in my opinion, the best drinking water in the world. If you want something stronger, you can do it very cheaply. Beer from brands like Ozujsko and Karlovacko are very drinkable, especially if you’re cooling off after spending a day at the beach. Liquor is more expensive, but rakija is the national firewater.\r\n\r\n# [Source](https://www.carolineinthecityblog.com/2016/03/17/guide-croatias-dalmatian-coast/)\r\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "66ca8c48323e953cca1fcbe3c57c6dea",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Why You Should See the Dalmatian Coast?",
+        "date": "2018-11-06",
+        "slug": "why-you-should-see-the-dalmatian-coast",
+        "_PARENT": "a47d7f52-58b4-5d5c-ae12-17b8dcd2e46b"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\r\n<!-- markdownlint-disable MD033 -->\r\n\r\n<figure class=\"figure\">\r\n    <img src=\"./images/why-you-should-see-the-dalmatian-coast.JPG\" alt=\"Dalmatian Coast\"/>\r\n    <figcaption class=\"figure__caption\">Sunset</figcaption>\r\n</figure>\r\n\r\nSo why visit the Dalmatian Coast of Croatia at all? While there’s plenty to see in cities like Zagreb and Zadar, the long, thin nation is mostly coastline. Much of its history is based in this area too, which starts with Roman settlements. It’s also, arguably, the most beautiful area of the country. Crystal blue waters of the Adriatic and barrier islands make it a popular spot with vacationers from Britain and Australia, as well as the rest of Europe. Americans don’t seem to have caught on quite yet, as I only met one other while I was there.\r\n\r\n## What to Expect?\r\n\r\n<figure class=\"figure\">\r\n    <img src=\"./images/why-you-should-see-the-dalmatian-coast2.JPG\" alt=\"Dalmatian Food\"/>\r\n    <figcaption class=\"figure__caption\">Croatian food</figcaption>\r\n</figure>\r\n\r\nWhile the cost of traveling in Croatia may have gone up in the last six years, it’s still a great value destination. Distances aren’t very far so you can take public transportation very cheaply and easily. Food is delicious, especially on the coast where seafood is plentiful. The cuisine is similar to what you’ll find in Italy and the Balkans, including whole fish, risottos, and sausage platters. Konobas are the Croatian versions of trattorias, simple family-run eateries that have the best meals and prices.\r\n\r\nDon’t worry about drinking the water here, as they have Roman aqueducts. It is, in my opinion, the best drinking water in the world. If you want something stronger, you can do it very cheaply. Beer from brands like Ozujsko and Karlovacko are very drinkable, especially if you’re cooling off after spending a day at the beach. Liquor is more expensive, but rakija is the national firewater.\r\n\r\n# [Source](https://www.carolineinthecityblog.com/2016/03/17/guide-croatias-dalmatian-coast/)\r\n",
+      "fileAbsolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/06-11-2018--post-6/index.md"
+    },
+    "5476b69e-a803-5790-9b8b-e99062ec2c8e": {
+      "id": "5476b69e-a803-5790-9b8b-e99062ec2c8e",
+      "children": [],
+      "parent": "1fb298ad-a7f1-53ac-bf9a-0d3b954a23ff",
+      "internal": {
+        "content": "\r\n<!-- markdownlint-disable MD033 -->\r\n\r\n# [Lorem Ipsum](https://www.lipsum.com/)\r\n\r\n<figure class=\"figure\">\r\n    <img src=\"./images/austin-neill-222827-unsplash.jpg\" alt=\"Title\"/>\r\n    <figcaption class=\"figure__caption\">Title</figcaption>\r\n</figure>\r\n\r\n## What is Lorem Ipsum\r\n\r\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\r\n\r\n## Where does it come from?\r\n\r\n<figure class=\"figure\">\r\n    <img src=\"./images/clem-onojeghuo-203219-unsplash.jpg\" alt=\"Title\"/>\r\n    <figcaption class=\"figure__caption\">Title</figcaption>\r\n</figure>\r\n\r\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\r\n\r\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\r\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "99ecd73e6b5f28eb431aad17b4a0f9a2",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Post 4",
+        "date": "2018-11-02",
+        "slug": "post-four",
+        "_PARENT": "1fb298ad-a7f1-53ac-bf9a-0d3b954a23ff"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\r\n<!-- markdownlint-disable MD033 -->\r\n\r\n# [Lorem Ipsum](https://www.lipsum.com/)\r\n\r\n<figure class=\"figure\">\r\n    <img src=\"./images/austin-neill-222827-unsplash.jpg\" alt=\"Title\"/>\r\n    <figcaption class=\"figure__caption\">Title</figcaption>\r\n</figure>\r\n\r\n## What is Lorem Ipsum\r\n\r\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\r\n\r\n## Where does it come from?\r\n\r\n<figure class=\"figure\">\r\n    <img src=\"./images/clem-onojeghuo-203219-unsplash.jpg\" alt=\"Title\"/>\r\n    <figcaption class=\"figure__caption\">Title</figcaption>\r\n</figure>\r\n\r\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\r\n\r\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\r\n",
+      "fileAbsolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/02-11-2018--post-4/index.md"
+    },
+    "4506ea4c-ea45-5e6a-9f88-286bedc5179a": {
+      "id": "4506ea4c-ea45-5e6a-9f88-286bedc5179a",
+      "children": [],
+      "parent": "0bd72cb5-5a0f-5c2a-8d2a-761590bd7ed1",
+      "internal": {
+        "content": "\r\n<!-- markdownlint-disable MD033 -->\r\n\r\n# [Lorem Ipsum](https://www.lipsum.com/)\r\n\r\n<figure class=\"figure\">\r\n    <img src=\"./images/alessandro-viaro-94370-unsplash.jpg\" alt=\"Title\"/>\r\n    <figcaption class=\"figure__caption\">Title</figcaption>\r\n</figure>\r\n\r\n## What is Lorem Ipsum\r\n\r\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\r\n\r\n## Where does it come from?\r\n\r\n<figure class=\"figure\">\r\n    <img src=\"./images/cristina-gottardi-189946-unsplash.jpg\" alt=\"Title\"/>\r\n    <figcaption class=\"figure__caption\">Title</figcaption>\r\n</figure>\r\n\r\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\r\n\r\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\r\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "3471b2ae3c6e75f7f448ed856f98fa84",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Hello, World!",
+        "date": "2018-10-30",
+        "slug": "post-one",
+        "_PARENT": "0bd72cb5-5a0f-5c2a-8d2a-761590bd7ed1"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\r\n<!-- markdownlint-disable MD033 -->\r\n\r\n# [Lorem Ipsum](https://www.lipsum.com/)\r\n\r\n<figure class=\"figure\">\r\n    <img src=\"./images/alessandro-viaro-94370-unsplash.jpg\" alt=\"Title\"/>\r\n    <figcaption class=\"figure__caption\">Title</figcaption>\r\n</figure>\r\n\r\n## What is Lorem Ipsum\r\n\r\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\r\n\r\n## Where does it come from?\r\n\r\n<figure class=\"figure\">\r\n    <img src=\"./images/cristina-gottardi-189946-unsplash.jpg\" alt=\"Title\"/>\r\n    <figcaption class=\"figure__caption\">Title</figcaption>\r\n</figure>\r\n\r\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\r\n\r\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\r\n",
+      "fileAbsolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/30-10-2018--hello-world/index.md"
+    },
+    "2afac183-5e03-5882-afe8-69d5b98ccd93": {
+      "id": "2afac183-5e03-5882-afe8-69d5b98ccd93",
+      "children": [],
+      "parent": "dbc71141-8a4f-550c-9690-10d637fe9700",
+      "internal": {
+        "content": "\r\n<!-- markdownlint-disable MD033 -->\r\n\r\n# [Lorem Ipsum](https://www.lipsum.com/)\r\n\r\n<figure class=\"figure\">\r\n    <img src=\"./images/markos-mant-228858-unsplash.jpg\" alt=\"Title\"/>\r\n    <figcaption class=\"figure__caption\">Title</figcaption>\r\n</figure>\r\n\r\n## What is Lorem Ipsum\r\n\r\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\r\n\r\n## Where does it come from?\r\n\r\n<figure class=\"figure\">\r\n    <img src=\"./images/victor-benard-493618-unsplash.jpg\" alt=\"Title\"/>\r\n    <figcaption class=\"figure__caption\">Title</figcaption>\r\n</figure>\r\n\r\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\r\n\r\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\r\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "15cea2e13ac26ba08edf9b7c17418644",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Post 2",
+        "date": "2018-10-31",
+        "slug": "post-two",
+        "_PARENT": "dbc71141-8a4f-550c-9690-10d637fe9700"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\r\n<!-- markdownlint-disable MD033 -->\r\n\r\n# [Lorem Ipsum](https://www.lipsum.com/)\r\n\r\n<figure class=\"figure\">\r\n    <img src=\"./images/markos-mant-228858-unsplash.jpg\" alt=\"Title\"/>\r\n    <figcaption class=\"figure__caption\">Title</figcaption>\r\n</figure>\r\n\r\n## What is Lorem Ipsum\r\n\r\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\r\n\r\n## Where does it come from?\r\n\r\n<figure class=\"figure\">\r\n    <img src=\"./images/victor-benard-493618-unsplash.jpg\" alt=\"Title\"/>\r\n    <figcaption class=\"figure__caption\">Title</figcaption>\r\n</figure>\r\n\r\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\r\n\r\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\r\n",
+      "fileAbsolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/31-10-2018--post-2/index.md"
+    },
+    "4f3d601a-b8ed-5236-aef3-a0307ffe2dc3": {
+      "id": "4f3d601a-b8ed-5236-aef3-a0307ffe2dc3",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "a86610c9095824d423b7c6bf4bb637d5",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\31-10-2018--post-2\\images\\victor-benard-493618-unsplash.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/31-10-2018--post-2/images/victor-benard-493618-unsplash.jpg",
+      "relativePath": "31-10-2018--post-2/images/victor-benard-493618-unsplash.jpg",
+      "extension": "jpg",
+      "size": 765260,
+      "prettySize": "765 kB",
+      "modifiedTime": "2018-12-06T19:58:27.943Z",
+      "accessTime": "2018-12-08T15:08:04.653Z",
+      "changeTime": "2018-12-06T19:58:27.943Z",
+      "birthTime": "2018-12-08T12:53:21.060Z",
+      "root": "C:/",
+      "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/31-10-2018--post-2/images",
+      "base": "victor-benard-493618-unsplash.jpg",
+      "ext": ".jpg",
+      "name": "victor-benard-493618-unsplash",
+      "relativeDirectory": "31-10-2018--post-2\\images",
+      "dev": 2597077015,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 5066549580896263,
+      "atimeMs": 1544281684652.607,
+      "mtimeMs": 1544126307943.0972,
+      "ctimeMs": 1544126307943.0972,
+      "birthtimeMs": 1544273601060.004,
+      "atime": "2018-12-08T15:08:04.653Z",
+      "mtime": "2018-12-06T19:58:27.943Z",
+      "ctime": "2018-12-06T19:58:27.943Z",
+      "birthtime": "2018-12-08T12:53:21.060Z"
+    },
+    "5eff25ea-6873-508a-bec6-dc9dd7770312": {
+      "id": "5eff25ea-6873-508a-bec6-dc9dd7770312",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "11600f779e789800beb7d2fe11ffe4ed",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\31-10-2018--post-2\\images\\markos-mant-228858-unsplash.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/31-10-2018--post-2/images/markos-mant-228858-unsplash.jpg",
+      "relativePath": "31-10-2018--post-2/images/markos-mant-228858-unsplash.jpg",
+      "extension": "jpg",
+      "size": 1444444,
+      "prettySize": "1.44 MB",
+      "modifiedTime": "2018-12-06T19:58:27.935Z",
+      "accessTime": "2018-12-08T15:08:04.684Z",
+      "changeTime": "2018-12-06T19:58:27.935Z",
+      "birthTime": "2018-12-08T12:53:21.044Z",
+      "root": "C:/",
+      "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/31-10-2018--post-2/images",
+      "base": "markos-mant-228858-unsplash.jpg",
+      "ext": ".jpg",
+      "name": "markos-mant-228858-unsplash",
+      "relativeDirectory": "31-10-2018--post-2\\images",
+      "dev": 2597077015,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 5348024557606917,
+      "atimeMs": 1544281684683.8557,
+      "mtimeMs": 1544126307935.1506,
+      "ctimeMs": 1544126307935.1506,
+      "birthtimeMs": 1544273601044.3757,
+      "atime": "2018-12-08T15:08:04.684Z",
+      "mtime": "2018-12-06T19:58:27.935Z",
+      "ctime": "2018-12-06T19:58:27.935Z",
+      "birthtime": "2018-12-08T12:53:21.044Z"
+    },
+    "af1ca0e1-8939-58d1-be10-f4c91a78ad81": {
+      "id": "af1ca0e1-8939-58d1-be10-f4c91a78ad81",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "0ce10cb011e872efa5a8220d35287dec",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\03-11-2018--post-5\\images\\ho-hyou-735008-unsplash.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/03-11-2018--post-5/images/ho-hyou-735008-unsplash.jpg",
+      "relativePath": "03-11-2018--post-5/images/ho-hyou-735008-unsplash.jpg",
+      "extension": "jpg",
+      "size": 1643217,
+      "prettySize": "1.64 MB",
+      "modifiedTime": "2018-12-06T19:58:27.776Z",
+      "accessTime": "2018-12-08T15:08:04.699Z",
+      "changeTime": "2018-12-06T19:58:27.776Z",
+      "birthTime": "2018-12-08T12:53:20.888Z",
+      "root": "C:/",
+      "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/03-11-2018--post-5/images",
+      "base": "ho-hyou-735008-unsplash.jpg",
+      "ext": ".jpg",
+      "name": "ho-hyou-735008-unsplash",
+      "relativeDirectory": "03-11-2018--post-5\\images",
+      "dev": 2597077015,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 3096224743920846,
+      "atimeMs": 1544281684699.4814,
+      "mtimeMs": 1544126307776.0996,
+      "ctimeMs": 1544126307776.0996,
+      "birthtimeMs": 1544273600888.0776,
+      "atime": "2018-12-08T15:08:04.699Z",
+      "mtime": "2018-12-06T19:58:27.776Z",
+      "ctime": "2018-12-06T19:58:27.776Z",
+      "birthtime": "2018-12-08T12:53:20.888Z"
+    },
+    "03fd98d9-3afd-5f1b-a5f2-ac3464785939": {
+      "id": "03fd98d9-3afd-5f1b-a5f2-ac3464785939",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "ea4efde82d6bc4cae0d76d2df8e7eb32",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\02-11-2018--post-4\\images\\austin-neill-222827-unsplash.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/02-11-2018--post-4/images/austin-neill-222827-unsplash.jpg",
+      "relativePath": "02-11-2018--post-4/images/austin-neill-222827-unsplash.jpg",
+      "extension": "jpg",
+      "size": 2141253,
+      "prettySize": "2.14 MB",
+      "modifiedTime": "2018-12-06T19:58:27.724Z",
+      "accessTime": "2018-12-08T15:08:04.762Z",
+      "changeTime": "2018-12-06T19:58:27.724Z",
+      "birthTime": "2018-12-08T12:53:20.857Z",
+      "root": "C:/",
+      "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/02-11-2018--post-4/images",
+      "base": "austin-neill-222827-unsplash.jpg",
+      "ext": ".jpg",
+      "name": "austin-neill-222827-unsplash",
+      "relativeDirectory": "02-11-2018--post-4\\images",
+      "dev": 2597077015,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 9851624184975264,
+      "atimeMs": 1544281684761.9814,
+      "mtimeMs": 1544126307724.1006,
+      "ctimeMs": 1544126307724.1006,
+      "birthtimeMs": 1544273600856.828,
+      "atime": "2018-12-08T15:08:04.762Z",
+      "mtime": "2018-12-06T19:58:27.724Z",
+      "ctime": "2018-12-06T19:58:27.724Z",
+      "birthtime": "2018-12-08T12:53:20.857Z"
+    },
+    "2da71bd5-8e73-514f-9916-adf849ac8d4d": {
+      "id": "2da71bd5-8e73-514f-9916-adf849ac8d4d",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "4ab10861d02f8834155314441580201b",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\30-10-2018--hello-world\\images\\cristina-gottardi-189946-unsplash.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/30-10-2018--hello-world/images/cristina-gottardi-189946-unsplash.jpg",
+      "relativePath": "30-10-2018--hello-world/images/cristina-gottardi-189946-unsplash.jpg",
+      "extension": "jpg",
+      "size": 2406353,
+      "prettySize": "2.41 MB",
+      "modifiedTime": "2018-12-06T19:58:27.920Z",
+      "accessTime": "2018-12-08T15:08:04.715Z",
+      "changeTime": "2018-12-06T19:58:27.920Z",
+      "birthTime": "2018-12-08T12:53:21.013Z",
+      "root": "C:/",
+      "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/30-10-2018--hello-world/images",
+      "base": "cristina-gottardi-189946-unsplash.jpg",
+      "ext": ".jpg",
+      "name": "cristina-gottardi-189946-unsplash",
+      "relativeDirectory": "30-10-2018--hello-world\\images",
+      "dev": 2597077015,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 5629499534317560,
+      "atimeMs": 1544281684715.1062,
+      "mtimeMs": 1544126307920.1506,
+      "ctimeMs": 1544126307920.1506,
+      "birthtimeMs": 1544273601013.0798,
+      "atime": "2018-12-08T15:08:04.715Z",
+      "mtime": "2018-12-06T19:58:27.920Z",
+      "ctime": "2018-12-06T19:58:27.920Z",
+      "birthtime": "2018-12-08T12:53:21.013Z"
+    },
+    "63d81a07-9ff0-56dc-b0c3-a9379e7f4656": {
+      "id": "63d81a07-9ff0-56dc-b0c3-a9379e7f4656",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "81a4aa34b4c692e0fddb9393769b4592",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\03-11-2018--post-5\\images\\patrick-fore-389431-unsplash.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/03-11-2018--post-5/images/patrick-fore-389431-unsplash.jpg",
+      "relativePath": "03-11-2018--post-5/images/patrick-fore-389431-unsplash.jpg",
+      "extension": "jpg",
+      "size": 2829001,
+      "prettySize": "2.83 MB",
+      "modifiedTime": "2018-12-06T19:58:27.798Z",
+      "accessTime": "2018-12-08T15:08:04.731Z",
+      "changeTime": "2018-12-06T19:58:27.798Z",
+      "birthTime": "2018-12-08T12:53:20.904Z",
+      "root": "C:/",
+      "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/03-11-2018--post-5/images",
+      "base": "patrick-fore-389431-unsplash.jpg",
+      "ext": ".jpg",
+      "name": "patrick-fore-389431-unsplash",
+      "relativeDirectory": "03-11-2018--post-5\\images",
+      "dev": 2597077015,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 3096224743920882,
+      "atimeMs": 1544281684730.7312,
+      "mtimeMs": 1544126307798.0984,
+      "ctimeMs": 1544126307798.0984,
+      "birthtimeMs": 1544273600903.7632,
+      "atime": "2018-12-08T15:08:04.731Z",
+      "mtime": "2018-12-06T19:58:27.798Z",
+      "ctime": "2018-12-06T19:58:27.798Z",
+      "birthtime": "2018-12-08T12:53:20.904Z"
+    },
+    "b9bf6f96-f677-5ce2-8d5d-6df9588770cf": {
+      "id": "b9bf6f96-f677-5ce2-8d5d-6df9588770cf",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b70b696419d965267259b4974ce9c07f",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\01-11-2018--post-3\\images\\geran-de-klerk-136351-unsplash.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/01-11-2018--post-3/images/geran-de-klerk-136351-unsplash.jpg",
+      "relativePath": "01-11-2018--post-3/images/geran-de-klerk-136351-unsplash.jpg",
+      "extension": "jpg",
+      "size": 3451421,
+      "prettySize": "3.45 MB",
+      "modifiedTime": "2018-12-06T19:58:27.660Z",
+      "accessTime": "2018-12-08T15:08:04.746Z",
+      "changeTime": "2018-12-06T19:58:27.660Z",
+      "birthTime": "2018-12-08T12:53:20.826Z",
+      "root": "C:/",
+      "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/01-11-2018--post-3/images",
+      "base": "geran-de-klerk-136351-unsplash.jpg",
+      "ext": ".jpg",
+      "name": "geran-de-klerk-136351-unsplash",
+      "relativeDirectory": "01-11-2018--post-3\\images",
+      "dev": 2597077015,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 17169973579452232,
+      "atimeMs": 1544281684746.3562,
+      "mtimeMs": 1544126307660.102,
+      "ctimeMs": 1544126307660.102,
+      "birthtimeMs": 1544273600825.5957,
+      "atime": "2018-12-08T15:08:04.746Z",
+      "mtime": "2018-12-06T19:58:27.660Z",
+      "ctime": "2018-12-06T19:58:27.660Z",
+      "birthtime": "2018-12-08T12:53:20.826Z"
+    },
+    "bd96de2a-c5d9-5eb8-b6c6-4c553a890839": {
+      "id": "bd96de2a-c5d9-5eb8-b6c6-4c553a890839",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b70b696419d965267259b4974ce9c07f",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\06-11-2018--post-6\\images\\geran-de-klerk-136351-unsplash.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/06-11-2018--post-6/images/geran-de-klerk-136351-unsplash.jpg",
+      "relativePath": "06-11-2018--post-6/images/geran-de-klerk-136351-unsplash.jpg",
+      "extension": "jpg",
+      "size": 3451421,
+      "prettySize": "3.45 MB",
+      "modifiedTime": "2018-12-06T19:58:27.830Z",
+      "accessTime": "2018-12-08T15:08:05.881Z",
+      "changeTime": "2018-12-08T14:09:47.233Z",
+      "birthTime": "2018-12-08T12:53:20.919Z",
+      "root": "C:/",
+      "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/06-11-2018--post-6/images",
+      "base": "geran-de-klerk-136351-unsplash.jpg",
+      "ext": ".jpg",
+      "name": "geran-de-klerk-136351-unsplash",
+      "relativeDirectory": "06-11-2018--post-6\\images",
+      "dev": 2597077015,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 4785074604185043,
+      "atimeMs": 1544281685881.1023,
+      "mtimeMs": 1544126307830.1045,
+      "ctimeMs": 1544278187232.978,
+      "birthtimeMs": 1544273600919.3284,
+      "atime": "2018-12-08T15:08:05.881Z",
+      "mtime": "2018-12-06T19:58:27.830Z",
+      "ctime": "2018-12-08T14:09:47.233Z",
+      "birthtime": "2018-12-08T12:53:20.919Z"
+    },
+    "bec07e08-fc45-5bd1-86ee-b897e8830f68": {
+      "id": "bec07e08-fc45-5bd1-86ee-b897e8830f68",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "e21f341f246d55c3975e9adc69e30425",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\30-10-2018--hello-world\\images\\alessandro-viaro-94370-unsplash.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/30-10-2018--hello-world/images/alessandro-viaro-94370-unsplash.jpg",
+      "relativePath": "30-10-2018--hello-world/images/alessandro-viaro-94370-unsplash.jpg",
+      "extension": "jpg",
+      "size": 4988269,
+      "prettySize": "4.99 MB",
+      "modifiedTime": "2018-12-06T19:58:27.897Z",
+      "accessTime": "2018-12-08T15:08:04.778Z",
+      "changeTime": "2018-12-06T19:58:27.897Z",
+      "birthTime": "2018-12-08T12:53:20.997Z",
+      "root": "C:/",
+      "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/30-10-2018--hello-world/images",
+      "base": "alessandro-viaro-94370-unsplash.jpg",
+      "ext": ".jpg",
+      "name": "alessandro-viaro-94370-unsplash",
+      "relativeDirectory": "30-10-2018--hello-world\\images",
+      "dev": 2597077015,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 5348024557606900,
+      "atimeMs": 1544281684777.6064,
+      "mtimeMs": 1544126307897.1504,
+      "ctimeMs": 1544126307897.1504,
+      "birthtimeMs": 1544273600997.4531,
+      "atime": "2018-12-08T15:08:04.778Z",
+      "mtime": "2018-12-06T19:58:27.897Z",
+      "ctime": "2018-12-06T19:58:27.897Z",
+      "birthtime": "2018-12-08T12:53:20.997Z"
+    },
+    "fc60843a-ac3a-537d-bc9c-d9004e0c56c3": {
+      "id": "fc60843a-ac3a-537d-bc9c-d9004e0c56c3",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "4726a1f114a2e2977bff377cc2baa8ea",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\02-11-2018--post-4\\images\\clem-onojeghuo-203219-unsplash.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/02-11-2018--post-4/images/clem-onojeghuo-203219-unsplash.jpg",
+      "relativePath": "02-11-2018--post-4/images/clem-onojeghuo-203219-unsplash.jpg",
+      "extension": "jpg",
+      "size": 6066916,
+      "prettySize": "6.07 MB",
+      "modifiedTime": "2018-12-06T19:58:27.763Z",
+      "accessTime": "2018-12-08T15:08:06.438Z",
+      "changeTime": "2018-12-06T19:58:27.763Z",
+      "birthTime": "2018-12-08T12:53:20.872Z",
+      "root": "C:/",
+      "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/02-11-2018--post-4/images",
+      "base": "clem-onojeghuo-203219-unsplash.jpg",
+      "ext": ".jpg",
+      "name": "clem-onojeghuo-203219-unsplash",
+      "relativeDirectory": "02-11-2018--post-4\\images",
+      "dev": 2597077015,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 29273397578010612,
+      "atimeMs": 1544281686438.4004,
+      "mtimeMs": 1544126307763.1042,
+      "ctimeMs": 1544126307763.1042,
+      "birthtimeMs": 1544273600872.453,
+      "atime": "2018-12-08T15:08:06.438Z",
+      "mtime": "2018-12-06T19:58:27.763Z",
+      "ctime": "2018-12-06T19:58:27.763Z",
+      "birthtime": "2018-12-08T12:53:20.872Z"
+    },
+    "3296c9ec-210d-5409-ab79-447d9b8ab8af": {
+      "id": "3296c9ec-210d-5409-ab79-447d9b8ab8af",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "6186e35c2238d10f1d08ab77e3a67793",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\01-11-2018--post-3\\images\\nathan-anderson-443540-unsplash.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/01-11-2018--post-3/images/nathan-anderson-443540-unsplash.jpg",
+      "relativePath": "01-11-2018--post-3/images/nathan-anderson-443540-unsplash.jpg",
+      "extension": "jpg",
+      "size": 6786458,
+      "prettySize": "6.79 MB",
+      "modifiedTime": "2018-12-06T19:58:27.701Z",
+      "accessTime": "2018-12-08T15:45:06.896Z",
+      "changeTime": "2018-12-06T19:58:27.701Z",
+      "birthTime": "2018-12-08T12:53:20.841Z",
+      "root": "C:/",
+      "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/01-11-2018--post-3/images",
+      "base": "nathan-anderson-443540-unsplash.jpg",
+      "ext": ".jpg",
+      "name": "nathan-anderson-443540-unsplash",
+      "relativeDirectory": "01-11-2018--post-3\\images",
+      "dev": 2597077015,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 13510798882213712,
+      "atimeMs": 1544283906896.0825,
+      "mtimeMs": 1544126307701.0999,
+      "ctimeMs": 1544126307701.0999,
+      "birthtimeMs": 1544273600841.2024,
+      "atime": "2018-12-08T15:45:06.896Z",
+      "mtime": "2018-12-06T19:58:27.701Z",
+      "ctime": "2018-12-06T19:58:27.701Z",
+      "birthtime": "2018-12-08T12:53:20.841Z"
+    },
+    "048de7e5-adbe-5eb2-bc51-c8a7468dbe1f": {
+      "id": "048de7e5-adbe-5eb2-bc51-c8a7468dbe1f",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "6186e35c2238d10f1d08ab77e3a67793",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\06-11-2018--post-6\\images\\nathan-anderson-443540-unsplash.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/06-11-2018--post-6/images/nathan-anderson-443540-unsplash.jpg",
+      "relativePath": "06-11-2018--post-6/images/nathan-anderson-443540-unsplash.jpg",
+      "extension": "jpg",
+      "size": 6786458,
+      "prettySize": "6.79 MB",
+      "modifiedTime": "2018-12-06T19:58:27.867Z",
+      "accessTime": "2018-12-08T15:08:06.657Z",
+      "changeTime": "2018-12-08T14:09:47.218Z",
+      "birthTime": "2018-12-08T12:53:20.935Z",
+      "root": "C:/",
+      "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/06-11-2018--post-6/images",
+      "base": "nathan-anderson-443540-unsplash.jpg",
+      "ext": ".jpg",
+      "name": "nathan-anderson-443540-unsplash",
+      "relativeDirectory": "06-11-2018--post-6\\images",
+      "dev": 2597077015,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 4785074604185048,
+      "atimeMs": 1544281686657.1494,
+      "mtimeMs": 1544126307867.0984,
+      "ctimeMs": 1544278187217.9766,
+      "birthtimeMs": 1544273600934.953,
+      "atime": "2018-12-08T15:08:06.657Z",
+      "mtime": "2018-12-06T19:58:27.867Z",
+      "ctime": "2018-12-08T14:09:47.218Z",
+      "birthtime": "2018-12-08T12:53:20.935Z"
+    },
+    "SitePage /blog/where-to-go-post": {
+      "jsonName": "blog-where-to-go-post-a40",
+      "internalComponentName": "ComponentBlogWhereToGoPost",
+      "path": "/blog/where-to-go-post",
+      "component": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "where-to-go-post"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
+      "id": "SitePage /blog/where-to-go-post",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "4b611e877c13ab9f238c1cb9526cbcce",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/post-three": {
+      "jsonName": "blog-post-three-0ca",
+      "internalComponentName": "ComponentBlogPostThree",
+      "path": "/blog/post-three",
+      "component": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "post-three"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
+      "id": "SitePage /blog/post-three",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d21ec1ac9d422cbbf37e6b1fd13c2927",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/why-you-should-see-the-dalmatian-coast": {
+      "jsonName": "blog-why-you-should-see-the-dalmatian-coast-8a5",
+      "internalComponentName": "ComponentBlogWhyYouShouldSeeTheDalmatianCoast",
+      "path": "/blog/why-you-should-see-the-dalmatian-coast",
+      "component": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "why-you-should-see-the-dalmatian-coast"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
+      "id": "SitePage /blog/why-you-should-see-the-dalmatian-coast",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e26da3df552d8d3d48ed03b718a262f5",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/post-four": {
+      "jsonName": "blog-post-four-acd",
+      "internalComponentName": "ComponentBlogPostFour",
+      "path": "/blog/post-four",
+      "component": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "post-four"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
+      "id": "SitePage /blog/post-four",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "df5e56846b130fd5a670ded4ec196050",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/post-one": {
+      "jsonName": "blog-post-one-638",
+      "internalComponentName": "ComponentBlogPostOne",
+      "path": "/blog/post-one",
+      "component": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "post-one"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
+      "id": "SitePage /blog/post-one",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "19b4d865ae39dd9a066d7e8a17c00ca8",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/post-two": {
+      "jsonName": "blog-post-two-99a",
+      "internalComponentName": "ComponentBlogPostTwo",
+      "path": "/blog/post-two",
+      "component": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "post-two"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
+      "id": "SitePage /blog/post-two",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d654e486cacb98bf6bf22acb938cef81",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /about/": {
+      "jsonName": "about-f34",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about/",
+      "component": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/pages/about.js",
+      "componentChunkName": "component---src-pages-about-js",
+      "context": {},
+      "pluginCreator___NODE": "e7a5f0b6-1a8f-5a0a-939f-45e02538515b",
+      "pluginCreatorId": "e7a5f0b6-1a8f-5a0a-939f-45e02538515b",
+      "componentPath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/pages/about.js",
+      "id": "SitePage /about/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "64830f29c73d958f2309eb8319abd8de",
+        "description": "e7a5f0b6-1a8f-5a0a-939f-45e02538515b",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/": {
+      "jsonName": "blog-f7a",
+      "internalComponentName": "ComponentBlog",
+      "path": "/blog/",
+      "component": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/pages/blog.js",
+      "componentChunkName": "component---src-pages-blog-js",
+      "context": {},
+      "pluginCreator___NODE": "e7a5f0b6-1a8f-5a0a-939f-45e02538515b",
+      "pluginCreatorId": "e7a5f0b6-1a8f-5a0a-939f-45e02538515b",
+      "componentPath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/pages/blog.js",
+      "id": "SitePage /blog/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "441a928baa6dd6992276083ab972aa3f",
+        "description": "e7a5f0b6-1a8f-5a0a-939f-45e02538515b",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "jsonName": "index",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "e7a5f0b6-1a8f-5a0a-939f-45e02538515b",
+      "pluginCreatorId": "e7a5f0b6-1a8f-5a0a-939f-45e02538515b",
+      "componentPath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "93fa714e756b7883a4a0c5b11600764a",
+        "description": "e7a5f0b6-1a8f-5a0a-939f-45e02538515b",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /second-page/": {
+      "jsonName": "second-page-1c7",
+      "internalComponentName": "ComponentSecondPage",
+      "path": "/second-page/",
+      "component": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/pages/second-page.js",
+      "componentChunkName": "component---src-pages-second-page-js",
+      "context": {},
+      "pluginCreator___NODE": "e7a5f0b6-1a8f-5a0a-939f-45e02538515b",
+      "pluginCreatorId": "e7a5f0b6-1a8f-5a0a-939f-45e02538515b",
+      "componentPath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/pages/second-page.js",
+      "id": "SitePage /second-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "787927cd7f5bf00fea5476c270cbafed",
+        "description": "e7a5f0b6-1a8f-5a0a-939f-45e02538515b",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "19e13bdc222051e16a93b48784f371f0"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "Site": [
+        "/"
+      ],
+      "33f21eb6-2c58-59e8-86cb-5ca4352681ae": [],
+      "709b8436-1507-58c1-809d-5b7c8843d304": [],
+      "257d4643-a6b5-5c6e-af4b-5a6a713b0b1e": [],
+      "4fda8048-0338-55a9-8760-3b7e81a441e5": [],
+      "241547ea-28cb-5ead-8ad2-a21c011212dd": [],
+      "88b254d6-8671-5891-9527-10191923a76a": [],
+      "5f3dcfbf-cd8d-523d-bb2a-c2b271179280": [],
+      "00f405e0-c503-529d-ac66-db0c91d61bb6": [],
+      "e2795a1e-8599-5d73-b024-5497f9ddf9f5": [
+        "/blog/post-six",
+        "/blog/where-to-go"
+      ],
+      "6af0fe73-fac0-5218-a14c-f5cc5f185971": [],
+      "ea1001c1-35cf-572b-b677-182e39f0dba2": [],
+      "896e6e4c-8628-51b2-a2f5-43027dfd900c": [
+        "/blog/post-five",
+        "/blog/where-to-go-bla"
+      ],
+      "46c6e461-d73f-5ae7-b762-b855cb0b231f": [
+        "/blog/where-to-go-post"
+      ],
+      "5cf42cbc-cd47-5527-999b-8f87ffced445": [
+        "/blog/post-three"
+      ],
+      "c94dd025-76d3-52b9-8414-a174a2ba5a3d": [
+        "/blog/why-you-should-see-the-dalmatian-coast"
+      ],
+      "5476b69e-a803-5790-9b8b-e99062ec2c8e": [
+        "/blog/post-four"
+      ],
+      "4506ea4c-ea45-5e6a-9f88-286bedc5179a": [
+        "/blog/post-one"
+      ],
+      "2afac183-5e03-5882-afe8-69d5b98ccd93": [
+        "/blog/post-two"
+      ]
+    },
+    "connections": {
+      "MarkdownRemark": [
+        "/blog/"
+      ]
+    }
+  },
+  "jsonDataPaths": {
+    "index": "382/path---index-6a9-QEnwhmH1g83lNS3OLRrp5IkUwCY",
+    "blog-post-five-add": "138/path---blog-post-five-add-944-D0OGtBefgluwCeedeiKygdahD1o",
+    "blog-post-three-0ca": "383/path---blog-post-three-0-ca-e59-y0OhCkRMr7UG0gMvIAHgKa6mxI",
+    "blog-post-four-acd": "477/path---blog-post-four-acd-cf4-FuVUcd8ZWpSYDv9xqKYtYk75k",
+    "blog-post-two-99a": "521/path---blog-post-two-99-a-e88-hbwtMop5l1G7jUXArRpgi52qRSw",
+    "blog-f7a": "397/path---blog-f-7-a-05d-pTiF0Ham5A7UBApvk7dGh1WQklE",
+    "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
+    "blog-post-one-638": "300/path---blog-post-one-638-2ad-Tml5hAY52ycmK4tKEGZKZ43V3eU",
+    "about-f34": "125/path---about-f-34-4c2-NZuapzHg3X9TaN1iIixfv1W23E",
+    "second-page-1c7": "772/path---second-page-1-c-7-a3b-NZuapzHg3X9TaN1iIixfv1W23E",
+    "blog-post-six-e20": "164/path---blog-post-six-e-20-132-qRqpGnxhtzjzUrGO4Dx0KsNHs",
+    "blog-why-you-should-see-the-dalmatian-coast-8a5": "167/path---blog-why-you-should-see-the-dalmatian-coast-8-a-5-8df-X8LzgXxTA6h1DGeMAT3KQuJ88",
+    "blog-where-to-go-d52": "32/path---blog-where-to-go-d-52-4ca-4XQuWJjbdb4nGR4uvZWSRwFDDY",
+    "blog-where-to-go-bla-043": "18/path---blog-where-to-go-bla-043-02d-GoecEUsu9t65Hf2XslCb8wFjNls",
+    "blog-where-to-go-post-a40": "334/path---blog-where-to-go-post-a-40-3c1-8M7i3zPVWARHPJmMEjvkyIdQfk"
+  },
+  "components": {
+    "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js": {
+      "query": "query BlogPostQuery(\n  $slug: String!\n) {\n  markdownRemark(frontmatter: {slug: {eq: $slug}}) {\n    html\n    frontmatter {\n      date\n      slug\n      title\n    }\n  }\n}\n",
+      "componentPath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js"
+    },
+    "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/.cache/dev-404-page.js": {
+      "query": "",
+      "componentPath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/.cache/dev-404-page.js"
+    },
+    "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/pages/about.js": {
+      "query": "",
+      "componentPath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/pages/about.js"
+    },
+    "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/pages/blog.js": {
+      "query": "query BlogIndexQuery {\n  allMarkdownRemark(sort: {fields: frontmatter___date, order: DESC}) {\n    edges {\n      node {\n        id\n        frontmatter {\n          title\n          date\n          slug\n        }\n        excerpt(pruneLength: 300)\n      }\n    }\n  }\n}\n",
+      "componentPath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/pages/blog.js"
+    },
+    "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/pages/index.js": {
+      "query": "query SiteMetadata {\n  site {\n    siteMetadata {\n      title\n      description\n    }\n  }\n}\n",
+      "componentPath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/pages/index.js"
+    },
+    "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/pages/second-page.js": {
+      "query": "",
+      "componentPath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/pages/second-page.js"
+    }
+  },
+  "staticQueryComponents": {}
+}
