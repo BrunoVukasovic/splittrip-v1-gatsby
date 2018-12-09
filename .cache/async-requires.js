@@ -7,6 +7,7 @@ exports.components = {
   "component---src-pages-about-js": () => import("C:\\My Documents\\HCI\\travel-agency\\creating-blog\\splittrip\\src\\pages\\about.js" /* webpackChunkName: "component---src-pages-about-js" */),
   "component---src-pages-blog-js": () => import("C:\\My Documents\\HCI\\travel-agency\\creating-blog\\splittrip\\src\\pages\\blog.js" /* webpackChunkName: "component---src-pages-blog-js" */),
   "component---src-pages-index-js": () => import("C:\\My Documents\\HCI\\travel-agency\\creating-blog\\splittrip\\src\\pages\\index.js" /* webpackChunkName: "component---src-pages-index-js" */),
+  "component---src-pages-krka-js": () => import("C:\\My Documents\\HCI\\travel-agency\\creating-blog\\splittrip\\src\\pages\\krka.js" /* webpackChunkName: "component---src-pages-krka-js" */),
   "component---src-pages-second-page-js": () => import("C:\\My Documents\\HCI\\travel-agency\\creating-blog\\splittrip\\src\\pages\\second-page.js" /* webpackChunkName: "component---src-pages-second-page-js" */)
 }
 

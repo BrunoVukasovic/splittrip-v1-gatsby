@@ -1,5 +1,5 @@
 import React from "react";
-import { graphql } from "gatsby";
+import { graphql, Link } from "gatsby";
 import { Layout, Container, MainImage, TripItem } from "../components";
 import krkaPhoto from "../images/krka 4x3.jpg";
 import zipPhoto from "../images/zip 4x3.jpg";
@@ -19,10 +19,13 @@ export default ({
       <MainImage />
 
       <Container>
-        <TripItem>
-        <img src={krkaPhoto} alt="Krka" width= "100%"/>
-        <p>Krka Waterfalls</p>
-        </TripItem>
+        <Link to="/krka/"> 
+          <TripItem>
+          <img src={krkaPhoto} alt="Krka" width= "100%"/>
+          <p>Krka Waterfalls</p>
+          </TripItem>
+        </Link>
+        
         <TripItem>
         <img src={zipPhoto} alt="Zip line" width= "100%"/>
         <p>Zip line</p>
@@ -36,6 +39,7 @@ export default ({
         <p>Rafting</p>
         </TripItem>
       </Container>
+      
       
       <h1>{title}</h1>
       <h1>{title}</h1>
