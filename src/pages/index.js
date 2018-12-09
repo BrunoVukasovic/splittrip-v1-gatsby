@@ -1,7 +1,9 @@
 import React from "react";
 import { graphql } from "gatsby";
 import { Layout } from "../components";
+import { MainImage } from "../components";
 import mainPhoto  from "../images/plitvice.jpg";
+import krkaPhoto from "../images/krka 4x3.jpg";
 
 
 
@@ -14,7 +16,8 @@ export default ({
 }) => {
   return (
     <Layout>
-      <img src={mainPhoto} alt="Main Photo" height="1000" width="1072"></img>
+      <MainImage />
+      <img src={krkaPhoto} alt="Krka" class="item-image" width="50%" />
       <h1>{title}</h1>
       <p>{description}</p>
     </Layout>
