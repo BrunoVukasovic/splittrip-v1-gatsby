@@ -1,5 +1,5 @@
 import React from "react";
-import { Layout, TripDescription } from "../components";
+import { Layout, TripDescription, Button, ButtonContainer } from "../components";
 import krkaMainPhoto from "../images/krka.jpg";
 
 
@@ -7,6 +7,10 @@ export default () => {
   return (
     <Layout>
         <img src={krkaMainPhoto} alt="Krka" width="100%" height="45%" ></img>
+        <ButtonContainer>
+        <Button>Contact Us</Button>
+        <Button>Book Now</Button>
+        </ButtonContainer>
         <TripDescription>
           Adventure starts at our meeting point. We are on the way to Krka National park from Split in the air-conditioned mini-van or bus. <br /> <br /> 
           In about an hour and 30 minutes we arrive to Krka National Park and embark on a tour. First up is the charming town of Skradin where we take the 30-minutes boat ride to Skradinski buk and back, one of the most famous Croatian natural beauties and the largest travertine waterfall in Europe.
