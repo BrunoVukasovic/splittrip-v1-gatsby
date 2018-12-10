@@ -5,12 +5,13 @@ import krkaPhoto from "../images/krka 4x3.jpg";
 import zipPhoto from "../images/zip 4x3.jpg";
 import blueCavePhoto from "../images/blue cave 4x3.jpg";
 import raftingPhoto from "../images/rafting 4x3.jpg";
+// import mainImage from "../images/plitvice.jpg";
 
 
 export default () => {
   return (
     <Layout>
-      <MainImage />
+      <MainImage source={"./images/plitvice.jpg"}></MainImage>
 
       <Container>
         <Link to="/krka/"> 
