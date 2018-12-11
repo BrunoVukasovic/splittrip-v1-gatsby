@@ -1,5 +1,6 @@
 import React from "react";
 import Container from "../Container";
+import Logo from "../Logo";
 import Nav from "./Nav";
 import NavLink from "./NavLink";
 import styles from "./styles.module.css";
@@ -7,7 +8,8 @@ import styles from "./styles.module.css";
 export default () => (
   <header className={styles.Header}>
     <Container className={styles.Container}>
-      <span className={styles.Logo}>Gatsby</span>
+      <Logo />
+
       <Nav>
         <NavLink to="/" exact="true">
           Home
@@ -16,6 +18,7 @@ export default () => (
         <NavLink to="/blog">Blog</NavLink>
         <NavLink to="/about">About</NavLink>
       </Nav>
+      
     </Container>
   </header>
 );

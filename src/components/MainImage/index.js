@@ -3,7 +3,15 @@ import styles from "./styles.module.css";
 import mainImage from "./images/plitvice.jpg";
 
 
-export default ({ source }) => (
+export default ({ children }) => (
     <div> <img className={styles.mainImage} src={mainImage} alt="Main Image"></img>
     </div>
   );
+
+
+
+
+/*   const MainImage = () => (
+  <img className={styles.mainImage} src={mainImage} alt="Main Image"></img>
+  );
+  export default MainImage; */

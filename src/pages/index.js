@@ -9,9 +9,11 @@ import raftingPhoto from "../images/rafting 4x3.jpg";
 
 
 export default () => {
+  const text = "./images/plitvice.jpg"
   return (
     <Layout>
-      <MainImage source={"./images/plitvice.jpg"}></MainImage>
+      
+      <MainImage text={text}></MainImage>
 
       <Container>
         <Link to="/krka/"> 
@@ -25,10 +27,12 @@ export default () => {
         <img src={zipPhoto} alt="Zip line" width= "100%"/>
         <p>Zip line</p>
         </TripItem>
+
         <TripItem>
         <img src={blueCavePhoto} alt="Blue Cave" width= "100%"/>
         <p>Blue Cave</p>
         </TripItem>
+        
         <TripItem>
         <img src={raftingPhoto} alt="Rafting" width= "100%"/>
         <p>Rafting</p>
