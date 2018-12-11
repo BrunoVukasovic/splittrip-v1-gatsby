@@ -4,6 +4,7 @@ import Logo from "../Logo";
 import Nav from "./Nav";
 import NavLink from "./NavLink";
 import styles from "./styles.module.css";
+import NavLinkDrpodown from "./NavLinkDrpodown";
 
 export default () => (
   <header className={styles.Header}>
@@ -14,11 +15,12 @@ export default () => (
         <NavLink to="/" exact="true">
           Home
         </NavLink>
-        <NavLink to="/second-page">Second page</NavLink>
+        <NavLink to="/land tours">Land Tours</NavLink>
         <NavLink to="/blog">Blog</NavLink>
         <NavLink to="/about">About</NavLink>
+        <NavLinkDrpodown to="/dropdown">Dropdown</NavLinkDrpodown>
       </Nav>
-      
+
     </Container>
   </header>
 );

@@ -7,8 +7,9 @@ exports.components = {
   "component---cache-dev-404-page-js": preferDefault(require("C:\\My Documents\\HCI\\travel-agency\\creating-blog\\splittrip\\.cache\\dev-404-page.js")),
   "component---src-pages-about-js": preferDefault(require("C:\\My Documents\\HCI\\travel-agency\\creating-blog\\splittrip\\src\\pages\\about.js")),
   "component---src-pages-blog-js": preferDefault(require("C:\\My Documents\\HCI\\travel-agency\\creating-blog\\splittrip\\src\\pages\\blog.js")),
+  "component---src-pages-dropdown-js": preferDefault(require("C:\\My Documents\\HCI\\travel-agency\\creating-blog\\splittrip\\src\\pages\\dropdown.js")),
   "component---src-pages-index-js": preferDefault(require("C:\\My Documents\\HCI\\travel-agency\\creating-blog\\splittrip\\src\\pages\\index.js")),
   "component---src-pages-krka-js": preferDefault(require("C:\\My Documents\\HCI\\travel-agency\\creating-blog\\splittrip\\src\\pages\\krka.js")),
-  "component---src-pages-second-page-js": preferDefault(require("C:\\My Documents\\HCI\\travel-agency\\creating-blog\\splittrip\\src\\pages\\second-page.js"))
+  "component---src-pages-land-tours-js": preferDefault(require("C:\\My Documents\\HCI\\travel-agency\\creating-blog\\splittrip\\src\\pages\\land tours.js"))
 }
 

@@ -5,15 +5,14 @@ import krkaPhoto from "../images/krka 4x3.jpg";
 import zipPhoto from "../images/zip 4x3.jpg";
 import blueCavePhoto from "../images/blue cave 4x3.jpg";
 import raftingPhoto from "../images/rafting 4x3.jpg";
-// import mainImage from "../images/plitvice.jpg";
+import mainImage from "../images/plitvice 16x9.jpg";
 
 
 export default () => {
-  const text = "./images/plitvice.jpg"
   return (
     <Layout>
       
-      <MainImage text={text}></MainImage>
+      <MainImage src={mainImage} />
 
       <Container>
         <Link to="/krka/"> 

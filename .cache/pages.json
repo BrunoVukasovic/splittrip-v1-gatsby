@@ -50,13 +50,18 @@
         "path": "/dev-404-page/"
     },
     {
+        "componentChunkName": "component---src-pages-dropdown-js",
+        "jsonName": "dropdown-8c1",
+        "path": "/dropdown/"
+    },
+    {
         "componentChunkName": "component---src-pages-krka-js",
         "jsonName": "krka-f04",
         "path": "/krka/"
     },
     {
-        "componentChunkName": "component---src-pages-second-page-js",
-        "jsonName": "second-page-1c7",
-        "path": "/second-page/"
+        "componentChunkName": "component---src-pages-land-tours-js",
+        "jsonName": "land-tours-c24",
+        "path": "/land tours/"
     }
 ]

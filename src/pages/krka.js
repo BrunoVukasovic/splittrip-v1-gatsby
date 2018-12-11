@@ -1,12 +1,13 @@
 import React from "react";
-import { Layout, TripDescription, Button, ButtonContainer } from "../components";
-import krkaMainPhoto from "../images/krka.jpg";
+import { Layout, TripDescription, Button, ButtonContainer, MainImage } from "../components";
+import mainImage from "../images/krka.jpg";
 
 
 export default () => {
   return (
     <Layout>
-        <img src={krkaMainPhoto} alt="Krka" width="100%" height="45%" ></img>
+        <MainImage src={mainImage} />
+
         <ButtonContainer>
           <Button>Contact Us</Button>
           <Button>Book Now</Button>
