@@ -1,5 +1,10 @@
 import React from "react";
 import styles from "./styles.module.css";
 import logoPNG from "./images/Logo 298x298.png"
+import { Link } from "gatsby";
 
-export default () => <img className={styles.Logo} src={logoPNG} alt="Logo" />;
+export default () => (
+    <Link to = "/">
+    <img className={styles.Logo} src={logoPNG} alt="Logo" />
+    </Link>
+);

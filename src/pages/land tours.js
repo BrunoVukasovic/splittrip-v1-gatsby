@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "gatsby";
-import { Layout, Container, MainImage, TripItem } from "../components";
+import { Layout, Container, MainImage, TripItem, TripItemHeading } from "../components";
 import krkaPhoto from "../images/krka 4x3.jpg";
 import zipPhoto from "../images/zip 4x3.jpg";
 import plitivcePhoto from "../images/plitvice 4x3.jpg";
@@ -15,23 +15,23 @@ export default () => (
       <Link to="/krka/"> 
         <TripItem>
           <img src={krkaPhoto} alt="Krka" width= "100%"/>
-          <p>Krka Waterfalls</p>
+          <TripItemHeading>Krka Waterfalls</TripItemHeading>
         </TripItem>
       </Link>
 
         <TripItem>
           <img src={plitivcePhoto} alt="Plitvice" width= "100%"/>
-          <p>Plitvice lakes</p>
+          <TripItemHeading>Plitvice lakes</TripItemHeading>
         </TripItem>
         
         <TripItem>
           <img src={zipPhoto} alt="Zip line" width= "100%"/>
-          <p>Zip line</p>
+          <TripItemHeading>Zip line</TripItemHeading>
         </TripItem>
         
         <TripItem>
           <img src={raftingPhoto} alt="Rafting" width= "100%"/>
-          <p>Rafting</p>
+          <TripItemHeading>Rafting</TripItemHeading>
         </TripItem>
 
     </Container>

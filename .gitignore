@@ -1,8 +1,8 @@
-/.cache
+
+# Dependency directories
 /node_modules
+
+.cache/
 /public
 /static
 package-lock.json
-
-new-f.txt
-/new-folder
