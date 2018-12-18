@@ -53,28 +53,6 @@
   border-bottom: 3px solid var(--color-gold, orange);
 }
 
-.NavLinkDrpodown {
-  display: inline-block;
-  padding: 5px 10px;
-  margin-left: 10px;
-  text-transform: uppercase;
-  cursor: pointer;
-  white-space: nowrap;
-  font-size: 14px;
-  font-weight: normal;
-  color: var(--color-primary, #000000);
-  border-top: 3px solid transparent;
-  border-bottom: 3px solid transparent;
-  transition: all 0.25s linear;
-}
-
-
-.NavLinkDrpodown__active,
-.NavLinkDrpodown:hover.Container {
-  color: var(--color-gold, orange);
-  border-bottom: 3px solid var(--color-gold, orange);
-}
-
 .DropdownContent {
   display: none;
   position: absolute;
@@ -84,7 +62,10 @@
   z-index: 1;
 }
 
-.NavLinkDrpodown__active .DropdownContent,
-.NavLinkDrpodown:hover .DropdownContent {
+.DropDown:hover{
+  color: green;
+}
+
+.DropDown:hover > div{
   display: block;
 }

@@ -22,20 +22,26 @@ export default () => {
           </TripItem>
         </Link>
         
-        <TripItem>
-        <img src={zipPhoto} alt="Zip line" width= "100%"/>
-        <TripItemHeading>Zip line</TripItemHeading>
-        </TripItem>
+        <Link to = "/zip/">
+          <TripItem>
+          <img src={zipPhoto} alt="Zip line" width= "100%"/>
+          <TripItemHeading>Zip line</TripItemHeading>
+          </TripItem>
+        </Link>
 
-        <TripItem>
-        <img src={blueCavePhoto} alt="Blue Cave" width= "100%"/>
-        <TripItemHeading>Blue Cave</TripItemHeading>
-        </TripItem>
+        <Link to = "/blue-cave/">
+          <TripItem>
+          <img src={blueCavePhoto} alt="Blue Cave" width= "100%"/>
+          <TripItemHeading>Blue Cave</TripItemHeading>
+          </TripItem>
+        </Link>
         
-        <TripItem>
-        <img src={raftingPhoto} alt="Rafting" width= "100%"/>
-        <TripItemHeading>Rafting</TripItemHeading>
-        </TripItem>
+        <Link to ="/rafting/">
+          <TripItem>
+          <img src={raftingPhoto} alt="Rafting" width= "100%"/>
+          <TripItemHeading>Rafting</TripItemHeading>
+          </TripItem>
+        </Link>
 
       </Container>
     </Layout>

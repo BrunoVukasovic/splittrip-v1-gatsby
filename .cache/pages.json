@@ -45,6 +45,11 @@
         "path": "/blog/why-you-should-see-the-dalmatian-coast"
     },
     {
+        "componentChunkName": "component---src-pages-blue-cave-js",
+        "jsonName": "blue-cave-c13",
+        "path": "/blue-cave/"
+    },
+    {
         "componentChunkName": "component---cache-dev-404-page-js",
         "jsonName": "dev-404-page-5f9",
         "path": "/dev-404-page/"
@@ -63,5 +68,20 @@
         "componentChunkName": "component---src-pages-land-tours-js",
         "jsonName": "land-tours-c24",
         "path": "/land tours/"
+    },
+    {
+        "componentChunkName": "component---src-pages-plitvice-js",
+        "jsonName": "plitvice-2e9",
+        "path": "/plitvice/"
+    },
+    {
+        "componentChunkName": "component---src-pages-rafting-js",
+        "jsonName": "rafting-159",
+        "path": "/rafting/"
+    },
+    {
+        "componentChunkName": "component---src-pages-zip-js",
+        "jsonName": "zip-a67",
+        "path": "/zip/"
     }
 ]

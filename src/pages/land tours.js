@@ -19,20 +19,26 @@ export default () => (
         </TripItem>
       </Link>
 
+      <Link to = "/plitvice">
         <TripItem>
           <img src={plitivcePhoto} alt="Plitvice" width= "100%"/>
           <TripItemHeading>Plitvice lakes</TripItemHeading>
         </TripItem>
+      </Link>
+
+        <Link to = "/zip">        
+          <TripItem>
+            <img src={zipPhoto} alt="Zip line" width= "100%"/>
+            <TripItemHeading>Zip line</TripItemHeading>
+          </TripItem>
+        </Link>
         
-        <TripItem>
-          <img src={zipPhoto} alt="Zip line" width= "100%"/>
-          <TripItemHeading>Zip line</TripItemHeading>
-        </TripItem>
-        
-        <TripItem>
-          <img src={raftingPhoto} alt="Rafting" width= "100%"/>
-          <TripItemHeading>Rafting</TripItemHeading>
-        </TripItem>
+        <Link to = "/rafting">
+          <TripItem>
+            <img src={raftingPhoto} alt="Rafting" width= "100%"/>
+            <TripItemHeading>Rafting</TripItemHeading>
+          </TripItem>
+        </Link>
 
     </Container>
   </Layout>

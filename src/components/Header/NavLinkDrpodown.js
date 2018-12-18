@@ -3,11 +3,10 @@ import { Link } from "gatsby";
 import styles from "./styles.module.css";
 
 export default ({ children, ...rest }) => (
-  <div class="dropdown">
-
+  <div className={styles.Dropdown}>
     <Link
-      className={styles.NavLinkDrpodown}
-      activeClassName={styles.NavLinkDrpodown__active}
+      className={styles.NavLink}
+      activeClassName={styles.NavLink__active}
       {...rest}
     >
       {children}
