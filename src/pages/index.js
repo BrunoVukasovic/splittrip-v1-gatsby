@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "gatsby";
-import { Layout, Container, MainImage, TripItem, TripItemHeading } from "../components";
+import { Layout, Container, MainImage, TripItem, TripItemHeading, TripItemDescription } from "../components";
 import krkaPhoto from "../images/krka 4x3.jpg";
 import zipPhoto from "../images/zip 4x3.jpg";
 import blueCavePhoto from "../images/blue cave 4x3.jpg";
@@ -33,6 +33,7 @@ export default () => {
           <TripItem>
           <img src={blueCavePhoto} alt="Blue Cave" width= "100%"/>
           <TripItemHeading>Blue Cave</TripItemHeading>
+          <TripItemDescription>Our program includes a fascinating tour of an authentically restored ensemble of stone small houses, workshops, exhibits and watermills and a beautiful walk through forest pathways and wooden bridges designed to let you experience the rich diversity of flora and fauna there.</TripItemDescription>
           </TripItem>
         </Link>
         
