@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "gatsby";
 import styles from "./styles.module.css";
+import sky from "./Images/sky.png";
 
 export default ({ children, ...rest }) => (
   <div className={styles.Dropdown}>
@@ -13,9 +14,10 @@ export default ({ children, ...rest }) => (
     </Link>
 
     <div className={styles.DropdownContent}>
-      <a href="#">Link 1</a>
-      <a href="#">Link 2</a>
-      <a href="#">Link 3</a>
+      <img className={styles.Image1} src={sky} alt="Cinque Terre" width="100"  />
+      <img className={styles.Image2} src={sky} alt="Cinque Terre" width="100" />
+      <img className={styles.Image3} src={sky} alt="Cinque Terre" width="100"  />
+      <img className={styles.Image4} src={sky} alt="Cinque Terre" width="100" />
     </div>
   </div>
 );

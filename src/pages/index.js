@@ -19,6 +19,7 @@ export default () => {
           <TripItem>
           <img src={krkaPhoto} alt="Krka" width= "100%"/>
           <TripItemHeading>Krka Waterfalls</TripItemHeading>
+          <TripItemDescription>Our program includes a fascinating tour of an authentically restored ensemble of stone small houses, experience the rich diversity of flora and fauna there.</TripItemDescription>
           </TripItem>
         </Link>
         
@@ -26,6 +27,7 @@ export default () => {
           <TripItem>
           <img src={zipPhoto} alt="Zip line" width= "100%"/>
           <TripItemHeading>Zip line</TripItemHeading>
+          <TripItemDescription>Our program includes a fascinating tour of an authentically restored ensemble of stone small houses, experience the rich diversity of flora and fauna there.</TripItemDescription>
           </TripItem>
         </Link>
 
@@ -33,7 +35,7 @@ export default () => {
           <TripItem>
           <img src={blueCavePhoto} alt="Blue Cave" width= "100%"/>
           <TripItemHeading>Blue Cave</TripItemHeading>
-          <TripItemDescription>Our program includes a fascinating tour of an authentically restored ensemble of stone small houses, workshops, exhibits and watermills and a beautiful walk through forest pathways and wooden bridges designed to let you experience the rich diversity of flora and fauna there.</TripItemDescription>
+          <TripItemDescription>Our program includes a fascinating tour of an authentically restored ensemble of stone small houses, experience the rich diversity of flora and fauna there.</TripItemDescription>
           </TripItem>
         </Link>
         
@@ -41,6 +43,7 @@ export default () => {
           <TripItem>
           <img src={raftingPhoto} alt="Rafting" width= "100%"/>
           <TripItemHeading>Rafting</TripItemHeading>
+          <TripItemDescription>Our program includes a fascinating tour of an authentically restored ensemble of stone small houses, experience the rich diversity of flora and fauna there.</TripItemDescription>
           </TripItem>
         </Link>
 
