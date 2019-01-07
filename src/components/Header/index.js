@@ -6,7 +6,12 @@ import NavLink from "./NavLink";
 import styles from "./styles.module.css";
 import NavLinkDrpodown from "./NavLinkDrpodown";
 import DropdownContent from "./DropdownContent";
-import sky from "./Images/sky.png";
+import dropKrka from "./Images/dropKrka.png";
+import dropPlitvice from "./Images/dropPlitvice.png";
+import dropRafting from "./Images/dropRafting.png";
+import dropZip from "./Images/dropZip.jpg";
+
+
 import classNames from 'classnames';
 import { Link } from "gatsby";
 
@@ -19,19 +24,21 @@ export default () => (
         <NavLink to="/" exact="true">
           Home
         </NavLink>
-        <NavLink to="/land tours">Land Tours</NavLink>
-        <NavLink to="/blog">Blog</NavLink>
-        <NavLink to="/about">About</NavLink>
-        <NavLinkDrpodown to="/dropdown">Dropdown
+        <NavLinkDrpodown to="/land tours">Land Tours
           <DropdownContent>
             <Link to ="/krka">
-            <img className={classNames({[styles.DropImage]: true, [styles.Image1]: true})} src={sky} alt="Cinque Terre"   />
+            <img className={classNames({[styles.DropImage]: true, [styles.Image1]: true})} src={dropKrka} alt="Cinque Terre"   />
             </Link>
-            <img className={classNames({[styles.DropImage]: true, [styles.Image2]: true})} src={sky} alt="Cinque Terre"  />
-            <img className={classNames({[styles.DropImage]: true, [styles.Image3]: true})} src={sky} alt="Cinque Terre"   />
-            <img className={classNames({[styles.DropImage]: true, [styles.Image4]: true})} src={sky} alt="Cinque Terre" />
+            <img className={classNames({[styles.DropImage]: true, [styles.Image2]: true})} src={dropPlitvice} alt="Cinque Terre"  />
+            <img className={classNames({[styles.DropImage]: true, [styles.Image3]: true})} src={dropRafting} alt="Cinque Terre"   />
+            <img className={classNames({[styles.DropImage]: true, [styles.Image4]: true})} src={dropZip} alt="Cinque Terre" />
           </DropdownContent>
         </NavLinkDrpodown>
+        <NavLink to="/land tours">Sea Tours</NavLink>
+        <NavLink to="/about">Adventures</NavLink>
+        <NavLink to="/blog">Blog</NavLink>
+
+
       </Nav>
 
     </Container>
