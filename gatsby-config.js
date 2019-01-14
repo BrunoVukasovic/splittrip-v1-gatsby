@@ -6,7 +6,14 @@ module.exports = {
 
   plugins: [
     {
-      resolve: `gatsby-source-filesystem`,  // plugin da zna di su postovi spremljeni
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/content/pages`,
+        name: "pages"
+      }
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/content/posts`,
         name: "posts"

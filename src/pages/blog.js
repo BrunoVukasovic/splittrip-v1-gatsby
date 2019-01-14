@@ -21,7 +21,10 @@ export default ({
 // ono sta dobije s ovim je arg data u gornjoj fiji
 export const query = graphql`
   query BlogIndexQuery {
-    allMarkdownRemark(sort: { fields: frontmatter___date, order: DESC }) {
+    allMarkdownRemark(
+      filter: { fileAbsolutePath: { regex: "/posts/" } }
+      sort: { fields: frontmatter___date, order: DESC }
+      ) {
       edges {
         node {
           id

@@ -3,7 +3,7 @@ import { Layout, TripDescription, Button, ButtonContainer, MainImage } from "../
 import mainImage from "../images/zip16x9.jpg";
 
 
-export default () => {
+export default ({ data: {zip} }) => {
   return (
     <Layout>
         <MainImage src={mainImage} />
@@ -12,7 +12,10 @@ export default () => {
           <Button>Contact Us</Button>
           <Button>Book Now</Button>
         </ButtonContainer>
-        <h2>Zip Line Omis</h2>
+
+        <div dangerouslySetInnerHTML={{ __html: zip.html }} />
+
+        {/* <h2>Zip Line Omis</h2>
         <TripDescription>
             Zipline is an adrenaline entertainment where guests descend through the canyon down the steel wire rope, secured with a belt. Adventure also includes training and a short walk in nature.
             <br /> <br /> 
@@ -22,7 +25,16 @@ export default () => {
             <br /> <br />
             The finish point of a zipline tour is located 50m from the road, and there is our van waiting to take you back to Split.
             <br /> <br />
-        </TripDescription>
+        </TripDescription> */}
     </Layout>
   );
 };
+
+export const query = graphql`
+  query {
+    zip: markdownRemark(
+      frontmatter: { page: { eq: "zip" } }) {
+      html
+    }
+  }
+`;
