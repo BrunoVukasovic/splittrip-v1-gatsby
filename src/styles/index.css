@@ -40,9 +40,6 @@ a {
   outline: 0;
 }
 
-a:hover {
-  border-bottom: 3px solid var(--color-gold, orange);
-}
 
 .figure {
   max-width: 900px;

@@ -18,16 +18,47 @@ import { Link } from "gatsby";
 export default () => (
   <header className={styles.Header}>
     <Container className={styles.Container}>
-      <Logo />
 
+      <div className={styles.Logo}>
+        <Logo  />
+      </div>
 
-        <NavLink to="/" exact="true" className={styles.Home}>
+      <div className={styles.Home}>
+        <NavLink to="/" exact="true" >
           Home
         </NavLink>
-
+      </div>
+      
         <NavLink to="/blog" className={styles.TravelStories}>Travel Stories</NavLink>
 
-        <NavLinkDrpodown to="/land tours" className={styles.LandToursDropDown}>Land Tours
+        <div className={styles.LandToursDropDown}>
+          <NavLinkDrpodown to="/land tours" >Land Tours
+            <DropdownContent>
+              <Link to ="/krka">
+              <img className={classNames({[styles.DropImage]: true, [styles.Image1]: true})} src={dropKrka} alt="Cinque Terre"   />
+              </Link>
+              <img className={classNames({[styles.DropImage]: true, [styles.Image2]: true})} src={dropPlitvice} alt="Cinque Terre"  />
+              <img className={classNames({[styles.DropImage]: true, [styles.Image3]: true})} src={dropRafting} alt="Cinque Terre"   />
+              <img className={classNames({[styles.DropImage]: true, [styles.Image4]: true})} src={dropZip} alt="Cinque Terre" />
+            </DropdownContent>
+          </NavLinkDrpodown>
+        </div>
+
+        <div className={styles.SeaToursDropDown}>
+          <NavLinkDrpodown to="/land tours" >Sea Tours
+            <DropdownContent>
+              <Link to ="/krka">
+              <img className={classNames({[styles.DropImage]: true, [styles.Image1]: true})} src={dropKrka} alt="Cinque Terre"   />
+              </Link>
+              <img className={classNames({[styles.DropImage]: true, [styles.Image2]: true})} src={dropPlitvice} alt="Cinque Terre"  />
+              <img className={classNames({[styles.DropImage]: true, [styles.Image3]: true})} src={dropRafting} alt="Cinque Terre"   />
+              <img className={classNames({[styles.DropImage]: true, [styles.Image4]: true})} src={dropZip} alt="Cinque Terre" />
+            </DropdownContent>
+          </NavLinkDrpodown>
+        </div>
+
+        <div className={styles.AdventuresDropDown}>
+          <NavLinkDrpodown to="/land tours">Adventures
           <DropdownContent>
             <Link to ="/krka">
             <img className={classNames({[styles.DropImage]: true, [styles.Image1]: true})} src={dropKrka} alt="Cinque Terre"   />
@@ -36,34 +67,8 @@ export default () => (
             <img className={classNames({[styles.DropImage]: true, [styles.Image3]: true})} src={dropRafting} alt="Cinque Terre"   />
             <img className={classNames({[styles.DropImage]: true, [styles.Image4]: true})} src={dropZip} alt="Cinque Terre" />
           </DropdownContent>
-        </NavLinkDrpodown>
-
-        <NavLinkDrpodown to="/land tours" className={styles.SeaToursDropDown}>Sea Tours
-          <DropdownContent>
-            <Link to ="/krka">
-            <img className={classNames({[styles.DropImage]: true, [styles.Image1]: true})} src={dropKrka} alt="Cinque Terre"   />
-            </Link>
-            <img className={classNames({[styles.DropImage]: true, [styles.Image2]: true})} src={dropPlitvice} alt="Cinque Terre"  />
-            <img className={classNames({[styles.DropImage]: true, [styles.Image3]: true})} src={dropRafting} alt="Cinque Terre"   />
-            <img className={classNames({[styles.DropImage]: true, [styles.Image4]: true})} src={dropZip} alt="Cinque Terre" />
-          </DropdownContent>
-        </NavLinkDrpodown>
-
-          <NavLinkDrpodown to="/land tours" className={styles.AdventuresDropDown}>Adventures
-          <DropdownContent>
-            <Link to ="/krka">
-            <img className={classNames({[styles.DropImage]: true, [styles.Image1]: true})} src={dropKrka} alt="Cinque Terre"   />
-            </Link>
-            <img className={classNames({[styles.DropImage]: true, [styles.Image2]: true})} src={dropPlitvice} alt="Cinque Terre"  />
-            <img className={classNames({[styles.DropImage]: true, [styles.Image3]: true})} src={dropRafting} alt="Cinque Terre"   />
-            <img className={classNames({[styles.DropImage]: true, [styles.Image4]: true})} src={dropZip} alt="Cinque Terre" />
-          </DropdownContent>
-
-        </NavLinkDrpodown>
-
-
-
-
+          </NavLinkDrpodown>
+        </div>
 
     </Container>
   </header>

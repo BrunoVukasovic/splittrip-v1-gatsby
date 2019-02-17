@@ -10,7 +10,7 @@
 
 .Container {
   display: grid;
-  grid-template-columns: repeat (8, 1fr);
+  grid-template-columns: repeat(8, 1fr);
   grid-template-rows: 1fr 1fr;
 }
 
@@ -46,28 +46,24 @@
   grid-row: 2/3;
 }
 
-.Nav {
+/* .Nav {
   display: flex;
   flex-direction: row;
   align-items: stretch;
   overflow-x: auto;
   overflow-y: hidden;
-}
+} */
 
 .NavLink {
-  display: inline-block;
-  padding: 5px 10px;
   margin-left: 10px;
   text-transform: uppercase;
   cursor: pointer;
   white-space: nowrap;
   font-size: 14px;
   font-weight: normal;
-  color: var(--color-primary, #000000);
-  border-top: 3px solid transparent;
-  border-bottom: 3px solid transparent;
-  transition: all 0.25s linear;
+  color: var(--color-gold, orange);
 }
+
 
 .NavLink:first-child {
   margin-left: 10px;
@@ -76,7 +72,11 @@
 .NavLink__active,
 .NavLink:hover {
   color: var(--color-gold, orange);
-  border-bottom: 3px solid var(--color-gold, orange);
+  font-weight: bold;
+}
+
+.DropDown{
+  color: var(--color-gold, orange);
 }
 
 
