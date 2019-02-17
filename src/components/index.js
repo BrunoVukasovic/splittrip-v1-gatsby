@@ -10,6 +10,8 @@ export { default as ButtonContainer } from "./ButtonContainer";
 export { default as Logo } from "./Logo";
 export { default as TripItemHeading } from "./TripItemHeading";
 export { default as TripItemDescription } from "./TripItemDescription";
+// export { default as FilteredProducts } from "./FilteredProducts";
+
 
 
 

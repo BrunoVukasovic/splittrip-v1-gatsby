@@ -2,6 +2,7 @@
 date: "2018-11-01"
 title: "Post 3"
 slug: post-three
+image: "./images/nathan-anderson-443540-unsplash.jpg"
 ---
 <!-- frontmetter je ovo troje -->
 

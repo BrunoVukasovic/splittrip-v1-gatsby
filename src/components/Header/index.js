@@ -24,7 +24,7 @@ export default () => (
         <NavLink to="/" exact="true">
           Home
         </NavLink>
-        <NavLinkDrpodown to="/land tours">Land Tours
+        <NavLinkDrpodown to="/land tours" className={styles.LandToursDropDown}>Land Tours
           <DropdownContent>
             <Link to ="/krka">
             <img className={classNames({[styles.DropImage]: true, [styles.Image1]: true})} src={dropKrka} alt="Cinque Terre"   />

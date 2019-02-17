@@ -1025,12 +1025,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-01-14T14:37:56.932Z",
+      "buildTime": "2019-02-17T10:18:54.263Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "c9240421ba57ccb2fc49e6d81ecaa102",
+        "contentDigest": "cfdd7d042d0855a5b7a49cfa3ac05232",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1040,7 +1040,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "f3a05ec73e6c29e9ff136993cd505f4b",
+        "contentDigest": "589137380ee97beaee53627f6fd65440",
         "type": "Directory",
         "description": "Directory \"content\\pages\"",
         "owner": "gatsby-source-filesystem"
@@ -1051,9 +1051,9 @@
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2019-01-14T13:57:40.778Z",
-      "accessTime": "2019-01-14T14:38:02.760Z",
-      "changeTime": "2019-01-14T13:57:40.778Z",
+      "modifiedTime": "2019-01-14T15:25:48.514Z",
+      "accessTime": "2019-02-17T10:19:01.587Z",
+      "changeTime": "2019-01-14T15:25:48.514Z",
       "birthTime": "2019-01-14T13:56:56.842Z",
       "root": "C:/",
       "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content",
@@ -1068,13 +1068,13 @@
       "gid": 0,
       "rdev": 0,
       "ino": 8444249301394066,
-      "atimeMs": 1547476682760.1914,
-      "mtimeMs": 1547474260778.0469,
-      "ctimeMs": 1547474260778.0469,
+      "atimeMs": 1550398741586.7861,
+      "mtimeMs": 1547479548514.0745,
+      "ctimeMs": 1547479548514.0745,
       "birthtimeMs": 1547474216841.5938,
-      "atime": "2019-01-14T14:38:02.760Z",
-      "mtime": "2019-01-14T13:57:40.778Z",
-      "ctime": "2019-01-14T13:57:40.778Z",
+      "atime": "2019-02-17T10:19:01.587Z",
+      "mtime": "2019-01-14T15:25:48.514Z",
+      "ctime": "2019-01-14T15:25:48.514Z",
       "birthtime": "2019-01-14T13:56:56.842Z"
     },
     "757ed8de-f120-5f97-a70a-606f80e733f7": {
@@ -1082,7 +1082,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "26b0f8e61b67744679ff8b3ab7d2a523",
+        "contentDigest": "85538185cc9b663f1b76eb0992a6c88f",
         "type": "Directory",
         "description": "Directory \"content\\pages\\zip\"",
         "owner": "gatsby-source-filesystem"
@@ -1094,7 +1094,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2019-01-14T13:57:46.638Z",
-      "accessTime": "2019-01-14T14:38:02.762Z",
+      "accessTime": "2019-02-17T10:19:01.585Z",
       "changeTime": "2019-01-14T13:57:46.638Z",
       "birthTime": "2019-01-14T13:57:40.778Z",
       "root": "C:/",
@@ -1110,11 +1110,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 1407374884424225,
-      "atimeMs": 1547476682762.1917,
+      "atimeMs": 1550398741584.7854,
       "mtimeMs": 1547474266637.9995,
       "ctimeMs": 1547474266637.9995,
       "birthtimeMs": 1547474260778.0469,
-      "atime": "2019-01-14T14:38:02.762Z",
+      "atime": "2019-02-17T10:19:01.585Z",
       "mtime": "2019-01-14T13:57:46.638Z",
       "ctime": "2019-01-14T13:57:46.638Z",
       "birthtime": "2019-01-14T13:57:40.778Z"
@@ -1169,7 +1169,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "8d6b23118ce15d15c90bb277fc32949a",
+        "contentDigest": "c3aa8b30aa57eb3ef10f24a12c4c6b32",
         "type": "Directory",
         "description": "Directory \"content\\posts\"",
         "owner": "gatsby-source-filesystem"
@@ -1181,7 +1181,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2018-12-08T12:53:21.029Z",
-      "accessTime": "2019-01-14T14:38:02.874Z",
+      "accessTime": "2019-02-17T10:19:01.643Z",
       "changeTime": "2018-12-08T12:53:21.029Z",
       "birthTime": "2018-12-08T12:53:20.810Z",
       "root": "C:/",
@@ -1197,11 +1197,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 2533274790495291,
-      "atimeMs": 1547476682874.1965,
+      "atimeMs": 1550398741642.7854,
       "mtimeMs": 1544273601028.7026,
       "ctimeMs": 1544273601028.7026,
       "birthtimeMs": 1544273600809.953,
-      "atime": "2019-01-14T14:38:02.874Z",
+      "atime": "2019-02-17T10:19:01.643Z",
       "mtime": "2018-12-08T12:53:21.029Z",
       "ctime": "2018-12-08T12:53:21.029Z",
       "birthtime": "2018-12-08T12:53:20.810Z"
@@ -1211,7 +1211,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "d6663d85c1f804eb902ea8c0c04bcf71",
+        "contentDigest": "4a506d191dc5dea98b68dca02f0f4963",
         "type": "Directory",
         "description": "Directory \"content\\posts\\03-11-2018--post-5\"",
         "owner": "gatsby-source-filesystem"
@@ -1223,7 +1223,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2018-12-08T12:53:20.888Z",
-      "accessTime": "2019-01-14T14:38:02.845Z",
+      "accessTime": "2019-02-17T10:19:01.617Z",
       "changeTime": "2018-12-08T12:53:20.888Z",
       "birthTime": "2018-12-08T12:53:20.888Z",
       "root": "C:/",
@@ -1239,11 +1239,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 12103423998660628,
-      "atimeMs": 1547476682845.1965,
+      "atimeMs": 1550398741616.787,
       "mtimeMs": 1544273600888.0776,
       "ctimeMs": 1544273600888.0776,
       "birthtimeMs": 1544273600888.0776,
-      "atime": "2019-01-14T14:38:02.845Z",
+      "atime": "2019-02-17T10:19:01.617Z",
       "mtime": "2018-12-08T12:53:20.888Z",
       "ctime": "2018-12-08T12:53:20.888Z",
       "birthtime": "2018-12-08T12:53:20.888Z"
@@ -1253,7 +1253,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "9e06a738f73a9411aab80e59c9793512",
+        "contentDigest": "0aac4738abdfc9736d1a71a2a3749ab1",
         "type": "Directory",
         "description": "Directory \"content\\posts\\01-11-2018--post-3\"",
         "owner": "gatsby-source-filesystem"
@@ -1265,7 +1265,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2018-12-08T12:53:20.826Z",
-      "accessTime": "2019-01-14T14:38:02.846Z",
+      "accessTime": "2019-02-17T10:19:01.615Z",
       "changeTime": "2018-12-08T12:53:20.826Z",
       "birthTime": "2018-12-08T12:53:20.826Z",
       "root": "C:/",
@@ -1281,11 +1281,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 2533274790495294,
-      "atimeMs": 1547476682846.1914,
+      "atimeMs": 1550398741614.7866,
       "mtimeMs": 1544273600825.5957,
       "ctimeMs": 1544273600825.5957,
       "birthtimeMs": 1544273600825.5957,
-      "atime": "2019-01-14T14:38:02.846Z",
+      "atime": "2019-02-17T10:19:01.615Z",
       "mtime": "2018-12-08T12:53:20.826Z",
       "ctime": "2018-12-08T12:53:20.826Z",
       "birthtime": "2018-12-08T12:53:20.826Z"
@@ -1295,7 +1295,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "27bc6f78788e32a3408aa0e808d0485e",
+        "contentDigest": "b78c97f2ad086e8ea5745a4279f58ce5",
         "type": "Directory",
         "description": "Directory \"content\\posts\\06-11-2018--post-6\"",
         "owner": "gatsby-source-filesystem"
@@ -1307,7 +1307,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2018-12-08T12:53:20.919Z",
-      "accessTime": "2019-01-14T14:38:02.849Z",
+      "accessTime": "2019-02-17T10:19:01.619Z",
       "changeTime": "2018-12-08T12:53:20.919Z",
       "birthTime": "2018-12-08T12:53:20.919Z",
       "root": "C:/",
@@ -1323,11 +1323,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 13510798882215328,
-      "atimeMs": 1547476682849.1912,
+      "atimeMs": 1550398741618.7866,
       "mtimeMs": 1544273600919.3284,
       "ctimeMs": 1544273600919.3284,
       "birthtimeMs": 1544273600919.3284,
-      "atime": "2019-01-14T14:38:02.849Z",
+      "atime": "2019-02-17T10:19:01.619Z",
       "mtime": "2018-12-08T12:53:20.919Z",
       "ctime": "2018-12-08T12:53:20.919Z",
       "birthtime": "2018-12-08T12:53:20.919Z"
@@ -1337,7 +1337,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "f10ba9b0928f4e9c6ab04db87de7a785",
+        "contentDigest": "0e544fe7a68d531b7e707ea6407ae235",
         "type": "Directory",
         "description": "Directory \"content\\posts\\02-11-2018--post-4\"",
         "owner": "gatsby-source-filesystem"
@@ -1349,7 +1349,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2018-12-08T12:53:20.857Z",
-      "accessTime": "2019-01-14T14:38:02.842Z",
+      "accessTime": "2019-02-17T10:19:01.620Z",
       "changeTime": "2018-12-08T12:53:20.857Z",
       "birthTime": "2018-12-08T12:53:20.857Z",
       "root": "C:/",
@@ -1365,11 +1365,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 12666373952081776,
-      "atimeMs": 1547476682842.191,
+      "atimeMs": 1550398741619.787,
       "mtimeMs": 1544273600856.828,
       "ctimeMs": 1544273600856.828,
       "birthtimeMs": 1544273600856.828,
-      "atime": "2019-01-14T14:38:02.842Z",
+      "atime": "2019-02-17T10:19:01.620Z",
       "mtime": "2018-12-08T12:53:20.857Z",
       "ctime": "2018-12-08T12:53:20.857Z",
       "birthtime": "2018-12-08T12:53:20.857Z"
@@ -1379,7 +1379,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "97e8eb63d9e0a102a2fd2ff2c2a5016e",
+        "contentDigest": "45a93384095d926ee2077e214fc5c7c2",
         "type": "Directory",
         "description": "Directory \"content\\posts\\30-10-2018--hello-world\"",
         "owner": "gatsby-source-filesystem"
@@ -1391,7 +1391,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2018-12-08T12:53:20.982Z",
-      "accessTime": "2019-01-14T14:38:02.848Z",
+      "accessTime": "2019-02-17T10:19:01.622Z",
       "changeTime": "2018-12-08T12:53:20.982Z",
       "birthTime": "2018-12-08T12:53:20.982Z",
       "root": "C:/",
@@ -1407,11 +1407,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 4503599627474395,
-      "atimeMs": 1547476682848.1912,
+      "atimeMs": 1550398741621.7864,
       "mtimeMs": 1544273600981.8276,
       "ctimeMs": 1544273600981.8276,
       "birthtimeMs": 1544273600981.8276,
-      "atime": "2019-01-14T14:38:02.848Z",
+      "atime": "2019-02-17T10:19:01.622Z",
       "mtime": "2018-12-08T12:53:20.982Z",
       "ctime": "2018-12-08T12:53:20.982Z",
       "birthtime": "2018-12-08T12:53:20.982Z"
@@ -1421,7 +1421,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "9ea1f049a72ebbb35ff7cb15182f956e",
+        "contentDigest": "40d0fdafa4f1b7353b457a3a6670161b",
         "type": "Directory",
         "description": "Directory \"content\\posts\\31-10-2018--post-2\"",
         "owner": "gatsby-source-filesystem"
@@ -1433,7 +1433,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2018-12-08T12:53:21.044Z",
-      "accessTime": "2019-01-14T14:38:02.850Z",
+      "accessTime": "2019-02-17T10:19:01.623Z",
       "changeTime": "2018-12-08T12:53:21.044Z",
       "birthTime": "2018-12-08T12:53:21.029Z",
       "root": "C:/",
@@ -1449,11 +1449,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 5629499534317563,
-      "atimeMs": 1547476682850.1912,
+      "atimeMs": 1550398741622.786,
       "mtimeMs": 1544273601044.3757,
       "ctimeMs": 1544273601044.3757,
       "birthtimeMs": 1544273601028.7026,
-      "atime": "2019-01-14T14:38:02.850Z",
+      "atime": "2019-02-17T10:19:01.623Z",
       "mtime": "2018-12-08T12:53:21.044Z",
       "ctime": "2018-12-08T12:53:21.044Z",
       "birthtime": "2018-12-08T12:53:21.029Z"
@@ -1463,7 +1463,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "af38a81491d31f7a53863ba6ee282a54",
+        "contentDigest": "01360f9d89d94b37ae1da86c26fafbae",
         "type": "Directory",
         "description": "Directory \"content\\posts\\02-11-2018--post-4\\images\"",
         "owner": "gatsby-source-filesystem"
@@ -1475,7 +1475,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2018-12-08T12:53:20.872Z",
-      "accessTime": "2019-01-14T14:38:02.862Z",
+      "accessTime": "2019-02-17T10:19:01.642Z",
       "changeTime": "2018-12-08T12:53:20.872Z",
       "birthTime": "2018-12-08T12:53:20.857Z",
       "root": "C:/",
@@ -1491,11 +1491,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 14355223812345752,
-      "atimeMs": 1547476682862.191,
+      "atimeMs": 1550398741641.7854,
       "mtimeMs": 1544273600872.453,
       "ctimeMs": 1544273600872.453,
       "birthtimeMs": 1544273600856.828,
-      "atime": "2019-01-14T14:38:02.862Z",
+      "atime": "2019-02-17T10:19:01.642Z",
       "mtime": "2018-12-08T12:53:20.872Z",
       "ctime": "2018-12-08T12:53:20.872Z",
       "birthtime": "2018-12-08T12:53:20.857Z"
@@ -1505,7 +1505,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "25b78a4e82f54cfbe53687462a3d7e4f",
+        "contentDigest": "76b3e92ee1e505aedf82b8afc0acef84",
         "type": "Directory",
         "description": "Directory \"content\\posts\\03-11-2018--post-5\\images\"",
         "owner": "gatsby-source-filesystem"
@@ -1517,7 +1517,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2018-12-08T14:20:01.697Z",
-      "accessTime": "2019-01-14T14:38:02.866Z",
+      "accessTime": "2019-02-17T10:19:01.639Z",
       "changeTime": "2018-12-08T14:20:01.697Z",
       "birthTime": "2018-12-08T12:53:20.888Z",
       "root": "C:/",
@@ -1533,11 +1533,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 3096224743920833,
-      "atimeMs": 1547476682866.1907,
+      "atimeMs": 1550398741638.786,
       "mtimeMs": 1544278801696.7842,
       "ctimeMs": 1544278801696.7842,
       "birthtimeMs": 1544273600888.0776,
-      "atime": "2019-01-14T14:38:02.866Z",
+      "atime": "2019-02-17T10:19:01.639Z",
       "mtime": "2018-12-08T14:20:01.697Z",
       "ctime": "2018-12-08T14:20:01.697Z",
       "birthtime": "2018-12-08T12:53:20.888Z"
@@ -1547,7 +1547,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "1423410b4c0cce6936dde452a566f6fe",
+        "contentDigest": "bf1bdaa6e246b4ceddfc9b9608381f88",
         "type": "Directory",
         "description": "Directory \"content\\posts\\01-11-2018--post-3\\images\"",
         "owner": "gatsby-source-filesystem"
@@ -1559,7 +1559,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2018-12-08T12:53:20.841Z",
-      "accessTime": "2019-01-14T14:38:02.871Z",
+      "accessTime": "2019-02-17T10:19:01.635Z",
       "changeTime": "2018-12-08T12:53:20.841Z",
       "birthTime": "2018-12-08T12:53:20.826Z",
       "root": "C:/",
@@ -1575,11 +1575,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 10696049115104492,
-      "atimeMs": 1547476682871.1936,
+      "atimeMs": 1550398741634.7866,
       "mtimeMs": 1544273600841.2024,
       "ctimeMs": 1544273600841.2024,
       "birthtimeMs": 1544273600825.5957,
-      "atime": "2019-01-14T14:38:02.871Z",
+      "atime": "2019-02-17T10:19:01.635Z",
       "mtime": "2018-12-08T12:53:20.841Z",
       "ctime": "2018-12-08T12:53:20.841Z",
       "birthtime": "2018-12-08T12:53:20.826Z"
@@ -1589,7 +1589,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "d45bd37c5f5e66c5a82fab7a846cfc82",
+        "contentDigest": "47ced921aa3276eb9e8b702f6449f2a5",
         "type": "Directory",
         "description": "Directory \"content\\posts\\30-10-2018--hello-world\\images\"",
         "owner": "gatsby-source-filesystem"
@@ -1601,7 +1601,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2018-12-08T12:53:21.013Z",
-      "accessTime": "2019-01-14T14:38:02.869Z",
+      "accessTime": "2019-02-17T10:19:01.642Z",
       "changeTime": "2018-12-08T12:53:21.013Z",
       "birthTime": "2018-12-08T12:53:20.982Z",
       "root": "C:/",
@@ -1617,11 +1617,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 6473924464449459,
-      "atimeMs": 1547476682869.191,
+      "atimeMs": 1550398741641.7854,
       "mtimeMs": 1544273601013.0798,
       "ctimeMs": 1544273601013.0798,
       "birthtimeMs": 1544273600981.8276,
-      "atime": "2019-01-14T14:38:02.869Z",
+      "atime": "2019-02-17T10:19:01.642Z",
       "mtime": "2018-12-08T12:53:21.013Z",
       "ctime": "2018-12-08T12:53:21.013Z",
       "birthtime": "2018-12-08T12:53:20.982Z"
@@ -1631,7 +1631,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "9398339fe845f83cfd698e261c4450ba",
+        "contentDigest": "cc87309e70d825200affd44f7f981895",
         "type": "Directory",
         "description": "Directory \"content\\posts\\06-11-2018--post-6\\images\"",
         "owner": "gatsby-source-filesystem"
@@ -1643,7 +1643,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2018-12-08T14:09:18.391Z",
-      "accessTime": "2019-01-14T14:38:02.874Z",
+      "accessTime": "2019-02-17T10:19:01.641Z",
       "changeTime": "2018-12-08T14:09:18.391Z",
       "birthTime": "2018-12-08T12:53:20.919Z",
       "root": "C:/",
@@ -1659,11 +1659,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 6755399441159633,
-      "atimeMs": 1547476682874.1965,
+      "atimeMs": 1550398741640.7854,
       "mtimeMs": 1544278158391.4846,
       "ctimeMs": 1544278158391.4846,
       "birthtimeMs": 1544273600919.3284,
-      "atime": "2019-01-14T14:38:02.874Z",
+      "atime": "2019-02-17T10:19:01.641Z",
       "mtime": "2018-12-08T14:09:18.391Z",
       "ctime": "2018-12-08T14:09:18.391Z",
       "birthtime": "2018-12-08T12:53:20.919Z"
@@ -1673,7 +1673,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "691e1b52df0c3fdbe2cc8f4ca0c5e8ba",
+        "contentDigest": "9f3d6be92d333cc91cd8d64811a1f42c",
         "type": "Directory",
         "description": "Directory \"content\\posts\\31-10-2018--post-2\\images\"",
         "owner": "gatsby-source-filesystem"
@@ -1685,7 +1685,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2018-12-08T12:53:21.060Z",
-      "accessTime": "2019-01-14T14:38:02.867Z",
+      "accessTime": "2019-02-17T10:19:01.643Z",
       "changeTime": "2018-12-08T12:53:21.060Z",
       "birthTime": "2018-12-08T12:53:21.044Z",
       "root": "C:/",
@@ -1701,11 +1701,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 5066549580896258,
-      "atimeMs": 1547476682867.191,
+      "atimeMs": 1550398741642.7854,
       "mtimeMs": 1544273601060.004,
       "ctimeMs": 1544273601060.004,
       "birthtimeMs": 1544273601044.3757,
-      "atime": "2019-01-14T14:38:02.867Z",
+      "atime": "2019-02-17T10:19:01.643Z",
       "mtime": "2018-12-08T12:53:21.060Z",
       "ctime": "2018-12-08T12:53:21.060Z",
       "birthtime": "2018-12-08T12:53:21.044Z"
@@ -1762,7 +1762,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "fd097b4f0bfd131a155a58ba281ddd85",
+        "contentDigest": "49fc54b8dd2db2990200a75222aedf9a",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"content\\posts\\01-11-2018--post-3\\index.md\"",
@@ -1772,11 +1772,11 @@
       "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/01-11-2018--post-3/index.md",
       "relativePath": "01-11-2018--post-3/index.md",
       "extension": "md",
-      "size": 2282,
-      "prettySize": "2.28 kB",
-      "modifiedTime": "2018-12-06T19:58:27.703Z",
-      "accessTime": "2019-01-14T14:17:04.209Z",
-      "changeTime": "2018-12-06T19:58:27.703Z",
+      "size": 2337,
+      "prettySize": "2.34 kB",
+      "modifiedTime": "2019-01-14T15:56:12.042Z",
+      "accessTime": "2019-01-14T15:56:12.098Z",
+      "changeTime": "2019-01-14T15:56:12.042Z",
       "birthTime": "2018-12-08T12:53:20.826Z",
       "root": "C:/",
       "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/01-11-2018--post-3",
@@ -1791,13 +1791,13 @@
       "gid": 0,
       "rdev": 0,
       "ino": 2814749767205956,
-      "atimeMs": 1547475424209.1191,
-      "mtimeMs": 1544126307703.0999,
-      "ctimeMs": 1544126307703.0999,
+      "atimeMs": 1547481372097.9653,
+      "mtimeMs": 1547481372041.9663,
+      "ctimeMs": 1547481372041.9663,
       "birthtimeMs": 1544273600825.5957,
-      "atime": "2019-01-14T14:17:04.209Z",
-      "mtime": "2018-12-06T19:58:27.703Z",
-      "ctime": "2018-12-06T19:58:27.703Z",
+      "atime": "2019-01-14T15:56:12.098Z",
+      "mtime": "2019-01-14T15:56:12.042Z",
+      "ctime": "2019-01-14T15:56:12.042Z",
       "birthtime": "2018-12-08T12:53:20.826Z"
     },
     "0bd72cb5-5a0f-5c2a-8d2a-761590bd7ed1": {
@@ -2256,25 +2256,6 @@
       "excerpt": "",
       "rawMarkdownBody": "\r\n<!-- markdownlint-disable MD033 -->\r\n\r\n# [Lorem Ipsum](https://www.lipsum.com/)\r\n\r\n<figure class=\"figure\">\r\n    <img src=\"./images/austin-neill-222827-unsplash.jpg\" alt=\"Title\"/>\r\n    <figcaption class=\"figure__caption\">Title</figcaption>\r\n</figure>\r\n\r\n## What is Lorem Ipsum\r\n\r\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\r\n\r\n## Where does it come from?\r\n\r\n<figure class=\"figure\">\r\n    <img src=\"./images/clem-onojeghuo-203219-unsplash.jpg\" alt=\"Title\"/>\r\n    <figcaption class=\"figure__caption\">Title</figcaption>\r\n</figure>\r\n\r\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\r\n\r\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\r\n",
       "fileAbsolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/02-11-2018--post-4/index.md"
-    },
-    "5cf42cbc-cd47-5527-999b-8f87ffced445": {
-      "id": "5cf42cbc-cd47-5527-999b-8f87ffced445",
-      "children": [],
-      "parent": "53768703-b905-5559-a0db-b36b1ebeaad1",
-      "internal": {
-        "content": "<!-- frontmetter je ovo troje -->\r\n\r\n<!-- markdownlint-disable MD033 -->\r\n\r\n<!-- pomocu plugina gatsby md pretvori u html -->\r\n\r\n# [Lorem Ipsum](https://www.lipsum.com/)\r\n\r\n<figure class=\"figure\">\r\n    <img src=\"./images/geran-de-klerk-136351-unsplash.jpg\" alt=\"Title\"/>\r\n    <figcaption class=\"figure__caption\">Title</figcaption>\r\n</figure>\r\n\r\n## What is Lorem Ipsum\r\n\r\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\r\n\r\n## Where does it come from?\r\n\r\n<figure class=\"figure\">\r\n    <img src=\"./images/nathan-anderson-443540-unsplash.jpg\" alt=\"Title\"/>\r\n    <figcaption class=\"figure__caption\">Title</figcaption>\r\n</figure>\r\n\r\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\r\n\r\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\r\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "f154151f78316597e7e3c87ef30c44f6",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "Post 3",
-        "date": "2018-11-01",
-        "slug": "post-three"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "<!-- frontmetter je ovo troje -->\r\n\r\n<!-- markdownlint-disable MD033 -->\r\n\r\n<!-- pomocu plugina gatsby md pretvori u html -->\r\n\r\n# [Lorem Ipsum](https://www.lipsum.com/)\r\n\r\n<figure class=\"figure\">\r\n    <img src=\"./images/geran-de-klerk-136351-unsplash.jpg\" alt=\"Title\"/>\r\n    <figcaption class=\"figure__caption\">Title</figcaption>\r\n</figure>\r\n\r\n## What is Lorem Ipsum\r\n\r\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\r\n\r\n## Where does it come from?\r\n\r\n<figure class=\"figure\">\r\n    <img src=\"./images/nathan-anderson-443540-unsplash.jpg\" alt=\"Title\"/>\r\n    <figcaption class=\"figure__caption\">Title</figcaption>\r\n</figure>\r\n\r\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\r\n\r\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\r\n",
-      "fileAbsolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/01-11-2018--post-3/index.md"
     },
     "4506ea4c-ea45-5e6a-9f88-286bedc5179a": {
       "id": "4506ea4c-ea45-5e6a-9f88-286bedc5179a",
@@ -2868,27 +2849,148 @@
       "ctime": "2018-12-08T14:09:47.218Z",
       "birthtime": "2018-12-08T12:53:20.935Z"
     },
-    "SitePage /blog/null": {
-      "jsonName": "blog-null-65f",
-      "internalComponentName": "ComponentBlogNull",
-      "path": "/blog/null",
-      "component": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "slug": null
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
-      "id": "SitePage /blog/null",
-      "parent": "SOURCE",
+    "7a810208-dbbf-5e6f-b0c5-f4f4152264b5": {
+      "id": "7a810208-dbbf-5e6f-b0c5-f4f4152264b5",
       "children": [],
+      "parent": null,
       "internal": {
-        "type": "SitePage",
-        "contentDigest": "39993d846cca2dc745cbab253855f2e1",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
+        "contentDigest": "b0448ff0bf2435540b0d28ba65ddac95",
+        "type": "Directory",
+        "description": "Directory \"content\\pages\\blue-cave\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/blue-cave",
+      "relativePath": "blue-cave",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2019-01-14T15:25:59.690Z",
+      "accessTime": "2019-02-17T10:19:01.587Z",
+      "changeTime": "2019-01-14T15:25:59.690Z",
+      "birthTime": "2019-01-14T15:25:48.513Z",
+      "root": "C:/",
+      "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages",
+      "base": "blue-cave",
+      "ext": "",
+      "name": "blue-cave",
+      "relativeDirectory": "",
+      "dev": 2597077015,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 163536961468907970,
+      "atimeMs": 1550398741586.7861,
+      "mtimeMs": 1547479559689.7112,
+      "ctimeMs": 1547479559689.7112,
+      "birthtimeMs": 1547479548513.0735,
+      "atime": "2019-02-17T10:19:01.587Z",
+      "mtime": "2019-01-14T15:25:59.690Z",
+      "ctime": "2019-01-14T15:25:59.690Z",
+      "birthtime": "2019-01-14T15:25:48.513Z"
+    },
+    "43ec9c2e-7f84-59c9-a2c7-6afcb218098f": {
+      "id": "43ec9c2e-7f84-59c9-a2c7-6afcb218098f",
+      "children": [
+        "5a35df30-f219-5c9d-8dc6-f61b1d36fda7"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "c9f495b15033f77b2a4366c4b127924d",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content\\pages\\blue-cave\\blue-cave.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/blue-cave/blue-cave.md",
+      "relativePath": "blue-cave/blue-cave.md",
+      "extension": "md",
+      "size": 2457,
+      "prettySize": "2.46 kB",
+      "modifiedTime": "2019-01-14T15:27:20.700Z",
+      "accessTime": "2019-01-14T15:25:59.690Z",
+      "changeTime": "2019-01-14T15:27:20.700Z",
+      "birthTime": "2019-01-14T15:25:59.690Z",
+      "root": "C:/",
+      "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/blue-cave",
+      "base": "blue-cave.md",
+      "ext": ".md",
+      "name": "blue-cave",
+      "relativeDirectory": "blue-cave",
+      "dev": 2597077015,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 8444249301865550,
+      "atimeMs": 1547479559689.7112,
+      "mtimeMs": 1547479640699.9453,
+      "ctimeMs": 1547479640699.9453,
+      "birthtimeMs": 1547479559689.7112,
+      "atime": "2019-01-14T15:25:59.690Z",
+      "mtime": "2019-01-14T15:27:20.700Z",
+      "ctime": "2019-01-14T15:27:20.700Z",
+      "birthtime": "2019-01-14T15:25:59.690Z"
+    },
+    "5a35df30-f219-5c9d-8dc6-f61b1d36fda7": {
+      "id": "5a35df30-f219-5c9d-8dc6-f61b1d36fda7",
+      "children": [],
+      "parent": "43ec9c2e-7f84-59c9-a2c7-6afcb218098f",
+      "internal": {
+        "content": "\r\n# Blue Cave\r\n\r\nFor all sea lovers, but also for those who want to see something unique, Blue cave tour from Split is perfect excursion! \r\nJump on speedboat for an early morning exciting <strong> 90 minutes ride to Biševo Island </strong>and the Blue cave visit from Split. We will arrive around 09:30h, just in time for memorable scenery when the sunlight reflects through the sea and illuminates the entire cave in <strong>aquamarine blue light</strong>. Listen the story from official local guide of how the cave was discovered and what makes the magic.\r\n<br /> <br /> \r\nAfter the cave tour, we are back on a speedboat to our next attraction which is <strong>Monk Seal cave</strong>, where the Mediterranean\r\nmonk seal used to reside. Passing beside picturesque southern side of the island Vis, where full of caves, beaches and diverse forms of nature and rocks caused by changes on the sea, our next destination is Stiniva bay, voted best European beach in 2016., where we'll stop for a swim in the unique narrow bay that ends with a white pebbles beach.\r\n<br /> <br />\r\nAfterwards we stop on Budikovac island for a longer swim on hidden white pebble beach with turquoise sea color. On our way to the island of Hvar you will enjoy the panoramic view of the amazing archipelago of Pakleni islands – the oldest and the most famous Hvar’s resort, spacious lagoon with shallow  sandy beaches, surrounded by pine forest, \r\nfragrant heather and rosemary bushes and various exotic plants.\r\n<br /> <br />\r\nFree time for a lunch in Palmizana at Pakleni islands. \r\nOur final stop is town of Hvar, on the island Hvar,<strong> one of most beautiful harbours of the world</strong>, with beautiful nature and surroundings, as well a rich cultural heritage, with walls dating back to the 7th century, and many 15th-17th century Venetian era noble houses.\r\nExplore the town by yourself and enjoy the real Mediterranean atmosphere and local hospitality.\r\n<br /> <br />\r\nOur Blue cave and Hvar tour from Split ends with a quiet ride on the smooth sea at sunset, so you can enjoy all the beauty and all the colors of the sunset at the open sea.\r\nThere you will have more time for swimming and sunbathing on a beautiful pebble beach.\r\n<br /> <br />\r\n<strong>NOTE:</strong> Guest should have proper clothing, wind jacket, bathing suite, hat, additional clothes for change, towel, sunglasses and suncream.\r\n<br /> <br />",
+        "type": "MarkdownRemark",
+        "contentDigest": "04cd87394df1529cd0235f42e25d65a3",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Blue Cave",
+        "page": "blue-cave"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\r\n# Blue Cave\r\n\r\nFor all sea lovers, but also for those who want to see something unique, Blue cave tour from Split is perfect excursion! \r\nJump on speedboat for an early morning exciting <strong> 90 minutes ride to Biševo Island </strong>and the Blue cave visit from Split. We will arrive around 09:30h, just in time for memorable scenery when the sunlight reflects through the sea and illuminates the entire cave in <strong>aquamarine blue light</strong>. Listen the story from official local guide of how the cave was discovered and what makes the magic.\r\n<br /> <br /> \r\nAfter the cave tour, we are back on a speedboat to our next attraction which is <strong>Monk Seal cave</strong>, where the Mediterranean\r\nmonk seal used to reside. Passing beside picturesque southern side of the island Vis, where full of caves, beaches and diverse forms of nature and rocks caused by changes on the sea, our next destination is Stiniva bay, voted best European beach in 2016., where we'll stop for a swim in the unique narrow bay that ends with a white pebbles beach.\r\n<br /> <br />\r\nAfterwards we stop on Budikovac island for a longer swim on hidden white pebble beach with turquoise sea color. On our way to the island of Hvar you will enjoy the panoramic view of the amazing archipelago of Pakleni islands – the oldest and the most famous Hvar’s resort, spacious lagoon with shallow  sandy beaches, surrounded by pine forest, \r\nfragrant heather and rosemary bushes and various exotic plants.\r\n<br /> <br />\r\nFree time for a lunch in Palmizana at Pakleni islands. \r\nOur final stop is town of Hvar, on the island Hvar,<strong> one of most beautiful harbours of the world</strong>, with beautiful nature and surroundings, as well a rich cultural heritage, with walls dating back to the 7th century, and many 15th-17th century Venetian era noble houses.\r\nExplore the town by yourself and enjoy the real Mediterranean atmosphere and local hospitality.\r\n<br /> <br />\r\nOur Blue cave and Hvar tour from Split ends with a quiet ride on the smooth sea at sunset, so you can enjoy all the beauty and all the colors of the sunset at the open sea.\r\nThere you will have more time for swimming and sunbathing on a beautiful pebble beach.\r\n<br /> <br />\r\n<strong>NOTE:</strong> Guest should have proper clothing, wind jacket, bathing suite, hat, additional clothes for change, towel, sunglasses and suncream.\r\n<br /> <br />",
+      "fileAbsolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/blue-cave/blue-cave.md"
+    },
+    "d4eadccc-47e9-58a5-99b1-017208d28c7a": {
+      "id": "d4eadccc-47e9-58a5-99b1-017208d28c7a",
+      "children": [],
+      "parent": "f5cff41f-de67-59da-90c1-282dbb8ac90d",
+      "internal": {
+        "content": "\r\n# Zip line Omiš\r\n\r\nZipline is an adrenaline entertainment where guests descend through the canyon down the steel wire rope, secured with a belt. Adventure also includes training and a short walk in nature.\r\n<br /> <br /> \r\nZipline is located 3 km from Omis, in the canyon of the Cetina River and consists of eight wires total length of 2100m . Depending on the size of the group, zipline gives you up to 3 hours of unforgettable fun and beautiful nature .\r\n<br /> <br /> \r\nWe organized the transfer to the start and back (3 km from Omis) by our vehicle. Before the beginning, the group goes to the training ground and each guest receives equipment . There are two short wires, length 25m , where guides show you how to brake and act on cable. The next thing is a short walk to the first wire. During the walk, you can enjoy the beautiful, almost untouched nature and stunning views of the Cetina river canyon. Before each wire, one of the guides demonstrate descend, while the second guide attaches you and gives you instructions. First guide welcomes you at the beginning of the second wire. That is the system to pass all eight wires.\r\n<br /> <br /> \r\nThe finish point of a zipline tour is located 50m from the road, and there is our van waiting to take you back to Split.",
+        "type": "MarkdownRemark",
+        "contentDigest": "4ef56c7f227848181c949affa0fc67c4",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Zip line",
+        "page": "zip"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\r\n# Zip line Omiš\r\n\r\nZipline is an adrenaline entertainment where guests descend through the canyon down the steel wire rope, secured with a belt. Adventure also includes training and a short walk in nature.\r\n<br /> <br /> \r\nZipline is located 3 km from Omis, in the canyon of the Cetina River and consists of eight wires total length of 2100m . Depending on the size of the group, zipline gives you up to 3 hours of unforgettable fun and beautiful nature .\r\n<br /> <br /> \r\nWe organized the transfer to the start and back (3 km from Omis) by our vehicle. Before the beginning, the group goes to the training ground and each guest receives equipment . There are two short wires, length 25m , where guides show you how to brake and act on cable. The next thing is a short walk to the first wire. During the walk, you can enjoy the beautiful, almost untouched nature and stunning views of the Cetina river canyon. Before each wire, one of the guides demonstrate descend, while the second guide attaches you and gives you instructions. First guide welcomes you at the beginning of the second wire. That is the system to pass all eight wires.\r\n<br /> <br /> \r\nThe finish point of a zipline tour is located 50m from the road, and there is our van waiting to take you back to Split.",
+      "fileAbsolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/zip/zip.md"
+    },
+    "5cf42cbc-cd47-5527-999b-8f87ffced445": {
+      "id": "5cf42cbc-cd47-5527-999b-8f87ffced445",
+      "children": [],
+      "parent": "53768703-b905-5559-a0db-b36b1ebeaad1",
+      "internal": {
+        "content": "<!-- frontmetter je ovo troje -->\r\n\r\n<!-- markdownlint-disable MD033 -->\r\n\r\n<!-- pomocu plugina gatsby md pretvori u html -->\r\n\r\n# [Lorem Ipsum](https://www.lipsum.com/)\r\n\r\n<figure class=\"figure\">\r\n    <img src=\"./images/geran-de-klerk-136351-unsplash.jpg\" alt=\"Title\"/>\r\n    <figcaption class=\"figure__caption\">Title</figcaption>\r\n</figure>\r\n\r\n## What is Lorem Ipsum\r\n\r\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\r\n\r\n## Where does it come from?\r\n\r\n<figure class=\"figure\">\r\n    <img src=\"./images/nathan-anderson-443540-unsplash.jpg\" alt=\"Title\"/>\r\n    <figcaption class=\"figure__caption\">Title</figcaption>\r\n</figure>\r\n\r\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\r\n\r\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\r\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "b469618213a42411e89281b0d5557beb",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Post 3",
+        "date": "2018-11-01",
+        "slug": "post-three",
+        "image": "./images/nathan-anderson-443540-unsplash.jpg"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "<!-- frontmetter je ovo troje -->\r\n\r\n<!-- markdownlint-disable MD033 -->\r\n\r\n<!-- pomocu plugina gatsby md pretvori u html -->\r\n\r\n# [Lorem Ipsum](https://www.lipsum.com/)\r\n\r\n<figure class=\"figure\">\r\n    <img src=\"./images/geran-de-klerk-136351-unsplash.jpg\" alt=\"Title\"/>\r\n    <figcaption class=\"figure__caption\">Title</figcaption>\r\n</figure>\r\n\r\n## What is Lorem Ipsum\r\n\r\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\r\n\r\n## Where does it come from?\r\n\r\n<figure class=\"figure\">\r\n    <img src=\"./images/nathan-anderson-443540-unsplash.jpg\" alt=\"Title\"/>\r\n    <figcaption class=\"figure__caption\">Title</figcaption>\r\n</figure>\r\n\r\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\r\n\r\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\r\n",
+      "fileAbsolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/posts/01-11-2018--post-3/index.md"
     },
     "SitePage /blog/post-four": {
       "jsonName": "blog-post-four-acd",
@@ -2908,28 +3010,6 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "df5e56846b130fd5a670ded4ec196050",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /blog/post-three": {
-      "jsonName": "blog-post-three-0ca",
-      "internalComponentName": "ComponentBlogPostThree",
-      "path": "/blog/post-three",
-      "component": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "slug": "post-three"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
-      "id": "SitePage /blog/post-three",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "d21ec1ac9d422cbbf37e6b1fd13c2927",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -3018,6 +3098,50 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "d654e486cacb98bf6bf22acb938cef81",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/null": {
+      "jsonName": "blog-null-65f",
+      "internalComponentName": "ComponentBlogNull",
+      "path": "/blog/null",
+      "component": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": null
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
+      "id": "SitePage /blog/null",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "39993d846cca2dc745cbab253855f2e1",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/post-three": {
+      "jsonName": "blog-post-three-0ca",
+      "internalComponentName": "ComponentBlogPostThree",
+      "path": "/blog/post-three",
+      "component": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "post-three"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
+      "id": "SitePage /blog/post-three",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d21ec1ac9d422cbbf37e6b1fd13c2927",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -3221,129 +3345,6 @@
         "description": "e7a5f0b6-1a8f-5a0a-939f-45e02538515b",
         "owner": "internal-data-bridge"
       }
-    },
-    "7a810208-dbbf-5e6f-b0c5-f4f4152264b5": {
-      "id": "7a810208-dbbf-5e6f-b0c5-f4f4152264b5",
-      "children": [],
-      "parent": null,
-      "internal": {
-        "contentDigest": "cec3a93eeea40894bdec37bc73f87829",
-        "type": "Directory",
-        "description": "Directory \"content\\pages\\blue-cave\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/blue-cave",
-      "relativePath": "blue-cave",
-      "extension": "",
-      "size": 0,
-      "prettySize": "0 B",
-      "modifiedTime": "2019-01-14T15:25:48.513Z",
-      "accessTime": "2019-01-14T15:25:48.513Z",
-      "changeTime": "2019-01-14T15:25:48.513Z",
-      "birthTime": "2019-01-14T15:25:48.513Z",
-      "root": "C:/",
-      "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages",
-      "base": "blue-cave",
-      "ext": "",
-      "name": "blue-cave",
-      "relativeDirectory": "",
-      "dev": 2597077015,
-      "mode": 16822,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 163536961468907970,
-      "atimeMs": 1547479548513.0735,
-      "mtimeMs": 1547479548513.0735,
-      "ctimeMs": 1547479548513.0735,
-      "birthtimeMs": 1547479548513.0735,
-      "atime": "2019-01-14T15:25:48.513Z",
-      "mtime": "2019-01-14T15:25:48.513Z",
-      "ctime": "2019-01-14T15:25:48.513Z",
-      "birthtime": "2019-01-14T15:25:48.513Z"
-    },
-    "43ec9c2e-7f84-59c9-a2c7-6afcb218098f": {
-      "id": "43ec9c2e-7f84-59c9-a2c7-6afcb218098f",
-      "children": [
-        "5a35df30-f219-5c9d-8dc6-f61b1d36fda7"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "c9f495b15033f77b2a4366c4b127924d",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"content\\pages\\blue-cave\\blue-cave.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/blue-cave/blue-cave.md",
-      "relativePath": "blue-cave/blue-cave.md",
-      "extension": "md",
-      "size": 2457,
-      "prettySize": "2.46 kB",
-      "modifiedTime": "2019-01-14T15:27:20.700Z",
-      "accessTime": "2019-01-14T15:25:59.690Z",
-      "changeTime": "2019-01-14T15:27:20.700Z",
-      "birthTime": "2019-01-14T15:25:59.690Z",
-      "root": "C:/",
-      "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/blue-cave",
-      "base": "blue-cave.md",
-      "ext": ".md",
-      "name": "blue-cave",
-      "relativeDirectory": "blue-cave",
-      "dev": 2597077015,
-      "mode": 33206,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 8444249301865550,
-      "atimeMs": 1547479559689.7112,
-      "mtimeMs": 1547479640699.9453,
-      "ctimeMs": 1547479640699.9453,
-      "birthtimeMs": 1547479559689.7112,
-      "atime": "2019-01-14T15:25:59.690Z",
-      "mtime": "2019-01-14T15:27:20.700Z",
-      "ctime": "2019-01-14T15:27:20.700Z",
-      "birthtime": "2019-01-14T15:25:59.690Z"
-    },
-    "5a35df30-f219-5c9d-8dc6-f61b1d36fda7": {
-      "id": "5a35df30-f219-5c9d-8dc6-f61b1d36fda7",
-      "children": [],
-      "parent": "43ec9c2e-7f84-59c9-a2c7-6afcb218098f",
-      "internal": {
-        "content": "\r\n# Blue Cave\r\n\r\nFor all sea lovers, but also for those who want to see something unique, Blue cave tour from Split is perfect excursion! \r\nJump on speedboat for an early morning exciting <strong> 90 minutes ride to Biševo Island </strong>and the Blue cave visit from Split. We will arrive around 09:30h, just in time for memorable scenery when the sunlight reflects through the sea and illuminates the entire cave in <strong>aquamarine blue light</strong>. Listen the story from official local guide of how the cave was discovered and what makes the magic.\r\n<br /> <br /> \r\nAfter the cave tour, we are back on a speedboat to our next attraction which is <strong>Monk Seal cave</strong>, where the Mediterranean\r\nmonk seal used to reside. Passing beside picturesque southern side of the island Vis, where full of caves, beaches and diverse forms of nature and rocks caused by changes on the sea, our next destination is Stiniva bay, voted best European beach in 2016., where we'll stop for a swim in the unique narrow bay that ends with a white pebbles beach.\r\n<br /> <br />\r\nAfterwards we stop on Budikovac island for a longer swim on hidden white pebble beach with turquoise sea color. On our way to the island of Hvar you will enjoy the panoramic view of the amazing archipelago of Pakleni islands – the oldest and the most famous Hvar’s resort, spacious lagoon with shallow  sandy beaches, surrounded by pine forest, \r\nfragrant heather and rosemary bushes and various exotic plants.\r\n<br /> <br />\r\nFree time for a lunch in Palmizana at Pakleni islands. \r\nOur final stop is town of Hvar, on the island Hvar,<strong> one of most beautiful harbours of the world</strong>, with beautiful nature and surroundings, as well a rich cultural heritage, with walls dating back to the 7th century, and many 15th-17th century Venetian era noble houses.\r\nExplore the town by yourself and enjoy the real Mediterranean atmosphere and local hospitality.\r\n<br /> <br />\r\nOur Blue cave and Hvar tour from Split ends with a quiet ride on the smooth sea at sunset, so you can enjoy all the beauty and all the colors of the sunset at the open sea.\r\nThere you will have more time for swimming and sunbathing on a beautiful pebble beach.\r\n<br /> <br />\r\n<strong>NOTE:</strong> Guest should have proper clothing, wind jacket, bathing suite, hat, additional clothes for change, towel, sunglasses and suncream.\r\n<br /> <br />",
-        "type": "MarkdownRemark",
-        "contentDigest": "04cd87394df1529cd0235f42e25d65a3",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "Blue Cave",
-        "page": "blue-cave"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\r\n# Blue Cave\r\n\r\nFor all sea lovers, but also for those who want to see something unique, Blue cave tour from Split is perfect excursion! \r\nJump on speedboat for an early morning exciting <strong> 90 minutes ride to Biševo Island </strong>and the Blue cave visit from Split. We will arrive around 09:30h, just in time for memorable scenery when the sunlight reflects through the sea and illuminates the entire cave in <strong>aquamarine blue light</strong>. Listen the story from official local guide of how the cave was discovered and what makes the magic.\r\n<br /> <br /> \r\nAfter the cave tour, we are back on a speedboat to our next attraction which is <strong>Monk Seal cave</strong>, where the Mediterranean\r\nmonk seal used to reside. Passing beside picturesque southern side of the island Vis, where full of caves, beaches and diverse forms of nature and rocks caused by changes on the sea, our next destination is Stiniva bay, voted best European beach in 2016., where we'll stop for a swim in the unique narrow bay that ends with a white pebbles beach.\r\n<br /> <br />\r\nAfterwards we stop on Budikovac island for a longer swim on hidden white pebble beach with turquoise sea color. On our way to the island of Hvar you will enjoy the panoramic view of the amazing archipelago of Pakleni islands – the oldest and the most famous Hvar’s resort, spacious lagoon with shallow  sandy beaches, surrounded by pine forest, \r\nfragrant heather and rosemary bushes and various exotic plants.\r\n<br /> <br />\r\nFree time for a lunch in Palmizana at Pakleni islands. \r\nOur final stop is town of Hvar, on the island Hvar,<strong> one of most beautiful harbours of the world</strong>, with beautiful nature and surroundings, as well a rich cultural heritage, with walls dating back to the 7th century, and many 15th-17th century Venetian era noble houses.\r\nExplore the town by yourself and enjoy the real Mediterranean atmosphere and local hospitality.\r\n<br /> <br />\r\nOur Blue cave and Hvar tour from Split ends with a quiet ride on the smooth sea at sunset, so you can enjoy all the beauty and all the colors of the sunset at the open sea.\r\nThere you will have more time for swimming and sunbathing on a beautiful pebble beach.\r\n<br /> <br />\r\n<strong>NOTE:</strong> Guest should have proper clothing, wind jacket, bathing suite, hat, additional clothes for change, towel, sunglasses and suncream.\r\n<br /> <br />",
-      "fileAbsolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/blue-cave/blue-cave.md"
-    },
-    "d4eadccc-47e9-58a5-99b1-017208d28c7a": {
-      "id": "d4eadccc-47e9-58a5-99b1-017208d28c7a",
-      "children": [],
-      "parent": "f5cff41f-de67-59da-90c1-282dbb8ac90d",
-      "internal": {
-        "content": "\r\n# Zip line Omiš\r\n\r\nZipline is an adrenaline entertainment where guests descend through the canyon down the steel wire rope, secured with a belt. Adventure also includes training and a short walk in nature.\r\n<br /> <br /> \r\nZipline is located 3 km from Omis, in the canyon of the Cetina River and consists of eight wires total length of 2100m . Depending on the size of the group, zipline gives you up to 3 hours of unforgettable fun and beautiful nature .\r\n<br /> <br /> \r\nWe organized the transfer to the start and back (3 km from Omis) by our vehicle. Before the beginning, the group goes to the training ground and each guest receives equipment . There are two short wires, length 25m , where guides show you how to brake and act on cable. The next thing is a short walk to the first wire. During the walk, you can enjoy the beautiful, almost untouched nature and stunning views of the Cetina river canyon. Before each wire, one of the guides demonstrate descend, while the second guide attaches you and gives you instructions. First guide welcomes you at the beginning of the second wire. That is the system to pass all eight wires.\r\n<br /> <br /> \r\nThe finish point of a zipline tour is located 50m from the road, and there is our van waiting to take you back to Split.",
-        "type": "MarkdownRemark",
-        "contentDigest": "4ef56c7f227848181c949affa0fc67c4",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "Zip line",
-        "page": "zip"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\r\n# Zip line Omiš\r\n\r\nZipline is an adrenaline entertainment where guests descend through the canyon down the steel wire rope, secured with a belt. Adventure also includes training and a short walk in nature.\r\n<br /> <br /> \r\nZipline is located 3 km from Omis, in the canyon of the Cetina River and consists of eight wires total length of 2100m . Depending on the size of the group, zipline gives you up to 3 hours of unforgettable fun and beautiful nature .\r\n<br /> <br /> \r\nWe organized the transfer to the start and back (3 km from Omis) by our vehicle. Before the beginning, the group goes to the training ground and each guest receives equipment . There are two short wires, length 25m , where guides show you how to brake and act on cable. The next thing is a short walk to the first wire. During the walk, you can enjoy the beautiful, almost untouched nature and stunning views of the Cetina river canyon. Before each wire, one of the guides demonstrate descend, while the second guide attaches you and gives you instructions. First guide welcomes you at the beginning of the second wire. That is the system to pass all eight wires.\r\n<br /> <br /> \r\nThe finish point of a zipline tour is located 50m from the road, and there is our van waiting to take you back to Split.",
-      "fileAbsolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/zip/zip.md"
     }
   },
   "status": {
