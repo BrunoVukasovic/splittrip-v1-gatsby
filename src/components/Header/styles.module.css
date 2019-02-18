@@ -31,6 +31,11 @@
   grid-row: 1/2;
 }
 
+.logIn{
+  grid-column: 7/8;
+  grid-row: 1/2;
+}
+
 .LandToursDropDown{
   grid-column: 3/4;
   grid-row: 2/3;

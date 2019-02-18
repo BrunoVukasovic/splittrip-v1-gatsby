@@ -21,11 +21,6 @@
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
-        "jsonName": "blog-null-65f",
-        "path": "/blog/null"
-    },
-    {
-        "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "blog-post-four-acd",
         "path": "/blog/post-four"
     },
@@ -83,6 +78,11 @@
         "componentChunkName": "component---src-pages-land-tours-js",
         "jsonName": "land-tours-c24",
         "path": "/land tours/"
+    },
+    {
+        "componentChunkName": "component---src-pages-log-in-js",
+        "jsonName": "log-in-ad0",
+        "path": "/log-in/"
     },
     {
         "componentChunkName": "component---src-pages-plitvice-js",

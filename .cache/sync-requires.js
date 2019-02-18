@@ -14,6 +14,7 @@ exports.components = {
   "component---src-pages-index-js": hot(preferDefault(require("C:\\My Documents\\HCI\\travel-agency\\creating-blog\\splittrip\\src\\pages\\index.js"))),
   "component---src-pages-krka-js": hot(preferDefault(require("C:\\My Documents\\HCI\\travel-agency\\creating-blog\\splittrip\\src\\pages\\krka.js"))),
   "component---src-pages-land-tours-js": hot(preferDefault(require("C:\\My Documents\\HCI\\travel-agency\\creating-blog\\splittrip\\src\\pages\\land tours.js"))),
+  "component---src-pages-log-in-js": hot(preferDefault(require("C:\\My Documents\\HCI\\travel-agency\\creating-blog\\splittrip\\src\\pages\\log-in.js"))),
   "component---src-pages-plitvice-js": hot(preferDefault(require("C:\\My Documents\\HCI\\travel-agency\\creating-blog\\splittrip\\src\\pages\\plitvice.js"))),
   "component---src-pages-proba-js": hot(preferDefault(require("C:\\My Documents\\HCI\\travel-agency\\creating-blog\\splittrip\\src\\pages\\proba.js"))),
   "component---src-pages-rafting-js": hot(preferDefault(require("C:\\My Documents\\HCI\\travel-agency\\creating-blog\\splittrip\\src\\pages\\rafting.js"))),

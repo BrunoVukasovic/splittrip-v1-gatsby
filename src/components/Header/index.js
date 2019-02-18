@@ -36,7 +36,13 @@ export default () => {
         </NavLink>
       </div>
       
-        <NavLink to="/blog" className={styles.TravelStories}>Travel Stories</NavLink>
+      <div className={styles.TravelStories}>
+        <NavLink to="/blog">Travel Stories</NavLink>
+      </div>
+
+      <div className={styles.logIn}>
+        <NavLink to="/log-in">Log In</NavLink>
+      </div>
 
         <div className={styles.LandToursDropDown}>
           <NavLinkDrpodown to="/land tours" >Land Tours <FontAwesomeIcon icon="angle-double-down" />  
