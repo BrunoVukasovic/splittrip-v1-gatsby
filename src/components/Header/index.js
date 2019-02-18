@@ -10,12 +10,16 @@ import dropKrka from "./Images/dropKrka.png";
 import dropPlitvice from "./Images/dropPlitvice.png";
 import dropRafting from "./Images/dropRafting.png";
 import dropZip from "./Images/dropZip.jpg";
+import FilteredProducts from "../FilteredProducts";
 
 
 import classNames from 'classnames';
 import { Link } from "gatsby";
 
-export default () => (
+export default () => {
+
+  
+  return(
   <header className={styles.Header}>
     <Container className={styles.Container}>
 
@@ -70,6 +74,11 @@ export default () => (
           </NavLinkDrpodown>
         </div>
 
+        <div className={styles.searchBar}>
+          <NavLink to="/search" className={styles.searchBar}>Search</NavLink>
+        </div>
+
     </Container>
   </header>
 );
+};

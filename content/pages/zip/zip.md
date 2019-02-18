@@ -1,6 +1,8 @@
 ---
 page: "zip"
 title: "Zip line"
+slug: zip
+image: "./images/geran-de-klerk-136351-unsplash.jpg"
 ---
 
 # Zip line Omiš

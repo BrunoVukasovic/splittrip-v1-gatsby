@@ -12,9 +12,11 @@ exports.components = {
   "component---src-pages-krka-js": () => import("C:\\My Documents\\HCI\\travel-agency\\creating-blog\\splittrip\\src\\pages\\krka.js" /* webpackChunkName: "component---src-pages-krka-js" */),
   "component---src-pages-land-tours-js": () => import("C:\\My Documents\\HCI\\travel-agency\\creating-blog\\splittrip\\src\\pages\\land tours.js" /* webpackChunkName: "component---src-pages-land-tours-js" */),
   "component---src-pages-plitvice-js": () => import("C:\\My Documents\\HCI\\travel-agency\\creating-blog\\splittrip\\src\\pages\\plitvice.js" /* webpackChunkName: "component---src-pages-plitvice-js" */),
+  "component---src-pages-proba-js": () => import("C:\\My Documents\\HCI\\travel-agency\\creating-blog\\splittrip\\src\\pages\\proba.js" /* webpackChunkName: "component---src-pages-proba-js" */),
   "component---src-pages-rafting-js": () => import("C:\\My Documents\\HCI\\travel-agency\\creating-blog\\splittrip\\src\\pages\\rafting.js" /* webpackChunkName: "component---src-pages-rafting-js" */),
+  "component---src-pages-search-js": () => import("C:\\My Documents\\HCI\\travel-agency\\creating-blog\\splittrip\\src\\pages\\search.js" /* webpackChunkName: "component---src-pages-search-js" */),
   "component---src-pages-zip-js": () => import("C:\\My Documents\\HCI\\travel-agency\\creating-blog\\splittrip\\src\\pages\\zip.js" /* webpackChunkName: "component---src-pages-zip-js" */)
 }
 
-exports.data = () => import("C:\\My Documents\\HCI\\travel-agency\\creating-blog\\splittrip\\.cache\\data.json")
+exports.data = () => import(/* webpackChunkName: "pages-manifest" */ "C:\\My Documents\\HCI\\travel-agency\\creating-blog\\splittrip\\.cache\\data.json")
 

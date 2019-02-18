@@ -1,6 +1,8 @@
 ---
 page: "blue-cave"
 title: "Blue Cave"
+slug: blue-cave
+image: "./images/geran-de-klerk-136351-unsplash.jpg"
 ---
 
 # Blue Cave

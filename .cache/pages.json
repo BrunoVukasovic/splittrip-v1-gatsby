@@ -16,6 +16,11 @@
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "blog-blue-cave-3be",
+        "path": "/blog/blue-cave"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "blog-null-65f",
         "path": "/blog/null"
     },
@@ -50,6 +55,11 @@
         "path": "/blog/why-you-should-see-the-dalmatian-coast"
     },
     {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "blog-zip-ca9",
+        "path": "/blog/zip"
+    },
+    {
         "componentChunkName": "component---src-pages-blue-cave-js",
         "jsonName": "blue-cave-c13",
         "path": "/blue-cave/"
@@ -80,9 +90,19 @@
         "path": "/plitvice/"
     },
     {
+        "componentChunkName": "component---src-pages-proba-js",
+        "jsonName": "proba-d13",
+        "path": "/proba/"
+    },
+    {
         "componentChunkName": "component---src-pages-rafting-js",
         "jsonName": "rafting-159",
         "path": "/rafting/"
+    },
+    {
+        "componentChunkName": "component---src-pages-search-js",
+        "jsonName": "search-a73",
+        "path": "/search/"
     },
     {
         "componentChunkName": "component---src-pages-zip-js",

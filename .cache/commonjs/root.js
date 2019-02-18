@@ -29,29 +29,23 @@ var _jsonStore = _interopRequireDefault(require("./json-store"));
 
 var _ensureResources = _interopRequireDefault(require("./ensure-resources"));
 
-var ErrorOverlay = _interopRequireWildcard(require("react-error-overlay"));
-
-// Report runtime errors
-ErrorOverlay.startReportingRuntimeErrors({
-  onError: () => {},
-  filename: `/commons.js`
-});
-ErrorOverlay.setEditorHandler(errorLocation => window.fetch(`/__open-stack-frame-in-editor?fileName=` + window.encodeURIComponent(errorLocation.fileName) + `&lineNumber=` + window.encodeURIComponent(errorLocation.lineNumber || 1)));
+var _errorOverlayHandler = require("./error-overlay-handler");
 
 if (window.__webpack_hot_middleware_reporter__ !== undefined) {
-  // Report build errors
+  const overlayErrorID = `webpack`; // Report build errors
+
   window.__webpack_hot_middleware_reporter__.useCustomOverlay({
     showProblems(type, obj) {
       if (type !== `errors`) {
-        ErrorOverlay.dismissBuildError();
+        (0, _errorOverlayHandler.clearError)(overlayErrorID);
         return;
       }
 
-      ErrorOverlay.reportBuildError(obj[0]);
+      (0, _errorOverlayHandler.reportError)(overlayErrorID, obj[0]);
     },
 
     clear() {
-      ErrorOverlay.dismissBuildError();
+      (0, _errorOverlayHandler.clearError)(overlayErrorID);
     }
 
   });
@@ -80,16 +74,26 @@ class RouteHandler extends _react.default.Component {
     } else {
       const dev404Page = _pages.default.find(p => /^\/dev-404-page\/?$/.test(p.path));
 
-      const custom404 = locationAndPageResources => _loader.default.getPage(`/404.html`) ? _react.default.createElement(_jsonStore.default, (0, _extends2.default)({
-        pages: _pages.default
-      }, this.props, locationAndPageResources)) : null;
+      const Dev404Page = _syncRequires.default.components[dev404Page.componentChunkName];
+
+      if (!_loader.default.getPage(`/404.html`)) {
+        return _react.default.createElement(_navigation.RouteUpdates, {
+          location: location
+        }, _react.default.createElement(Dev404Page, (0, _extends2.default)({
+          pages: _pages.default
+        }, this.props)));
+      }
 
       return _react.default.createElement(_ensureResources.default, {
         location: location
-      }, locationAndPageResources => (0, _react.createElement)(_syncRequires.default.components[dev404Page.componentChunkName], Object.assign({
+      }, locationAndPageResources => _react.default.createElement(_navigation.RouteUpdates, {
+        location: location
+      }, _react.default.createElement(Dev404Page, (0, _extends2.default)({
         pages: _pages.default,
-        custom404: custom404(locationAndPageResources)
-      }, this.props)));
+        custom404: _react.default.createElement(_jsonStore.default, (0, _extends2.default)({
+          pages: _pages.default
+        }, this.props, locationAndPageResources))
+      }, this.props))));
     }
   }
 
