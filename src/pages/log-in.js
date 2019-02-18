@@ -8,7 +8,7 @@ import {
   handleLogin,
   handleLogout,
   isLoggedIn
-} from "../services/authentication/auth.js";
+} from "../components/services/authentication/auth.js";
 import { navigate } from "gatsby";
 import styles from "../styles/pages/private.module.css";
 
