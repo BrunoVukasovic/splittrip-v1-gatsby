@@ -43,3 +43,48 @@
     border: 1px solid #888;
     width: 80%; /* Could be more or less, depending on screen size */
   }
+
+  .SubmitCancleDiv{
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .Submit{
+    width: 30%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.Cancle{
+  width: 30%;
+  background-color:red;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.Submit:hover{
+    background-color: #45a049;
+}
+
+.Close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.Close:hover,
+.Close:focus {
+  color: var(--color-gold);
+  text-decoration: none;
+  cursor: pointer;
+}

@@ -1,14 +1,16 @@
 import React, { Component } from "react";
 import styles from "./styles.module.css";
+import Modal from "./Modal";
 
 class Button extends Component {
   constructor(props){
     super(props);
     this.state = {clicked: false};
     this.handleClick = this.handleClick.bind(this);
-    console.log(props);
+    this.handleSubmit = this.handleSubmit.bind(this);
+    /*console.log(props);
     console.log(props.children);
-    console.log(props.heading);
+    console.log(props.heading);*/
   }
   
   handleClick(){
@@ -16,33 +18,27 @@ class Button extends Component {
       this.setState({ clicked: true});
   }
 
+  handleSubmit(){
+    this.setState({ clicked: false});
+  }
+
   render() {
     return(
-      <div className={styles.NekiDiv}>
+      <div>
       
       <button onClick={this.handleClick} className={styles.Button}>{this.props.children}</button>
 
       <div className={this.state.clicked ? styles.ModalBlock : styles.ModalNone}>
         <div className={styles.ModalContent}>
-          <p>neki tekst u modalu</p>
-
-          <div>
-    <label for="fname">First Name</label>
-    <input type="text" id="fname" name="firstname" placeholder="Your name.." />
-
-    <label for="lname">Last Name</label>
-    <input type="text" id="lname" name="lastname" placeholder="Your last name.." />
-
-    <label for="country">Country</label>
-    <select id="country" name="country">
-      <option value="australia">Australia</option>
-      <option value="canada">Canada</option>
-      <option value="usa">USA</option>
-    </select>
-  
-    <input type="submit" value="Submit" />
-</div>
+          <span onClick={this.handleSubmit} className={styles.Close}>&times;</span>
+          <h2>{this.props.children}</h2>
+          <Modal type={this.props.children}></Modal>
+          <div className={styles.SubmitCancleDiv}>
+            <button onClick={this.handleSubmit} className={styles.Cancle}>Cancle</button>
+            <button onClick={this.handleSubmit} className={styles.Submit}>Submit</button>
+          </div>
         </div>
+
       </div>
 
       </div>
