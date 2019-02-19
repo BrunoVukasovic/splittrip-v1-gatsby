@@ -9,7 +9,7 @@ export default () => {
         <MainImage src={mainImage} />
 
         <ButtonContainer>
-          <Button>Contact Us</Button>
+          <Button heading={"Krka"}>Contact Us</Button>
           <Button>Book Now</Button>
         </ButtonContainer>
         <h2>Krka waterfalls</h2>

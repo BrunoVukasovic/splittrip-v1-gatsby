@@ -100,6 +100,11 @@
         "path": "/search/"
     },
     {
+        "componentChunkName": "component---src-pages-sign-up-js",
+        "jsonName": "sign-up-684",
+        "path": "/sign-up/"
+    },
+    {
         "componentChunkName": "component---src-pages-zip-js",
         "jsonName": "zip-a67",
         "path": "/zip/"

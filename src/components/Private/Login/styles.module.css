@@ -12,7 +12,7 @@
 }
 
 .LoginForm__input:focus {
-  border-color: var(--color-gatsby);
+  border-color: var(--color-gold);
 }
 
 .LoginForm__button,
@@ -23,7 +23,7 @@
 }
 
 .LoginForm__button {
-  background-color: var(--color-gatsby);
+  background-color: var(--color-gold);
   color: white;
   border: none;
   cursor: pointer;

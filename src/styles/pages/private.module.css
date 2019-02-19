@@ -1,7 +1,6 @@
 .Logout {
-  position: absolute;
-  top: 0;
-  right: 0;
+  position: relative;
+  float: right;
   background: var(--color-gold);
   color: white;
   padding: 0.5rem 2rem;

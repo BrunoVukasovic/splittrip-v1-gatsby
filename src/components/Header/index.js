@@ -41,7 +41,7 @@ export default () => {
       </div>
 
       <div className={styles.logIn}>
-        <NavLink to="/log-in">Log In</NavLink>
+        <NavLink to="/log-in">My Trips</NavLink>
       </div>
 
         <div className={styles.LandToursDropDown}>

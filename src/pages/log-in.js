@@ -1,5 +1,5 @@
 import React from "react";
-import { PrivateRoute } from "../components";
+import { PrivateRoute, Layout, Container } from "../components";
 import { Router } from "@reach/router";
 import Login from "../components/Private/Login";
 import Dashboard from "../components/Private/pages/Dashboard.js";
@@ -11,6 +11,7 @@ import {
 } from "../components/services/authentication/auth.js";
 import { navigate } from "gatsby";
 import styles from "../styles/pages/private.module.css";
+import UpcomingTrips from "../components/Private/UpcomingTrips";
 
 const Logout = () => (
   <a
@@ -28,14 +29,21 @@ const Logout = () => (
 
 export default () => (
   <>
-    {isLoggedIn() ? (
-      <Logout />
-    ) : (
-      <>
-        <h1>Private</h1>
-        <Login private="/log-in/dashboard" handleLogin={handleLogin} />
-      </>
-    )}
+    <Layout>
+      <Container>
+      {isLoggedIn() ? (
+        <>
+            <Logout />
+            <UpcomingTrips />
+        </>
+      ) : (
+        <>
+          <h2>Log in to view your trips</h2>
+          <Login private="/log-in/dashboard" handleLogin={handleLogin} />
+        </>
+      )}
+      </Container>
+    </Layout>
 
     <Router>
       <PrivateRoute

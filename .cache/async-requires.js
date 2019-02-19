@@ -16,6 +16,7 @@ exports.components = {
   "component---src-pages-proba-js": () => import("C:\\My Documents\\HCI\\travel-agency\\creating-blog\\splittrip\\src\\pages\\proba.js" /* webpackChunkName: "component---src-pages-proba-js" */),
   "component---src-pages-rafting-js": () => import("C:\\My Documents\\HCI\\travel-agency\\creating-blog\\splittrip\\src\\pages\\rafting.js" /* webpackChunkName: "component---src-pages-rafting-js" */),
   "component---src-pages-search-js": () => import("C:\\My Documents\\HCI\\travel-agency\\creating-blog\\splittrip\\src\\pages\\search.js" /* webpackChunkName: "component---src-pages-search-js" */),
+  "component---src-pages-sign-up-js": () => import("C:\\My Documents\\HCI\\travel-agency\\creating-blog\\splittrip\\src\\pages\\sign-up.js" /* webpackChunkName: "component---src-pages-sign-up-js" */),
   "component---src-pages-zip-js": () => import("C:\\My Documents\\HCI\\travel-agency\\creating-blog\\splittrip\\src\\pages\\zip.js" /* webpackChunkName: "component---src-pages-zip-js" */)
 }
 

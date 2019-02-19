@@ -19,6 +19,7 @@ exports.components = {
   "component---src-pages-proba-js": hot(preferDefault(require("C:\\My Documents\\HCI\\travel-agency\\creating-blog\\splittrip\\src\\pages\\proba.js"))),
   "component---src-pages-rafting-js": hot(preferDefault(require("C:\\My Documents\\HCI\\travel-agency\\creating-blog\\splittrip\\src\\pages\\rafting.js"))),
   "component---src-pages-search-js": hot(preferDefault(require("C:\\My Documents\\HCI\\travel-agency\\creating-blog\\splittrip\\src\\pages\\search.js"))),
+  "component---src-pages-sign-up-js": hot(preferDefault(require("C:\\My Documents\\HCI\\travel-agency\\creating-blog\\splittrip\\src\\pages\\sign-up.js"))),
   "component---src-pages-zip-js": hot(preferDefault(require("C:\\My Documents\\HCI\\travel-agency\\creating-blog\\splittrip\\src\\pages\\zip.js")))
 }
 
