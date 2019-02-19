@@ -3,6 +3,8 @@
   --color-grey: #eeeeee;
   --color-dark-grey: #776666;
   --color-gold:rgb(32,0,255);
+  --color-gatsby: rgb(102, 51, 153);
+  --color-gatsby-light: rgb(233, 228, 238);
 }
 
 html {

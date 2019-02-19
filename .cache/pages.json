@@ -80,11 +80,6 @@
         "path": "/land tours/"
     },
     {
-        "componentChunkName": "component---src-pages-log-in-js",
-        "jsonName": "log-in-ad0",
-        "path": "/log-in/"
-    },
-    {
         "componentChunkName": "component---src-pages-plitvice-js",
         "jsonName": "plitvice-2e9",
         "path": "/plitvice/"
@@ -108,5 +103,11 @@
         "componentChunkName": "component---src-pages-zip-js",
         "jsonName": "zip-a67",
         "path": "/zip/"
+    },
+    {
+        "componentChunkName": "component---src-pages-log-in-js",
+        "jsonName": "log-in-ad0",
+        "path": "/log-in/",
+        "matchPath": "/log-in/*"
     }
 ]
