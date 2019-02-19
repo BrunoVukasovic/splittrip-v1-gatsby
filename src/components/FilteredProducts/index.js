@@ -4,6 +4,7 @@ import { Link } from "gatsby";
 import Img from "gatsby-image";
 import styles from "./styles.module.css";
 import SearchIcon from "./SearchIcon";
+import { Button } from "..";
 
 class FilteredProducts extends Component {
   state = {
@@ -52,6 +53,33 @@ class FilteredProducts extends Component {
       );
     });
 
+    // if search results are null
+    if(this.state.search.length>0 && matchedPosts.length>0) {
+      return (
+        <>
+        <div className={styles.InputContainer}>
+          <label className={styles.Label}>
+            <input
+              className={styles.Input}
+              type="search"
+              value={this.state.search}
+              onChange={this.onChange}
+              placeholder="Search trips"
+            />
+            <SearchIcon className={styles.SearchIcon} />
+          </label>
+        </div>
+
+        <div className={styles.ResultsContainer}>
+          <p>We do not have that trip yet. Contact us and we will find it for you!</p>
+          <div className={styles.divBtn}>
+            <Button>Contact us!</Button>
+          </div>
+        </div>
+        </>
+      );
+    }
+    else {
     return (
       <>
         <div className={styles.InputContainer}>
@@ -61,7 +89,7 @@ class FilteredProducts extends Component {
               type="search"
               value={this.state.search}
               onChange={this.onChange}
-              placeholder="Search posts"
+              placeholder="Search trips"
             />
             <SearchIcon className={styles.SearchIcon} />
           </label>
@@ -70,6 +98,8 @@ class FilteredProducts extends Component {
         <div className={styles.ResultsContainer}>{matchedPosts}</div>
       </>
     );
+  }
+
   }
 }
 
