@@ -4,7 +4,8 @@
   grid-template-rows: 1fr 4fr;
   grid-gap: 10px;
   color: black;
-  background-color: rgb(240, 249, 252);
+  /* background-color: rgb(240, 249, 252); */
+  background-color: var(--color-light);
   width: 90%;
   margin: 30px auto;
   cursor: pointer;

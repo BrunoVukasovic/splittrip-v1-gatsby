@@ -22,17 +22,3 @@
 .InputSubmit:hover{
     background-color: #45a049;
 }
-
-.Close {
-    color: #aaaaaa;
-    float: right;
-    font-size: 28px;
-    font-weight: bold;
-}
-  
-.Close:hover,
-.Close:focus {
-    color: #000;
-    text-decoration: none;
-    cursor: pointer;
-}
