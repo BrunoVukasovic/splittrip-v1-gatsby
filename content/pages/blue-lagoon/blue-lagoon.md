@@ -1,7 +1,8 @@
 ---
 page: "blue-lagoon"
-title: "blue lagoon"
+title: "Blue Lagoon"
 slug: blue-lagoon
+image: "../images/vis4x3.jpg"
 ---
 
 # Blue Lagoon

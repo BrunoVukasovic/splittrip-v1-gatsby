@@ -1,7 +1,8 @@
 ---
 page: "dubrovnik"
-title: "dubrovnik"
+title: "Dubrovnik"
 slug: dubrovnik
+image: "../images/vis4x3.jpg"
 ---
 
 # Dubrovnik

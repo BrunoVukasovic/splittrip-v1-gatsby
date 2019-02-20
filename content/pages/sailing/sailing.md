@@ -1,7 +1,8 @@
 ---
 page: "sailing"
-title: "sailing"
+title: "Sailing"
 slug: sailing
+image: "../images/vis4x3.jpg"
 ---
 
 # Sailing

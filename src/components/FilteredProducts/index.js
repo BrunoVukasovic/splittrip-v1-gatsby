@@ -54,7 +54,7 @@ class FilteredProducts extends Component {
     });
 
     // if search results are null
-    if(this.state.search.length>0 && matchedPosts.length>0) {
+    if(this.state.search.length>0 && matchedPosts.length == 0) {
       return (
         <>
         <div className={styles.InputContainer}>

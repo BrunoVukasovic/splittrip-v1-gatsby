@@ -1,7 +1,8 @@
 ---
 page: "omis"
-title: "omis"
+title: "Omis"
 slug: omis
+image: "../images/vis4x3.jpg"
 ---
 
 # Omiš

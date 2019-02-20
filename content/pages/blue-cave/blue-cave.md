@@ -1,7 +1,8 @@
 ---
 page: "blue-cave"
-title: "blue Cave"
+title: "Blue Cave"
 slug: blue-cave
+image: "../images/vis4x3.jpg"
 ---
 
 # Blue Cave

@@ -1,7 +1,8 @@
 ---
 page: "zip"
-title: "zip line"
+title: "Zip line"
 slug: zip
+image: "../images/vis4x3.jpg"
 ---
 
 # Zip line Omiš

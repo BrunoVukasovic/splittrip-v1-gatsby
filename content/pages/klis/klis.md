@@ -2,6 +2,7 @@
 page: "klis"
 title: "Klis"
 slug: klis
+image: "../images/vis4x3.jpg"
 ---
 
 # KLIS & SALONA

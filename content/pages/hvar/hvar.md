@@ -1,7 +1,8 @@
 ---
 page: "hvar"
-title: "hvar"
+title: "Hvar"
 slug: hvar
+image: "../images/vis4x3.jpg"
 ---
 
 # Hvar

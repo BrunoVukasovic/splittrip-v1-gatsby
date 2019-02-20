@@ -1,7 +1,8 @@
 ---
 page: "vis"
-title: "vis"
+title: "Vis"
 slug: vis
+image: "../images/vis4x3.jpg"
 ---
 
 # Vis

@@ -1,7 +1,8 @@
 ---
 page: "plitvice"
-title: "plitvice"
+title: "Plitvice"
 slug: plitvice
+image: "../images/vis4x3.jpg"
 ---
 
 # Plitvice lakes

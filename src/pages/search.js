@@ -15,30 +15,30 @@ export default ({ data: {posts} }) => {
 };
 
 export const query = graphql`
-  query {
-    posts: allMarkdownRemark(
-      filter: { fileAbsolutePath: { regex: "/pages/" } }
-      sort: { fields: [frontmatter___title], order: ASC }
-    ) {
-      markdowns: edges {
-        markdown: node {
-          id
-          excerpt(pruneLength: 600)
-          frontmatter {
-            title
-            slug
-            image {
-              childImageSharp {
-                fluid(
-                  maxWidth: 350
-                  maxHeight: 260
-                  cropFocus: NORTH
-                ) {src}
-              }
+query {
+  posts: allMarkdownRemark(
+    filter: { fileAbsolutePath: { regex: "/pages/" } }
+    sort: { fields: [frontmatter___title], order: ASC }
+  ) {
+    markdowns: edges {
+      markdown: node {
+        id
+        excerpt(pruneLength: 600)
+        frontmatter {
+          title
+          slug
+          image {
+            childImageSharp {
+              fluid(
+                maxWidth: 350
+                maxHeight: 260
+                cropFocus: NORTH
+              ) {src}
             }
           }
         }
       }
     }
   }
+}
 `;

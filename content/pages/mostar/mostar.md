@@ -1,7 +1,8 @@
 ---
 page: "mostar"
-title: "mostar"
+title: "Mostar"
 slug: mostar
+image: "../images/vis4x3.jpg"
 ---
 
 # Mostar

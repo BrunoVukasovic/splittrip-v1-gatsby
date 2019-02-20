@@ -1389,12 +1389,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-02-20T20:05:13.015Z",
+      "buildTime": "2019-02-20T20:22:49.079Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "a5c59c234cb565c48a073cfa9c63ae38",
+        "contentDigest": "dfec371b4900c20b2a89697b05480255",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1404,7 +1404,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "3b5a041d050340fc201f2c7bcbe8794f",
+        "contentDigest": "2f5fb4ffab6cf2de73bc83afe8a3af29",
         "type": "Directory",
         "description": "Directory \"content\\pages\"",
         "owner": "gatsby-source-filesystem"
@@ -1415,9 +1415,9 @@
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2019-02-20T19:23:43.152Z",
-      "accessTime": "2019-02-20T20:05:17.680Z",
-      "changeTime": "2019-02-20T19:23:43.152Z",
+      "modifiedTime": "2019-02-20T20:14:41.358Z",
+      "accessTime": "2019-02-20T20:22:53.924Z",
+      "changeTime": "2019-02-20T20:14:41.358Z",
       "birthTime": "2019-01-14T13:56:56.842Z",
       "root": "C:/",
       "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content",
@@ -1432,13 +1432,13 @@
       "gid": 0,
       "rdev": 0,
       "ino": 8444249301394066,
-      "atimeMs": 1550693117680.121,
-      "mtimeMs": 1550690623152.0647,
-      "ctimeMs": 1550690623152.0647,
+      "atimeMs": 1550694173924.1267,
+      "mtimeMs": 1550693681358.2966,
+      "ctimeMs": 1550693681358.2966,
       "birthtimeMs": 1547474216841.5938,
-      "atime": "2019-02-20T20:05:17.680Z",
-      "mtime": "2019-02-20T19:23:43.152Z",
-      "ctime": "2019-02-20T19:23:43.152Z",
+      "atime": "2019-02-20T20:22:53.924Z",
+      "mtime": "2019-02-20T20:14:41.358Z",
+      "ctime": "2019-02-20T20:14:41.358Z",
       "birthtime": "2019-01-14T13:56:56.842Z"
     },
     "7a810208-dbbf-5e6f-b0c5-f4f4152264b5": {
@@ -1446,7 +1446,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "547934728d99793c340dc2346c391b5c",
+        "contentDigest": "83bf05952e168fa8d84a02ad2228e607",
         "type": "Directory",
         "description": "Directory \"content\\pages\\blue-cave\"",
         "owner": "gatsby-source-filesystem"
@@ -1458,7 +1458,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2019-02-20T17:41:02.459Z",
-      "accessTime": "2019-02-20T20:05:17.676Z",
+      "accessTime": "2019-02-20T20:22:53.923Z",
       "changeTime": "2019-02-20T17:41:02.459Z",
       "birthTime": "2019-01-14T15:25:48.513Z",
       "root": "C:/",
@@ -1474,11 +1474,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 163536961468907970,
-      "atimeMs": 1550693117676.121,
+      "atimeMs": 1550694173923.126,
       "mtimeMs": 1550684462459.344,
       "ctimeMs": 1550684462459.344,
       "birthtimeMs": 1547479548513.0735,
-      "atime": "2019-02-20T20:05:17.676Z",
+      "atime": "2019-02-20T20:22:53.923Z",
       "mtime": "2019-02-20T17:41:02.459Z",
       "ctime": "2019-02-20T17:41:02.459Z",
       "birthtime": "2019-01-14T15:25:48.513Z"
@@ -1488,7 +1488,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "970c3771f09b2ad4c1065e96134e4f85",
+        "contentDigest": "96969fc01f17eadd7df0628d7f457e80",
         "type": "Directory",
         "description": "Directory \"content\\pages\\zip\"",
         "owner": "gatsby-source-filesystem"
@@ -1500,7 +1500,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2019-02-20T18:12:14.084Z",
-      "accessTime": "2019-02-20T20:05:17.672Z",
+      "accessTime": "2019-02-20T20:22:53.916Z",
       "changeTime": "2019-02-20T18:12:14.084Z",
       "birthTime": "2019-01-14T13:57:40.778Z",
       "root": "C:/",
@@ -1516,11 +1516,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 1407374884424225,
-      "atimeMs": 1550693117672.1213,
+      "atimeMs": 1550694173916.1267,
       "mtimeMs": 1550686334084.0247,
       "ctimeMs": 1550686334084.0247,
       "birthtimeMs": 1547474260778.0469,
-      "atime": "2019-02-20T20:05:17.672Z",
+      "atime": "2019-02-20T20:22:53.916Z",
       "mtime": "2019-02-20T18:12:14.084Z",
       "ctime": "2019-02-20T18:12:14.084Z",
       "birthtime": "2019-01-14T13:57:40.778Z"
@@ -1532,7 +1532,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "dca8517802593ad3529abf6d12926ad7",
+        "contentDigest": "4ca387d7cc82af111923d4bcbea1f758",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"content\\pages\\blue-cave\\blue-cave.md\"",
@@ -1542,11 +1542,11 @@
       "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/blue-cave/blue-cave.md",
       "relativePath": "blue-cave/blue-cave.md",
       "extension": "md",
-      "size": 2474,
-      "prettySize": "2.47 kB",
-      "modifiedTime": "2019-02-20T17:49:53.658Z",
-      "accessTime": "2019-02-20T17:49:53.658Z",
-      "changeTime": "2019-02-20T17:49:53.658Z",
+      "size": 2505,
+      "prettySize": "2.5 kB",
+      "modifiedTime": "2019-02-20T20:16:37.223Z",
+      "accessTime": "2019-02-20T20:16:37.223Z",
+      "changeTime": "2019-02-20T20:16:37.223Z",
       "birthTime": "2019-01-14T15:25:59.690Z",
       "root": "C:/",
       "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/blue-cave",
@@ -1561,13 +1561,13 @@
       "gid": 0,
       "rdev": 0,
       "ino": 8444249301865550,
-      "atimeMs": 1550684993657.7559,
-      "mtimeMs": 1550684993657.7559,
-      "ctimeMs": 1550684993657.7559,
+      "atimeMs": 1550693797223.0024,
+      "mtimeMs": 1550693797223.0024,
+      "ctimeMs": 1550693797223.0024,
       "birthtimeMs": 1547479559689.7112,
-      "atime": "2019-02-20T17:49:53.658Z",
-      "mtime": "2019-02-20T17:49:53.658Z",
-      "ctime": "2019-02-20T17:49:53.658Z",
+      "atime": "2019-02-20T20:16:37.223Z",
+      "mtime": "2019-02-20T20:16:37.223Z",
+      "ctime": "2019-02-20T20:16:37.223Z",
       "birthtime": "2019-01-14T15:25:59.690Z"
     },
     "f5cff41f-de67-59da-90c1-282dbb8ac90d": {
@@ -1577,7 +1577,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "9a0620cbac7b347d6131a32d6280b79c",
+        "contentDigest": "e69b3208328e3eb2ef0b856c1bb202d3",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"content\\pages\\zip\\zip.md\"",
@@ -1587,11 +1587,11 @@
       "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/zip/zip.md",
       "relativePath": "zip/zip.md",
       "extension": "md",
-      "size": 1330,
-      "prettySize": "1.33 kB",
-      "modifiedTime": "2019-02-20T18:12:10.553Z",
-      "accessTime": "2019-02-20T18:12:10.553Z",
-      "changeTime": "2019-02-20T18:12:10.553Z",
+      "size": 1361,
+      "prettySize": "1.36 kB",
+      "modifiedTime": "2019-02-20T20:16:37.226Z",
+      "accessTime": "2019-02-20T20:16:37.226Z",
+      "changeTime": "2019-02-20T20:16:37.226Z",
       "birthTime": "2019-01-14T13:57:46.638Z",
       "root": "C:/",
       "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/zip",
@@ -1606,13 +1606,13 @@
       "gid": 0,
       "rdev": 0,
       "ino": 2533274791096665,
-      "atimeMs": 1550686330553.48,
-      "mtimeMs": 1550686330553.48,
-      "ctimeMs": 1550686330553.48,
+      "atimeMs": 1550693797226.0024,
+      "mtimeMs": 1550693797226.0024,
+      "ctimeMs": 1550693797226.0024,
       "birthtimeMs": 1547474266637.9995,
-      "atime": "2019-02-20T18:12:10.553Z",
-      "mtime": "2019-02-20T18:12:10.553Z",
-      "ctime": "2019-02-20T18:12:10.553Z",
+      "atime": "2019-02-20T20:16:37.226Z",
+      "mtime": "2019-02-20T20:16:37.226Z",
+      "ctime": "2019-02-20T20:16:37.226Z",
       "birthtime": "2019-01-14T13:57:46.638Z"
     },
     "6a6f0005-7c42-56aa-9f7a-f3082c8534bf": {
@@ -1620,7 +1620,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "b6ee0f780b3bedaac6a36033eb4d9ee3",
+        "contentDigest": "c7d5bfe55ea4915b17103ca45eb5c7f3",
         "type": "Directory",
         "description": "Directory \"content\\posts\"",
         "owner": "gatsby-source-filesystem"
@@ -1632,7 +1632,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2018-12-08T12:53:21.029Z",
-      "accessTime": "2019-02-20T20:05:17.802Z",
+      "accessTime": "2019-02-20T20:22:54.000Z",
       "changeTime": "2018-12-08T12:53:21.029Z",
       "birthTime": "2018-12-08T12:53:20.810Z",
       "root": "C:/",
@@ -1648,11 +1648,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 2533274790495291,
-      "atimeMs": 1550693117802.1833,
+      "atimeMs": 1550694174000.1257,
       "mtimeMs": 1544273601028.7026,
       "ctimeMs": 1544273601028.7026,
       "birthtimeMs": 1544273600809.953,
-      "atime": "2019-02-20T20:05:17.802Z",
+      "atime": "2019-02-20T20:22:54.000Z",
       "mtime": "2018-12-08T12:53:21.029Z",
       "ctime": "2018-12-08T12:53:21.029Z",
       "birthtime": "2018-12-08T12:53:20.810Z"
@@ -1662,7 +1662,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "2ff2eeba49969f3637b8ca10bbe4fdc6",
+        "contentDigest": "33607d7e9967f92eaa6702a13fca9e50",
         "type": "Directory",
         "description": "Directory \"content\\posts\\03-11-2018--post-5\"",
         "owner": "gatsby-source-filesystem"
@@ -1674,7 +1674,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2018-12-08T12:53:20.888Z",
-      "accessTime": "2019-02-20T20:05:17.784Z",
+      "accessTime": "2019-02-20T20:22:53.980Z",
       "changeTime": "2018-12-08T12:53:20.888Z",
       "birthTime": "2018-12-08T12:53:20.888Z",
       "root": "C:/",
@@ -1690,11 +1690,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 12103423998660628,
-      "atimeMs": 1550693117784.1733,
+      "atimeMs": 1550694173980.1313,
       "mtimeMs": 1544273600888.0776,
       "ctimeMs": 1544273600888.0776,
       "birthtimeMs": 1544273600888.0776,
-      "atime": "2019-02-20T20:05:17.784Z",
+      "atime": "2019-02-20T20:22:53.980Z",
       "mtime": "2018-12-08T12:53:20.888Z",
       "ctime": "2018-12-08T12:53:20.888Z",
       "birthtime": "2018-12-08T12:53:20.888Z"
@@ -1704,7 +1704,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "d5c12cf38df4fe5a2482878937c9f2dd",
+        "contentDigest": "bfa0a282528118815e82bf484ee9942d",
         "type": "Directory",
         "description": "Directory \"content\\posts\\01-11-2018--post-3\"",
         "owner": "gatsby-source-filesystem"
@@ -1716,7 +1716,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2018-12-08T12:53:20.826Z",
-      "accessTime": "2019-02-20T20:05:17.782Z",
+      "accessTime": "2019-02-20T20:22:53.977Z",
       "changeTime": "2018-12-08T12:53:20.826Z",
       "birthTime": "2018-12-08T12:53:20.826Z",
       "root": "C:/",
@@ -1732,11 +1732,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 2533274790495294,
-      "atimeMs": 1550693117782.1213,
+      "atimeMs": 1550694173977.1257,
       "mtimeMs": 1544273600825.5957,
       "ctimeMs": 1544273600825.5957,
       "birthtimeMs": 1544273600825.5957,
-      "atime": "2019-02-20T20:05:17.782Z",
+      "atime": "2019-02-20T20:22:53.977Z",
       "mtime": "2018-12-08T12:53:20.826Z",
       "ctime": "2018-12-08T12:53:20.826Z",
       "birthtime": "2018-12-08T12:53:20.826Z"
@@ -1746,7 +1746,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "1c9190acaf8eb69870d26ccabadd5f96",
+        "contentDigest": "85fe3c2d3b94979166845099599614b6",
         "type": "Directory",
         "description": "Directory \"content\\posts\\02-11-2018--post-4\"",
         "owner": "gatsby-source-filesystem"
@@ -1758,7 +1758,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2018-12-08T12:53:20.857Z",
-      "accessTime": "2019-02-20T20:05:17.783Z",
+      "accessTime": "2019-02-20T20:22:53.979Z",
       "changeTime": "2018-12-08T12:53:20.857Z",
       "birthTime": "2018-12-08T12:53:20.857Z",
       "root": "C:/",
@@ -1774,11 +1774,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 12666373952081776,
-      "atimeMs": 1550693117783.139,
+      "atimeMs": 1550694173979.126,
       "mtimeMs": 1544273600856.828,
       "ctimeMs": 1544273600856.828,
       "birthtimeMs": 1544273600856.828,
-      "atime": "2019-02-20T20:05:17.783Z",
+      "atime": "2019-02-20T20:22:53.979Z",
       "mtime": "2018-12-08T12:53:20.857Z",
       "ctime": "2018-12-08T12:53:20.857Z",
       "birthtime": "2018-12-08T12:53:20.857Z"
@@ -1788,7 +1788,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "23f6f9b3c5111c48d261fd0d9592d22b",
+        "contentDigest": "b9bb91aaa5453021d39bdb0d0f81c1c8",
         "type": "Directory",
         "description": "Directory \"content\\posts\\31-10-2018--post-2\"",
         "owner": "gatsby-source-filesystem"
@@ -1800,7 +1800,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2018-12-08T12:53:21.044Z",
-      "accessTime": "2019-02-20T20:05:17.787Z",
+      "accessTime": "2019-02-20T20:22:53.981Z",
       "changeTime": "2018-12-08T12:53:21.044Z",
       "birthTime": "2018-12-08T12:53:21.029Z",
       "root": "C:/",
@@ -1816,11 +1816,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 5629499534317563,
-      "atimeMs": 1550693117787.1812,
+      "atimeMs": 1550694173981.1262,
       "mtimeMs": 1544273601044.3757,
       "ctimeMs": 1544273601044.3757,
       "birthtimeMs": 1544273601028.7026,
-      "atime": "2019-02-20T20:05:17.787Z",
+      "atime": "2019-02-20T20:22:53.981Z",
       "mtime": "2018-12-08T12:53:21.044Z",
       "ctime": "2018-12-08T12:53:21.044Z",
       "birthtime": "2018-12-08T12:53:21.029Z"
@@ -1830,7 +1830,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "d8809fd99f8620dad42e566b2e95be28",
+        "contentDigest": "03ac93bd1ebc0c5307c75f877cd0ed46",
         "type": "Directory",
         "description": "Directory \"content\\posts\\06-11-2018--post-6\"",
         "owner": "gatsby-source-filesystem"
@@ -1842,7 +1842,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2018-12-08T12:53:20.919Z",
-      "accessTime": "2019-02-20T20:05:17.785Z",
+      "accessTime": "2019-02-20T20:22:53.983Z",
       "changeTime": "2018-12-08T12:53:20.919Z",
       "birthTime": "2018-12-08T12:53:20.919Z",
       "root": "C:/",
@@ -1858,11 +1858,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 13510798882215328,
-      "atimeMs": 1550693117785.1223,
+      "atimeMs": 1550694173983.131,
       "mtimeMs": 1544273600919.3284,
       "ctimeMs": 1544273600919.3284,
       "birthtimeMs": 1544273600919.3284,
-      "atime": "2019-02-20T20:05:17.785Z",
+      "atime": "2019-02-20T20:22:53.983Z",
       "mtime": "2018-12-08T12:53:20.919Z",
       "ctime": "2018-12-08T12:53:20.919Z",
       "birthtime": "2018-12-08T12:53:20.919Z"
@@ -1872,7 +1872,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "32acaf110a2de53a89e44cf92d526680",
+        "contentDigest": "5fcbbd0aff5b399ed74d90485753326b",
         "type": "Directory",
         "description": "Directory \"content\\posts\\30-10-2018--hello-world\"",
         "owner": "gatsby-source-filesystem"
@@ -1884,7 +1884,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2018-12-08T12:53:20.982Z",
-      "accessTime": "2019-02-20T20:05:17.786Z",
+      "accessTime": "2019-02-20T20:22:53.982Z",
       "changeTime": "2018-12-08T12:53:20.982Z",
       "birthTime": "2018-12-08T12:53:20.982Z",
       "root": "C:/",
@@ -1900,11 +1900,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 4503599627474395,
-      "atimeMs": 1550693117786.121,
+      "atimeMs": 1550694173982.1262,
       "mtimeMs": 1544273600981.8276,
       "ctimeMs": 1544273600981.8276,
       "birthtimeMs": 1544273600981.8276,
-      "atime": "2019-02-20T20:05:17.786Z",
+      "atime": "2019-02-20T20:22:53.982Z",
       "mtime": "2018-12-08T12:53:20.982Z",
       "ctime": "2018-12-08T12:53:20.982Z",
       "birthtime": "2018-12-08T12:53:20.982Z"
@@ -1914,7 +1914,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "b392a8d949acf11206fdd68e9ff0772b",
+        "contentDigest": "2f98608ce200f461edc49f0d5958d663",
         "type": "Directory",
         "description": "Directory \"content\\posts\\06-11-2018--post-6\\images\"",
         "owner": "gatsby-source-filesystem"
@@ -1926,7 +1926,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2018-12-08T14:09:18.391Z",
-      "accessTime": "2019-02-20T20:05:17.801Z",
+      "accessTime": "2019-02-20T20:22:54.000Z",
       "changeTime": "2018-12-08T14:09:18.391Z",
       "birthTime": "2018-12-08T12:53:20.919Z",
       "root": "C:/",
@@ -1942,11 +1942,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 6755399441159633,
-      "atimeMs": 1550693117801.121,
+      "atimeMs": 1550694174000.1257,
       "mtimeMs": 1544278158391.4846,
       "ctimeMs": 1544278158391.4846,
       "birthtimeMs": 1544273600919.3284,
-      "atime": "2019-02-20T20:05:17.801Z",
+      "atime": "2019-02-20T20:22:54.000Z",
       "mtime": "2018-12-08T14:09:18.391Z",
       "ctime": "2018-12-08T14:09:18.391Z",
       "birthtime": "2018-12-08T12:53:20.919Z"
@@ -1956,7 +1956,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "9e710f46f6f7f317a9e7ff276b28e338",
+        "contentDigest": "cccea52017f706b22bb9ffcf0dc0cd77",
         "type": "Directory",
         "description": "Directory \"content\\posts\\03-11-2018--post-5\\images\"",
         "owner": "gatsby-source-filesystem"
@@ -1968,7 +1968,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2018-12-08T14:20:01.697Z",
-      "accessTime": "2019-02-20T20:05:17.798Z",
+      "accessTime": "2019-02-20T20:22:53.995Z",
       "changeTime": "2018-12-08T14:20:01.697Z",
       "birthTime": "2018-12-08T12:53:20.888Z",
       "root": "C:/",
@@ -1984,11 +1984,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 3096224743920833,
-      "atimeMs": 1550693117798.1226,
+      "atimeMs": 1550694173995.131,
       "mtimeMs": 1544278801696.7842,
       "ctimeMs": 1544278801696.7842,
       "birthtimeMs": 1544273600888.0776,
-      "atime": "2019-02-20T20:05:17.798Z",
+      "atime": "2019-02-20T20:22:53.995Z",
       "mtime": "2018-12-08T14:20:01.697Z",
       "ctime": "2018-12-08T14:20:01.697Z",
       "birthtime": "2018-12-08T12:53:20.888Z"
@@ -1998,7 +1998,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "1fbfb95effae32916f26ff48ab94457a",
+        "contentDigest": "f6b70fd385cd31a9ecef911315282aa9",
         "type": "Directory",
         "description": "Directory \"content\\posts\\01-11-2018--post-3\\images\"",
         "owner": "gatsby-source-filesystem"
@@ -2010,7 +2010,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2018-12-08T12:53:20.841Z",
-      "accessTime": "2019-02-20T20:05:17.794Z",
+      "accessTime": "2019-02-20T20:22:53.992Z",
       "changeTime": "2018-12-08T12:53:20.841Z",
       "birthTime": "2018-12-08T12:53:20.826Z",
       "root": "C:/",
@@ -2026,11 +2026,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 10696049115104492,
-      "atimeMs": 1550693117794.1548,
+      "atimeMs": 1550694173992.131,
       "mtimeMs": 1544273600841.2024,
       "ctimeMs": 1544273600841.2024,
       "birthtimeMs": 1544273600825.5957,
-      "atime": "2019-02-20T20:05:17.794Z",
+      "atime": "2019-02-20T20:22:53.992Z",
       "mtime": "2018-12-08T12:53:20.841Z",
       "ctime": "2018-12-08T12:53:20.841Z",
       "birthtime": "2018-12-08T12:53:20.826Z"
@@ -2040,7 +2040,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "ce0329d42730fd989b6b223567978c3a",
+        "contentDigest": "e88258047b7bf5fb361cbb084d1eeb37",
         "type": "Directory",
         "description": "Directory \"content\\posts\\30-10-2018--hello-world\\images\"",
         "owner": "gatsby-source-filesystem"
@@ -2052,7 +2052,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2018-12-08T12:53:21.013Z",
-      "accessTime": "2019-02-20T20:05:17.802Z",
+      "accessTime": "2019-02-20T20:22:53.998Z",
       "changeTime": "2018-12-08T12:53:21.013Z",
       "birthTime": "2018-12-08T12:53:20.982Z",
       "root": "C:/",
@@ -2068,11 +2068,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 6473924464449459,
-      "atimeMs": 1550693117802.1833,
+      "atimeMs": 1550694173998.1309,
       "mtimeMs": 1544273601013.0798,
       "ctimeMs": 1544273601013.0798,
       "birthtimeMs": 1544273600981.8276,
-      "atime": "2019-02-20T20:05:17.802Z",
+      "atime": "2019-02-20T20:22:53.998Z",
       "mtime": "2018-12-08T12:53:21.013Z",
       "ctime": "2018-12-08T12:53:21.013Z",
       "birthtime": "2018-12-08T12:53:20.982Z"
@@ -2082,7 +2082,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "51c8584f7c00ef359545e55f4406f814",
+        "contentDigest": "3cf191d298f2b7a5af94d385c552b320",
         "type": "Directory",
         "description": "Directory \"content\\posts\\31-10-2018--post-2\\images\"",
         "owner": "gatsby-source-filesystem"
@@ -2094,7 +2094,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2018-12-08T12:53:21.060Z",
-      "accessTime": "2019-02-20T20:05:17.802Z",
+      "accessTime": "2019-02-20T20:22:53.998Z",
       "changeTime": "2018-12-08T12:53:21.060Z",
       "birthTime": "2018-12-08T12:53:21.044Z",
       "root": "C:/",
@@ -2110,11 +2110,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 5066549580896258,
-      "atimeMs": 1550693117802.1833,
+      "atimeMs": 1550694173998.1309,
       "mtimeMs": 1544273601060.004,
       "ctimeMs": 1544273601060.004,
       "birthtimeMs": 1544273601044.3757,
-      "atime": "2019-02-20T20:05:17.802Z",
+      "atime": "2019-02-20T20:22:53.998Z",
       "mtime": "2018-12-08T12:53:21.060Z",
       "ctime": "2018-12-08T12:53:21.060Z",
       "birthtime": "2018-12-08T12:53:21.044Z"
@@ -2124,7 +2124,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "a0e320c834e2aeade7d99fc8a38b22f1",
+        "contentDigest": "a593bc0c7e5fea274739ca5d4f9b36fe",
         "type": "Directory",
         "description": "Directory \"content\\posts\\02-11-2018--post-4\\images\"",
         "owner": "gatsby-source-filesystem"
@@ -2136,7 +2136,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2018-12-08T12:53:20.872Z",
-      "accessTime": "2019-02-20T20:05:17.796Z",
+      "accessTime": "2019-02-20T20:22:53.992Z",
       "changeTime": "2018-12-08T12:53:20.872Z",
       "birthTime": "2018-12-08T12:53:20.857Z",
       "root": "C:/",
@@ -2152,11 +2152,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 14355223812345752,
-      "atimeMs": 1550693117796.1738,
+      "atimeMs": 1550694173992.131,
       "mtimeMs": 1544273600872.453,
       "ctimeMs": 1544273600872.453,
       "birthtimeMs": 1544273600856.828,
-      "atime": "2019-02-20T20:05:17.796Z",
+      "atime": "2019-02-20T20:22:53.992Z",
       "mtime": "2018-12-08T12:53:20.872Z",
       "ctime": "2018-12-08T12:53:20.872Z",
       "birthtime": "2018-12-08T12:53:20.857Z"
@@ -3541,7 +3541,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "5fcf25fe092f3eec8529175f29beed28",
+        "contentDigest": "54ed2df7386bcc2e655bb97d075a3d7d",
         "type": "Directory",
         "description": "Directory \"src\\images\"",
         "owner": "gatsby-source-filesystem"
@@ -3553,7 +3553,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2019-02-20T19:55:15.243Z",
-      "accessTime": "2019-02-20T20:05:18.020Z",
+      "accessTime": "2019-02-20T20:22:54.169Z",
       "changeTime": "2019-02-20T19:55:15.243Z",
       "birthTime": "2018-12-08T15:43:38.736Z",
       "root": "C:/",
@@ -3569,11 +3569,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 88101667710446370,
-      "atimeMs": 1550693118020.119,
+      "atimeMs": 1550694174169.177,
       "mtimeMs": 1550692515242.721,
       "ctimeMs": 1550692515242.721,
       "birthtimeMs": 1544283818735.7864,
-      "atime": "2019-02-20T20:05:18.020Z",
+      "atime": "2019-02-20T20:22:54.169Z",
       "mtime": "2019-02-20T19:55:15.243Z",
       "ctime": "2019-02-20T19:55:15.243Z",
       "birthtime": "2018-12-08T15:43:38.736Z"
@@ -4078,7 +4078,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "f94150702321e3d2fa68128fcf0d5ce7",
+        "contentDigest": "dbaccc4e868831c620190118f7134248",
         "type": "Directory",
         "description": "Directory \"content\\pages\\klis\"",
         "owner": "gatsby-source-filesystem"
@@ -4090,7 +4090,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2019-02-20T17:41:37.789Z",
-      "accessTime": "2019-02-20T20:05:17.672Z",
+      "accessTime": "2019-02-20T20:22:53.915Z",
       "changeTime": "2019-02-20T17:41:37.789Z",
       "birthTime": "2019-02-20T17:41:25.578Z",
       "root": "C:/",
@@ -4106,11 +4106,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 26740122787557540,
-      "atimeMs": 1550693117672.1213,
+      "atimeMs": 1550694173915.127,
       "mtimeMs": 1550684497788.9895,
       "ctimeMs": 1550684497788.9895,
       "birthtimeMs": 1550684485578.1638,
-      "atime": "2019-02-20T20:05:17.672Z",
+      "atime": "2019-02-20T20:22:53.915Z",
       "mtime": "2019-02-20T17:41:37.789Z",
       "ctime": "2019-02-20T17:41:37.789Z",
       "birthtime": "2019-02-20T17:41:25.578Z"
@@ -4120,7 +4120,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "cadc930abd8c9910ffac5aa47c6786ef",
+        "contentDigest": "085f245b568a71afc484b56ad9ff8bcd",
         "type": "Directory",
         "description": "Directory \"content\\pages\\omis\"",
         "owner": "gatsby-source-filesystem"
@@ -4132,7 +4132,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2019-02-20T17:41:43.505Z",
-      "accessTime": "2019-02-20T20:05:17.672Z",
+      "accessTime": "2019-02-20T20:22:53.915Z",
       "changeTime": "2019-02-20T17:41:43.505Z",
       "birthTime": "2019-02-20T17:41:30.490Z",
       "root": "C:/",
@@ -4148,11 +4148,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 12947848928734672,
-      "atimeMs": 1550693117672.1213,
+      "atimeMs": 1550694173915.127,
       "mtimeMs": 1550684503504.9893,
       "ctimeMs": 1550684503504.9893,
       "birthtimeMs": 1550684490490.2856,
-      "atime": "2019-02-20T20:05:17.672Z",
+      "atime": "2019-02-20T20:22:53.915Z",
       "mtime": "2019-02-20T17:41:43.505Z",
       "ctime": "2019-02-20T17:41:43.505Z",
       "birthtime": "2019-02-20T17:41:30.490Z"
@@ -4164,7 +4164,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "9d458648e84b2bef189b0f4d9b030c0e",
+        "contentDigest": "7e7d0bff17e925275368c7b4a0339c6b",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"content\\pages\\klis\\klis.md\"",
@@ -4174,11 +4174,11 @@
       "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/klis/klis.md",
       "relativePath": "klis/klis.md",
       "extension": "md",
-      "size": 1688,
-      "prettySize": "1.69 kB",
-      "modifiedTime": "2019-02-20T17:49:53.658Z",
-      "accessTime": "2019-02-20T17:49:53.658Z",
-      "changeTime": "2019-02-20T17:49:53.658Z",
+      "size": 1719,
+      "prettySize": "1.72 kB",
+      "modifiedTime": "2019-02-20T20:16:37.226Z",
+      "accessTime": "2019-02-20T20:16:37.226Z",
+      "changeTime": "2019-02-20T20:16:37.226Z",
       "birthTime": "2019-02-20T17:41:37.789Z",
       "root": "C:/",
       "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/klis",
@@ -4193,13 +4193,13 @@
       "gid": 0,
       "rdev": 0,
       "ino": 43910096366907980,
-      "atimeMs": 1550684993657.7559,
-      "mtimeMs": 1550684993657.7559,
-      "ctimeMs": 1550684993657.7559,
+      "atimeMs": 1550693797226.0024,
+      "mtimeMs": 1550693797226.0024,
+      "ctimeMs": 1550693797226.0024,
       "birthtimeMs": 1550684497788.9895,
-      "atime": "2019-02-20T17:49:53.658Z",
-      "mtime": "2019-02-20T17:49:53.658Z",
-      "ctime": "2019-02-20T17:49:53.658Z",
+      "atime": "2019-02-20T20:16:37.226Z",
+      "mtime": "2019-02-20T20:16:37.226Z",
+      "ctime": "2019-02-20T20:16:37.226Z",
       "birthtime": "2019-02-20T17:41:37.789Z"
     },
     "49fea3e2-292c-5f89-877e-2a1de7b27c95": {
@@ -4209,7 +4209,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "45ec6ab926caf8f7657f0a88fdb49a7e",
+        "contentDigest": "9964b0448fa4aeb88f8edd76c47bf5b7",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"content\\pages\\omis\\omis.md\"",
@@ -4219,11 +4219,11 @@
       "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/omis/omis.md",
       "relativePath": "omis/omis.md",
       "extension": "md",
-      "size": 1385,
-      "prettySize": "1.39 kB",
-      "modifiedTime": "2019-02-20T17:45:49.117Z",
-      "accessTime": "2019-02-20T17:45:49.117Z",
-      "changeTime": "2019-02-20T17:45:49.117Z",
+      "size": 1416,
+      "prettySize": "1.42 kB",
+      "modifiedTime": "2019-02-20T20:16:37.223Z",
+      "accessTime": "2019-02-20T20:16:37.223Z",
+      "changeTime": "2019-02-20T20:16:37.223Z",
       "birthTime": "2019-02-20T17:41:43.505Z",
       "root": "C:/",
       "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/omis",
@@ -4238,33 +4238,14 @@
       "gid": 0,
       "rdev": 0,
       "ino": 14073748835579496,
-      "atimeMs": 1550684749117.062,
-      "mtimeMs": 1550684749117.062,
-      "ctimeMs": 1550684749117.062,
+      "atimeMs": 1550693797223.0024,
+      "mtimeMs": 1550693797223.0024,
+      "ctimeMs": 1550693797223.0024,
       "birthtimeMs": 1550684503504.9893,
-      "atime": "2019-02-20T17:45:49.117Z",
-      "mtime": "2019-02-20T17:45:49.117Z",
-      "ctime": "2019-02-20T17:45:49.117Z",
+      "atime": "2019-02-20T20:16:37.223Z",
+      "mtime": "2019-02-20T20:16:37.223Z",
+      "ctime": "2019-02-20T20:16:37.223Z",
       "birthtime": "2019-02-20T17:41:43.505Z"
-    },
-    "39e1144d-1e32-5e54-bbb2-e61bc2cf6539": {
-      "id": "39e1144d-1e32-5e54-bbb2-e61bc2cf6539",
-      "children": [],
-      "parent": "49fea3e2-292c-5f89-877e-2a1de7b27c95",
-      "internal": {
-        "content": "\r\n# Omiš\r\n\r\nYour relaxed day out of Split starts at your hotel or arranged meeting point.\r\n<br /> <br /> \r\nComfortably ensconced in car or minivan, with English speaking driver-guide we will arrive to Omiš. This small beautiful town famous for pirates of Omiš whose ships were a centuries-long symbol of retaliation, courage and strength, has become a modern tourist settlement.\r\n<br /> <br />\r\nWith your tour guide in Omiš you will find the Roman statues, famous pirate fortress, sand beaches and canyons of extraordinary beauty.\r\n<br /> <br />\r\nAfter a pleasant walk throught the ancient history and interesting sites of Omiš, guide will take you on a riverboat tour to the famous picnic resort Radmanove Mlinice. This place of freshnes and natural beauty will allow you to relax in traditional cuisine, sports facilities and river beaches which allow you to refresh in Cetina river. Upon your arrival the traditional lunch will wait for you. You can choose the fresh Grilled Trout from the Cetina river or traditional lunch \"Peka\".\r\n<br /> <br />\r\nAfter lunch you can spend your free time on the playground, swimming in the Cetina river or just relaxing walk in the nature.\r\n<br /> <br />\r\nAfterwards your tour guide will take you on a river boat ride back to Omiš from where we start our trip back to Split.\r\n<br /> <br />\r\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "14046e122dbad6acd9d97fbd815b51b5",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "omis",
-        "page": "omis",
-        "slug": "omis"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\r\n# Omiš\r\n\r\nYour relaxed day out of Split starts at your hotel or arranged meeting point.\r\n<br /> <br /> \r\nComfortably ensconced in car or minivan, with English speaking driver-guide we will arrive to Omiš. This small beautiful town famous for pirates of Omiš whose ships were a centuries-long symbol of retaliation, courage and strength, has become a modern tourist settlement.\r\n<br /> <br />\r\nWith your tour guide in Omiš you will find the Roman statues, famous pirate fortress, sand beaches and canyons of extraordinary beauty.\r\n<br /> <br />\r\nAfter a pleasant walk throught the ancient history and interesting sites of Omiš, guide will take you on a riverboat tour to the famous picnic resort Radmanove Mlinice. This place of freshnes and natural beauty will allow you to relax in traditional cuisine, sports facilities and river beaches which allow you to refresh in Cetina river. Upon your arrival the traditional lunch will wait for you. You can choose the fresh Grilled Trout from the Cetina river or traditional lunch \"Peka\".\r\n<br /> <br />\r\nAfter lunch you can spend your free time on the playground, swimming in the Cetina river or just relaxing walk in the nature.\r\n<br /> <br />\r\nAfterwards your tour guide will take you on a river boat ride back to Omiš from where we start our trip back to Split.\r\n<br /> <br />\r\n",
-      "fileAbsolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/omis/omis.md"
     },
     "2074a842-d38c-5fce-a837-83ece492008b": {
       "id": "2074a842-d38c-5fce-a837-83ece492008b",
@@ -4431,50 +4412,12 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "8a7c6994-fb5f-52ab-8c4c-434f063bc6d6": {
-      "id": "8a7c6994-fb5f-52ab-8c4c-434f063bc6d6",
-      "children": [],
-      "parent": "fd9c24f9-8f86-5963-b2aa-5ccc158a1dd4",
-      "internal": {
-        "content": "\r\n# KLIS & SALONA\r\n\r\nKLIS fortress is famous for its supreme position and the historical role it played. It was built overlooking the mountain pass between surrounding Mosor and Kozjak mountains, protecting the coastal area with Ilyrian, Roman and Slavic inhabitants from inland invaders (barbarians and Ottomans) for centuries.\r\n<br /> <br /> \r\nOnce upon a time it was the seat of Croatian kings, Venetians and Austrians. During WWII the fortress was last used for military purposes; it was a stronghold of Italian and German occupation forces. It gained world fame as a city of Meeren in popular Game of Thrones series. Its magnificent walls and passages offer an abundance of history and probably the most spectacular view of Split, mountains and islands you can witness! The excavations started at the beginning of last century, still undergoing, and as it looks now, it will be a never-ending story. Literally, wherever you start digging, something is found!\r\n<br /> <br />\r\nSALONA is a very special archaeological site, due to its very unusual destiny. Namely, the biggest Roman city of the whole area, with around 60.000 inhabitants at the highest of its power, massive stone walls, forum with great temples, amphitheater, theater, early christian basilicas, sophisticated sewage and street systems were completely devastated in Avar and Slavic raid in the early 7th century. As opposed to numerous sites hit by similar destiny, Salona never got inhabited afterwards, thus for centuries covered under soil, debris and grass.\r\n<br /> <br />\r\nSo join us on this amazing trip through history and experience the life of our ancestors!",
-        "type": "MarkdownRemark",
-        "contentDigest": "536a364a8753c6a81f6e9625aff9b617",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "Klis",
-        "page": "klis",
-        "slug": "klis"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\r\n# KLIS & SALONA\r\n\r\nKLIS fortress is famous for its supreme position and the historical role it played. It was built overlooking the mountain pass between surrounding Mosor and Kozjak mountains, protecting the coastal area with Ilyrian, Roman and Slavic inhabitants from inland invaders (barbarians and Ottomans) for centuries.\r\n<br /> <br /> \r\nOnce upon a time it was the seat of Croatian kings, Venetians and Austrians. During WWII the fortress was last used for military purposes; it was a stronghold of Italian and German occupation forces. It gained world fame as a city of Meeren in popular Game of Thrones series. Its magnificent walls and passages offer an abundance of history and probably the most spectacular view of Split, mountains and islands you can witness! The excavations started at the beginning of last century, still undergoing, and as it looks now, it will be a never-ending story. Literally, wherever you start digging, something is found!\r\n<br /> <br />\r\nSALONA is a very special archaeological site, due to its very unusual destiny. Namely, the biggest Roman city of the whole area, with around 60.000 inhabitants at the highest of its power, massive stone walls, forum with great temples, amphitheater, theater, early christian basilicas, sophisticated sewage and street systems were completely devastated in Avar and Slavic raid in the early 7th century. As opposed to numerous sites hit by similar destiny, Salona never got inhabited afterwards, thus for centuries covered under soil, debris and grass.\r\n<br /> <br />\r\nSo join us on this amazing trip through history and experience the life of our ancestors!",
-      "fileAbsolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/klis/klis.md"
-    },
-    "5a35df30-f219-5c9d-8dc6-f61b1d36fda7": {
-      "id": "5a35df30-f219-5c9d-8dc6-f61b1d36fda7",
-      "children": [],
-      "parent": "43ec9c2e-7f84-59c9-a2c7-6afcb218098f",
-      "internal": {
-        "content": "\r\n# Blue Cave\r\n\r\nFor all sea lovers, but also for those who want to see something unique, Blue cave tour from Split is perfect excursion! \r\nJump on speedboat for an early morning exciting <strong> 90 minutes ride to Biševo Island </strong>and the Blue cave visit from Split. We will arrive around 09:30h, just in time for memorable scenery when the sunlight reflects through the sea and illuminates the entire cave in <strong>aquamarine blue light</strong>. Listen the story from official local guide of how the cave was discovered and what makes the magic.\r\n<br /> <br /> \r\nAfter the cave tour, we are back on a speedboat to our next attraction which is <strong>Monk Seal cave</strong>, where the Mediterranean\r\nmonk seal used to reside. Passing beside picturesque southern side of the island Vis, where full of caves, beaches and diverse forms of nature and rocks caused by changes on the sea, our next destination is Stiniva bay, voted best European beach in 2016., where we'll stop for a swim in the unique narrow bay that ends with a white pebbles beach.\r\n<br /> <br />\r\nAfterwards we stop on Budikovac island for a longer swim on hidden white pebble beach with turquoise sea color. On our way to the island of Hvar you will enjoy the panoramic view of the amazing archipelago of Pakleni islands – the oldest and the most famous Hvar’s resort, spacious lagoon with shallow  sandy beaches, surrounded by pine forest, \r\nfragrant heather and rosemary bushes and various exotic plants.\r\n<br /> <br />\r\nFree time for a lunch in Palmizana at Pakleni islands. \r\nOur final stop is town of Hvar, on the island Hvar,<strong> one of most beautiful harbours of the world</strong>, with beautiful nature and surroundings, as well a rich cultural heritage, with walls dating back to the 7th century, and many 15th-17th century Venetian era noble houses.\r\nExplore the town by yourself and enjoy the real Mediterranean atmosphere and local hospitality.\r\n<br /> <br />\r\nOur Blue cave and Hvar tour from Split ends with a quiet ride on the smooth sea at sunset, so you can enjoy all the beauty and all the colors of the sunset at the open sea.\r\nThere you will have more time for swimming and sunbathing on a beautiful pebble beach.\r\n<br /> <br />\r\n<strong>NOTE:</strong> Guest should have proper clothing, wind jacket, bathing suite, hat, additional clothes for change, towel, sunglasses and suncream.\r\n<br /> <br />",
-        "type": "MarkdownRemark",
-        "contentDigest": "c55cbc4d1419a1e11bac66c5e1ae02ef",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "blue Cave",
-        "page": "blue-cave",
-        "slug": "blue-cave"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\r\n# Blue Cave\r\n\r\nFor all sea lovers, but also for those who want to see something unique, Blue cave tour from Split is perfect excursion! \r\nJump on speedboat for an early morning exciting <strong> 90 minutes ride to Biševo Island </strong>and the Blue cave visit from Split. We will arrive around 09:30h, just in time for memorable scenery when the sunlight reflects through the sea and illuminates the entire cave in <strong>aquamarine blue light</strong>. Listen the story from official local guide of how the cave was discovered and what makes the magic.\r\n<br /> <br /> \r\nAfter the cave tour, we are back on a speedboat to our next attraction which is <strong>Monk Seal cave</strong>, where the Mediterranean\r\nmonk seal used to reside. Passing beside picturesque southern side of the island Vis, where full of caves, beaches and diverse forms of nature and rocks caused by changes on the sea, our next destination is Stiniva bay, voted best European beach in 2016., where we'll stop for a swim in the unique narrow bay that ends with a white pebbles beach.\r\n<br /> <br />\r\nAfterwards we stop on Budikovac island for a longer swim on hidden white pebble beach with turquoise sea color. On our way to the island of Hvar you will enjoy the panoramic view of the amazing archipelago of Pakleni islands – the oldest and the most famous Hvar’s resort, spacious lagoon with shallow  sandy beaches, surrounded by pine forest, \r\nfragrant heather and rosemary bushes and various exotic plants.\r\n<br /> <br />\r\nFree time for a lunch in Palmizana at Pakleni islands. \r\nOur final stop is town of Hvar, on the island Hvar,<strong> one of most beautiful harbours of the world</strong>, with beautiful nature and surroundings, as well a rich cultural heritage, with walls dating back to the 7th century, and many 15th-17th century Venetian era noble houses.\r\nExplore the town by yourself and enjoy the real Mediterranean atmosphere and local hospitality.\r\n<br /> <br />\r\nOur Blue cave and Hvar tour from Split ends with a quiet ride on the smooth sea at sunset, so you can enjoy all the beauty and all the colors of the sunset at the open sea.\r\nThere you will have more time for swimming and sunbathing on a beautiful pebble beach.\r\n<br /> <br />\r\n<strong>NOTE:</strong> Guest should have proper clothing, wind jacket, bathing suite, hat, additional clothes for change, towel, sunglasses and suncream.\r\n<br /> <br />",
-      "fileAbsolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/blue-cave/blue-cave.md"
-    },
     "8a6bf87a-3cdb-5dcb-aa57-e76cc43b1dc2": {
       "id": "8a6bf87a-3cdb-5dcb-aa57-e76cc43b1dc2",
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "99ff89f3d1d967f1560ac68729830190",
+        "contentDigest": "95f76a02133b4819f5abf31444712418",
         "type": "Directory",
         "description": "Directory \"content\\pages\\plitvice\"",
         "owner": "gatsby-source-filesystem"
@@ -4486,7 +4429,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2019-02-20T18:11:58.592Z",
-      "accessTime": "2019-02-20T20:05:17.672Z",
+      "accessTime": "2019-02-20T20:22:53.916Z",
       "changeTime": "2019-02-20T18:11:58.592Z",
       "birthTime": "2019-02-20T18:11:53.006Z",
       "root": "C:/",
@@ -4502,11 +4445,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 15199648742496642,
-      "atimeMs": 1550693117672.1213,
+      "atimeMs": 1550694173916.1267,
       "mtimeMs": 1550686318591.6438,
       "ctimeMs": 1550686318591.6438,
       "birthtimeMs": 1550686313006.102,
-      "atime": "2019-02-20T20:05:17.672Z",
+      "atime": "2019-02-20T20:22:53.916Z",
       "mtime": "2019-02-20T18:11:58.592Z",
       "ctime": "2019-02-20T18:11:58.592Z",
       "birthtime": "2019-02-20T18:11:53.006Z"
@@ -4518,7 +4461,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "b3049cc85a7febdf30859e18c727e37d",
+        "contentDigest": "c97c112de6afd867ca3cbf1372dfdb9b",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"content\\pages\\plitvice\\plitvice.md\"",
@@ -4528,11 +4471,11 @@
       "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/plitvice/plitvice.md",
       "relativePath": "plitvice/plitvice.md",
       "extension": "md",
-      "size": 1901,
-      "prettySize": "1.9 kB",
-      "modifiedTime": "2019-02-20T18:26:14.504Z",
-      "accessTime": "2019-02-20T18:26:14.504Z",
-      "changeTime": "2019-02-20T18:26:14.504Z",
+      "size": 1932,
+      "prettySize": "1.93 kB",
+      "modifiedTime": "2019-02-20T20:16:37.224Z",
+      "accessTime": "2019-02-20T20:16:37.224Z",
+      "changeTime": "2019-02-20T20:16:37.224Z",
       "birthTime": "2019-02-20T18:11:58.592Z",
       "root": "C:/",
       "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/plitvice",
@@ -4547,33 +4490,14 @@
       "gid": 0,
       "rdev": 0,
       "ino": 11821949021968772,
-      "atimeMs": 1550687174503.9424,
-      "mtimeMs": 1550687174503.9424,
-      "ctimeMs": 1550687174503.9424,
+      "atimeMs": 1550693797224.008,
+      "mtimeMs": 1550693797224.008,
+      "ctimeMs": 1550693797224.008,
       "birthtimeMs": 1550686318591.6438,
-      "atime": "2019-02-20T18:26:14.504Z",
-      "mtime": "2019-02-20T18:26:14.504Z",
-      "ctime": "2019-02-20T18:26:14.504Z",
+      "atime": "2019-02-20T20:16:37.224Z",
+      "mtime": "2019-02-20T20:16:37.224Z",
+      "ctime": "2019-02-20T20:16:37.224Z",
       "birthtime": "2019-02-20T18:11:58.592Z"
-    },
-    "d4eadccc-47e9-58a5-99b1-017208d28c7a": {
-      "id": "d4eadccc-47e9-58a5-99b1-017208d28c7a",
-      "children": [],
-      "parent": "f5cff41f-de67-59da-90c1-282dbb8ac90d",
-      "internal": {
-        "content": "\r\n# Zip line Omiš\r\n\r\nZipline is an adrenaline entertainment where guests descend through the canyon down the steel wire rope, secured with a belt. Adventure also includes training and a short walk in nature.\r\n<br /> <br /> \r\nZipline is located 3 km from Omis, in the canyon of the Cetina River and consists of eight wires total length of 2100m . Depending on the size of the group, zipline gives you up to 3 hours of unforgettable fun and beautiful nature .\r\n<br /> <br /> \r\nWe organized the transfer to the start and back (3 km from Omis) by our vehicle. Before the beginning, the group goes to the training ground and each guest receives equipment . There are two short wires, length 25m , where guides show you how to brake and act on cable. The next thing is a short walk to the first wire. During the walk, you can enjoy the beautiful, almost untouched nature and stunning views of the Cetina river canyon. Before each wire, one of the guides demonstrate descend, while the second guide attaches you and gives you instructions. First guide welcomes you at the beginning of the second wire. That is the system to pass all eight wires.\r\n<br /> <br /> \r\nThe finish point of a zipline tour is located 50m from the road, and there is our van waiting to take you back to Split.",
-        "type": "MarkdownRemark",
-        "contentDigest": "4f5996ca5001bc334d29640de0106129",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "zip line",
-        "page": "zip",
-        "slug": "zip"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\r\n# Zip line Omiš\r\n\r\nZipline is an adrenaline entertainment where guests descend through the canyon down the steel wire rope, secured with a belt. Adventure also includes training and a short walk in nature.\r\n<br /> <br /> \r\nZipline is located 3 km from Omis, in the canyon of the Cetina River and consists of eight wires total length of 2100m . Depending on the size of the group, zipline gives you up to 3 hours of unforgettable fun and beautiful nature .\r\n<br /> <br /> \r\nWe organized the transfer to the start and back (3 km from Omis) by our vehicle. Before the beginning, the group goes to the training ground and each guest receives equipment . There are two short wires, length 25m , where guides show you how to brake and act on cable. The next thing is a short walk to the first wire. During the walk, you can enjoy the beautiful, almost untouched nature and stunning views of the Cetina river canyon. Before each wire, one of the guides demonstrate descend, while the second guide attaches you and gives you instructions. First guide welcomes you at the beginning of the second wire. That is the system to pass all eight wires.\r\n<br /> <br /> \r\nThe finish point of a zipline tour is located 50m from the road, and there is our van waiting to take you back to Split.",
-      "fileAbsolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/zip/zip.md"
     },
     "29e30429-5feb-5771-a219-111cf11a5898": {
       "id": "29e30429-5feb-5771-a219-111cf11a5898",
@@ -4630,31 +4554,12 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "7e29fb4c-b7ef-5c9e-b0d4-245240be97f4": {
-      "id": "7e29fb4c-b7ef-5c9e-b0d4-245240be97f4",
-      "children": [],
-      "parent": "b7ca4aab-f224-5e23-8b27-b99788fc8073",
-      "internal": {
-        "content": "\r\n# Plitvice lakes\r\n\r\nImmerse yourself in exceptional natural beauty, in a place so magical you can't even believe it exists. A magical mix of waterfalls and lakes, all set against a lush green backdrop, this national park is a must. \r\n<br /> <br /> \r\nIn about three and a half hours drive we arrive to Plitvice National Park, the largest, the oldest and most famous national park in Croatia, which was declared as UNESCO world heritage in 1979. (among the first in the world). Plitvice Lakes National Park is a special geological and hydrogeological phenomenon with natural and rich biodiversity. The oldest national park in Croatia represents a forested mountain area and a series of 16 crystal blue lakes. Lakes receive water from numerous rivers and streams, and they are connected by cascades and waterfalls. Travertine barriers, which were made in the period of ten thousand years ago are one of the fundamental features of the park. Vast forests, extraordinary beauty of lakes and waterfalls, flora and fauna, contrasting autumn colors, trails and wooden bridges form a remarkable and unforgettable beauty.\r\n<br /> <br /> \r\nUpon arriving at Plitvice you will walk through woodland. The path takes you across Upper Lakes and then it is time for boat ride within the sound of the waterfalls to Lower Lakes. Get ready to walk across the lake on charming wooden paths, as well as an unforgettable thunder produced by Great Falls, 78 meters high waterfall. Tour ends with a panoramic train ride through the forest, but after that there is a plenty of time for lunch at local tavern or for a picnic in the shade, next to the magnificent lake.\r\n<br /> <br /> \r\n<strong>NOTE:</strong> Guests should have proper clothing; sportswear, closed comfortable shoes. Out of season don’t forget warm sweater, umbrella or raincoat.\r\n<br /> <br /> ",
-        "type": "MarkdownRemark",
-        "contentDigest": "2f2148b82cbad9657b37b781de254f63",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "plitvice",
-        "page": "plitvice",
-        "slug": "plitvice"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\r\n# Plitvice lakes\r\n\r\nImmerse yourself in exceptional natural beauty, in a place so magical you can't even believe it exists. A magical mix of waterfalls and lakes, all set against a lush green backdrop, this national park is a must. \r\n<br /> <br /> \r\nIn about three and a half hours drive we arrive to Plitvice National Park, the largest, the oldest and most famous national park in Croatia, which was declared as UNESCO world heritage in 1979. (among the first in the world). Plitvice Lakes National Park is a special geological and hydrogeological phenomenon with natural and rich biodiversity. The oldest national park in Croatia represents a forested mountain area and a series of 16 crystal blue lakes. Lakes receive water from numerous rivers and streams, and they are connected by cascades and waterfalls. Travertine barriers, which were made in the period of ten thousand years ago are one of the fundamental features of the park. Vast forests, extraordinary beauty of lakes and waterfalls, flora and fauna, contrasting autumn colors, trails and wooden bridges form a remarkable and unforgettable beauty.\r\n<br /> <br /> \r\nUpon arriving at Plitvice you will walk through woodland. The path takes you across Upper Lakes and then it is time for boat ride within the sound of the waterfalls to Lower Lakes. Get ready to walk across the lake on charming wooden paths, as well as an unforgettable thunder produced by Great Falls, 78 meters high waterfall. Tour ends with a panoramic train ride through the forest, but after that there is a plenty of time for lunch at local tavern or for a picnic in the shade, next to the magnificent lake.\r\n<br /> <br /> \r\n<strong>NOTE:</strong> Guests should have proper clothing; sportswear, closed comfortable shoes. Out of season don’t forget warm sweater, umbrella or raincoat.\r\n<br /> <br /> ",
-      "fileAbsolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/plitvice/plitvice.md"
-    },
     "01998d17-683d-596b-94ac-767d4333ba08": {
       "id": "01998d17-683d-596b-94ac-767d4333ba08",
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "8e7a625dcc116a643a28197847bfbc43",
+        "contentDigest": "1e741693b5becabafa220cffcfde0052",
         "type": "Directory",
         "description": "Directory \"content\\pages\\dubrovnik\"",
         "owner": "gatsby-source-filesystem"
@@ -4666,7 +4571,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2019-02-20T18:52:37.325Z",
-      "accessTime": "2019-02-20T20:05:17.680Z",
+      "accessTime": "2019-02-20T20:22:53.924Z",
       "changeTime": "2019-02-20T18:52:37.325Z",
       "birthTime": "2019-02-20T18:51:33.470Z",
       "root": "C:/",
@@ -4682,11 +4587,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 59954170039442850,
-      "atimeMs": 1550693117680.121,
+      "atimeMs": 1550694173924.1267,
       "mtimeMs": 1550688757325.2683,
       "ctimeMs": 1550688757325.2683,
       "birthtimeMs": 1550688693469.7068,
-      "atime": "2019-02-20T20:05:17.680Z",
+      "atime": "2019-02-20T20:22:53.924Z",
       "mtime": "2019-02-20T18:52:37.325Z",
       "ctime": "2019-02-20T18:52:37.325Z",
       "birthtime": "2019-02-20T18:51:33.470Z"
@@ -4696,7 +4601,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "bee3c038447076b6c37b2e78f8eb7f0e",
+        "contentDigest": "52d102a2485b8ed87bebd02a605c2aa8",
         "type": "Directory",
         "description": "Directory \"content\\pages\\mostar\"",
         "owner": "gatsby-source-filesystem"
@@ -4708,7 +4613,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2019-02-20T18:54:44.703Z",
-      "accessTime": "2019-02-20T20:05:17.672Z",
+      "accessTime": "2019-02-20T20:22:53.915Z",
       "changeTime": "2019-02-20T18:54:44.703Z",
       "birthTime": "2019-02-20T18:51:40.253Z",
       "root": "C:/",
@@ -4724,11 +4629,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 1970324837689985,
-      "atimeMs": 1550693117672.1213,
+      "atimeMs": 1550694173915.127,
       "mtimeMs": 1550688884702.6333,
       "ctimeMs": 1550688884702.6333,
       "birthtimeMs": 1550688700252.674,
-      "atime": "2019-02-20T20:05:17.672Z",
+      "atime": "2019-02-20T20:22:53.915Z",
       "mtime": "2019-02-20T18:54:44.703Z",
       "ctime": "2019-02-20T18:54:44.703Z",
       "birthtime": "2019-02-20T18:51:40.253Z"
@@ -4740,7 +4645,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "afa1b3177cf2e5976aad7fcb21814d99",
+        "contentDigest": "68950738ca7a2a3a18647efebc97c655",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"content\\pages\\dubrovnik\\dubrovnik.md\"",
@@ -4750,11 +4655,11 @@
       "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/dubrovnik/dubrovnik.md",
       "relativePath": "dubrovnik/dubrovnik.md",
       "extension": "md",
-      "size": 1674,
-      "prettySize": "1.67 kB",
-      "modifiedTime": "2019-02-20T18:55:38.450Z",
-      "accessTime": "2019-02-20T18:55:38.450Z",
-      "changeTime": "2019-02-20T18:55:38.450Z",
+      "size": 1705,
+      "prettySize": "1.71 kB",
+      "modifiedTime": "2019-02-20T20:16:37.222Z",
+      "accessTime": "2019-02-20T20:16:37.222Z",
+      "changeTime": "2019-02-20T20:16:37.222Z",
       "birthTime": "2019-02-20T18:52:37.325Z",
       "root": "C:/",
       "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/dubrovnik",
@@ -4769,13 +4674,13 @@
       "gid": 0,
       "rdev": 0,
       "ino": 68679894317405600,
-      "atimeMs": 1550688938449.762,
-      "mtimeMs": 1550688938449.762,
-      "ctimeMs": 1550688938449.762,
+      "atimeMs": 1550693797222.0022,
+      "mtimeMs": 1550693797222.0022,
+      "ctimeMs": 1550693797222.0022,
       "birthtimeMs": 1550688757325.2683,
-      "atime": "2019-02-20T18:55:38.450Z",
-      "mtime": "2019-02-20T18:55:38.450Z",
-      "ctime": "2019-02-20T18:55:38.450Z",
+      "atime": "2019-02-20T20:16:37.222Z",
+      "mtime": "2019-02-20T20:16:37.222Z",
+      "ctime": "2019-02-20T20:16:37.222Z",
       "birthtime": "2019-02-20T18:52:37.325Z"
     },
     "8795da5a-3aa0-598f-a626-0267f648e762": {
@@ -4785,7 +4690,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "6342868eadfb202ce48b16a9bb45be45",
+        "contentDigest": "375f21e8a5b01deb1ff15159e7bd9d40",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"content\\pages\\mostar\\mostar.md\"",
@@ -4795,11 +4700,11 @@
       "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/mostar/mostar.md",
       "relativePath": "mostar/mostar.md",
       "extension": "md",
-      "size": 797,
-      "prettySize": "797 B",
-      "modifiedTime": "2019-02-20T18:55:36.085Z",
-      "accessTime": "2019-02-20T18:55:36.085Z",
-      "changeTime": "2019-02-20T18:55:36.085Z",
+      "size": 828,
+      "prettySize": "828 B",
+      "modifiedTime": "2019-02-20T20:24:05.778Z",
+      "accessTime": "2019-02-20T20:24:05.778Z",
+      "changeTime": "2019-02-20T20:24:05.778Z",
       "birthTime": "2019-02-20T18:54:44.703Z",
       "root": "C:/",
       "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/mostar",
@@ -4814,52 +4719,14 @@
       "gid": 0,
       "rdev": 0,
       "ino": 7318349395193700,
-      "atimeMs": 1550688936084.837,
-      "mtimeMs": 1550688936084.837,
-      "ctimeMs": 1550688936084.837,
+      "atimeMs": 1550694245777.92,
+      "mtimeMs": 1550694245777.92,
+      "ctimeMs": 1550694245777.92,
       "birthtimeMs": 1550688884702.6333,
-      "atime": "2019-02-20T18:55:36.085Z",
-      "mtime": "2019-02-20T18:55:36.085Z",
-      "ctime": "2019-02-20T18:55:36.085Z",
+      "atime": "2019-02-20T20:24:05.778Z",
+      "mtime": "2019-02-20T20:24:05.778Z",
+      "ctime": "2019-02-20T20:24:05.778Z",
       "birthtime": "2019-02-20T18:54:44.703Z"
-    },
-    "9412cf94-f3f4-555d-8040-0c06536d74eb": {
-      "id": "9412cf94-f3f4-555d-8040-0c06536d74eb",
-      "children": [],
-      "parent": "00a1791f-862d-5502-ab0c-9b7244903778",
-      "internal": {
-        "content": "\r\n# Dubrovnik\r\n\r\nExcursion starts at the pre-arranged meeting point, where you will begin a full day of experiencing and discovering  famous walls of Dubrovnik, a UNESCO World Heritage site.\r\n<br /> <br /> \r\nDrive in air-conditioned van goes along the winding coast and stops at several overlooks for amazing panoramic views of the Dalmatian islands.\r\n<br /> <br /> \r\nArrival to Dubrovnik (Croatia's most famous medieval city and also the “pearl of the Adriatic”) is around noon.\r\n<br /> <br /> \r\nThe tour begins at the monumental Pile Gate, built on the top of Stradun, a splendid main promenade street of the Old Town. You will get to sightsee Franciscan Monastery (its cloister is one of the most impressive sites in the city!) then stop by the oldest pharmacy in Europe opened in 1317. Nearby stands Sponza Palace, notable for its portico with columns and elaborate stone carvings which today houses the State Archives.\r\n<br /> <br /> \r\nTour ends with a visit to the Cathedral where you will learn more how it was built on the ruins of a 12th century church, then destroyed by the great earthquake of 1667. The guided tour lasts for about an hour and a half and after sightseeing the most important parts of the Old Town, there's time to go back and explore its hidden corners by yourself. You can climb the stairs to the walls that let you walk around the Old Town from high up on its ramparts or even take a cable car for a amazing view of the famous red tile roofs and the sea.\r\n<br /> <br /> \r\nDubrovnik leaves nobody unimpressed!\r\n<br /> <br /> \r\n<strong>Bring passport!</strong>\r\n<br /> <br /> ",
-        "type": "MarkdownRemark",
-        "contentDigest": "0324e2b5243db5a9e4b3b66e9af49d0d",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "dubrovnik",
-        "page": "dubrovnik",
-        "slug": "dubrovnik"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\r\n# Dubrovnik\r\n\r\nExcursion starts at the pre-arranged meeting point, where you will begin a full day of experiencing and discovering  famous walls of Dubrovnik, a UNESCO World Heritage site.\r\n<br /> <br /> \r\nDrive in air-conditioned van goes along the winding coast and stops at several overlooks for amazing panoramic views of the Dalmatian islands.\r\n<br /> <br /> \r\nArrival to Dubrovnik (Croatia's most famous medieval city and also the “pearl of the Adriatic”) is around noon.\r\n<br /> <br /> \r\nThe tour begins at the monumental Pile Gate, built on the top of Stradun, a splendid main promenade street of the Old Town. You will get to sightsee Franciscan Monastery (its cloister is one of the most impressive sites in the city!) then stop by the oldest pharmacy in Europe opened in 1317. Nearby stands Sponza Palace, notable for its portico with columns and elaborate stone carvings which today houses the State Archives.\r\n<br /> <br /> \r\nTour ends with a visit to the Cathedral where you will learn more how it was built on the ruins of a 12th century church, then destroyed by the great earthquake of 1667. The guided tour lasts for about an hour and a half and after sightseeing the most important parts of the Old Town, there's time to go back and explore its hidden corners by yourself. You can climb the stairs to the walls that let you walk around the Old Town from high up on its ramparts or even take a cable car for a amazing view of the famous red tile roofs and the sea.\r\n<br /> <br /> \r\nDubrovnik leaves nobody unimpressed!\r\n<br /> <br /> \r\n<strong>Bring passport!</strong>\r\n<br /> <br /> ",
-      "fileAbsolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/dubrovnik/dubrovnik.md"
-    },
-    "f0ae55bd-44c8-5ebb-b33f-1903ee45eb8d": {
-      "id": "f0ae55bd-44c8-5ebb-b33f-1903ee45eb8d",
-      "children": [],
-      "parent": "8795da5a-3aa0-598f-a626-0267f648e762",
-      "internal": {
-        "content": "\r\n# Mostar\r\n\r\nThe journey starts with driving between the Dalmatian coast and hinterland.\r\n<br /> <br /> \r\nOur first destination is Mostar (ancient Ottoman city known as ˈthe window to the Orient'), where you will get to explore the Old Bazaar, full of picturesque shops and crafts workshops, then sightsee the Mosque.\r\n<br /> <br /> \r\nAfterwards, you will enjoy a walk along the famous 16th century Turkish bridge. After guided tour you’ll have enough free time for shopping unique souvenirs and opportunity to taste authentic Bosnian specialties like ćevapi, pita or burek.\r\n<br /> <br /> \r\nLast stop is amazing Kravica Waterfall to cool-off before we return to Split.\r\n<br /> <br /> \r\n<strong>Bring passport!</strong>\r\n<br /> <br /> ",
-        "type": "MarkdownRemark",
-        "contentDigest": "09afae06b6524903b3dacffdbfd173a0",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "mostar",
-        "page": "mostar",
-        "slug": "mostar"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\r\n# Mostar\r\n\r\nThe journey starts with driving between the Dalmatian coast and hinterland.\r\n<br /> <br /> \r\nOur first destination is Mostar (ancient Ottoman city known as ˈthe window to the Orient'), where you will get to explore the Old Bazaar, full of picturesque shops and crafts workshops, then sightsee the Mosque.\r\n<br /> <br /> \r\nAfterwards, you will enjoy a walk along the famous 16th century Turkish bridge. After guided tour you’ll have enough free time for shopping unique souvenirs and opportunity to taste authentic Bosnian specialties like ćevapi, pita or burek.\r\n<br /> <br /> \r\nLast stop is amazing Kravica Waterfall to cool-off before we return to Split.\r\n<br /> <br /> \r\n<strong>Bring passport!</strong>\r\n<br /> <br /> ",
-      "fileAbsolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/mostar/mostar.md"
     },
     "6d51e719-f5c7-521d-aded-ffe06673f98c": {
       "id": "6d51e719-f5c7-521d-aded-ffe06673f98c",
@@ -5141,7 +5008,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "6f3e8ef8d89784f68ab3731c7729c93a",
+        "contentDigest": "e167937ad098c28a2e650e27273daceb",
         "type": "Directory",
         "description": "Directory \"content\\pages\\blue-lagoon\"",
         "owner": "gatsby-source-filesystem"
@@ -5153,7 +5020,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2019-02-20T19:19:10.400Z",
-      "accessTime": "2019-02-20T20:05:17.677Z",
+      "accessTime": "2019-02-20T20:22:53.924Z",
       "changeTime": "2019-02-20T19:19:10.400Z",
       "birthTime": "2019-02-20T19:18:27.408Z",
       "root": "C:/",
@@ -5169,11 +5036,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 5629499534347026,
-      "atimeMs": 1550693117677.121,
+      "atimeMs": 1550694173924.1267,
       "mtimeMs": 1550690350400.2869,
       "ctimeMs": 1550690350400.2869,
       "birthtimeMs": 1550690307407.754,
-      "atime": "2019-02-20T20:05:17.677Z",
+      "atime": "2019-02-20T20:22:53.924Z",
       "mtime": "2019-02-20T19:19:10.400Z",
       "ctime": "2019-02-20T19:19:10.400Z",
       "birthtime": "2019-02-20T19:18:27.408Z"
@@ -5183,7 +5050,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "1bc1862d57943d10762d98e77d4364d4",
+        "contentDigest": "bf7903cd8d14865acf8d57375f68d909",
         "type": "Directory",
         "description": "Directory \"content\\pages\\brac\"",
         "owner": "gatsby-source-filesystem"
@@ -5195,7 +5062,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2019-02-20T19:19:30.346Z",
-      "accessTime": "2019-02-20T20:05:17.672Z",
+      "accessTime": "2019-02-20T20:22:53.915Z",
       "changeTime": "2019-02-20T19:19:30.346Z",
       "birthTime": "2019-02-20T19:18:37.878Z",
       "root": "C:/",
@@ -5211,11 +5078,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 15762598695929694,
-      "atimeMs": 1550693117672.1213,
+      "atimeMs": 1550694173915.127,
       "mtimeMs": 1550690370346.1848,
       "ctimeMs": 1550690370346.1848,
       "birthtimeMs": 1550690317877.5847,
-      "atime": "2019-02-20T20:05:17.672Z",
+      "atime": "2019-02-20T20:22:53.915Z",
       "mtime": "2019-02-20T19:19:30.346Z",
       "ctime": "2019-02-20T19:19:30.346Z",
       "birthtime": "2019-02-20T19:18:37.878Z"
@@ -5225,7 +5092,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "56e35127d0e6e51f8d98b29ac890551a",
+        "contentDigest": "fe5caa9da64e96ac3b1f62c25b1752d7",
         "type": "Directory",
         "description": "Directory \"content\\pages\\hvar\"",
         "owner": "gatsby-source-filesystem"
@@ -5237,7 +5104,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2019-02-20T19:21:43.962Z",
-      "accessTime": "2019-02-20T20:05:17.672Z",
+      "accessTime": "2019-02-20T20:22:53.915Z",
       "changeTime": "2019-02-20T19:21:43.962Z",
       "birthTime": "2019-02-20T19:18:40.037Z",
       "root": "C:/",
@@ -5253,11 +5120,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 5910974511701358,
-      "atimeMs": 1550693117672.1213,
+      "atimeMs": 1550694173915.127,
       "mtimeMs": 1550690503962.1414,
       "ctimeMs": 1550690503962.1414,
       "birthtimeMs": 1550690320037.085,
-      "atime": "2019-02-20T20:05:17.672Z",
+      "atime": "2019-02-20T20:22:53.915Z",
       "mtime": "2019-02-20T19:21:43.962Z",
       "ctime": "2019-02-20T19:21:43.962Z",
       "birthtime": "2019-02-20T19:18:40.037Z"
@@ -5267,7 +5134,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "94825d374a038260283b9345cf75a9bd",
+        "contentDigest": "e5ab846a1912d649363e694cb2314f7e",
         "type": "Directory",
         "description": "Directory \"content\\pages\\vis\"",
         "owner": "gatsby-source-filesystem"
@@ -5279,7 +5146,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2019-02-20T19:24:25.953Z",
-      "accessTime": "2019-02-20T20:05:17.672Z",
+      "accessTime": "2019-02-20T20:22:53.916Z",
       "changeTime": "2019-02-20T19:24:25.953Z",
       "birthTime": "2019-02-20T19:18:48.420Z",
       "root": "C:/",
@@ -5295,11 +5162,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 3940649674726795,
-      "atimeMs": 1550693117672.1213,
+      "atimeMs": 1550694173916.1267,
       "mtimeMs": 1550690665952.961,
       "ctimeMs": 1550690665952.961,
       "birthtimeMs": 1550690328419.9646,
-      "atime": "2019-02-20T20:05:17.672Z",
+      "atime": "2019-02-20T20:22:53.916Z",
       "mtime": "2019-02-20T19:24:25.953Z",
       "ctime": "2019-02-20T19:24:25.953Z",
       "birthtime": "2019-02-20T19:18:48.420Z"
@@ -5311,7 +5178,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "d7b77000456d43c1773a711765972aee",
+        "contentDigest": "65ae4f20639709ee2da1259a46c47599",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"content\\pages\\blue-lagoon\\blue-lagoon.md\"",
@@ -5321,11 +5188,11 @@
       "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/blue-lagoon/blue-lagoon.md",
       "relativePath": "blue-lagoon/blue-lagoon.md",
       "extension": "md",
-      "size": 1431,
-      "prettySize": "1.43 kB",
-      "modifiedTime": "2019-02-20T19:20:48.407Z",
-      "accessTime": "2019-02-20T19:20:48.407Z",
-      "changeTime": "2019-02-20T19:20:48.407Z",
+      "size": 1462,
+      "prettySize": "1.46 kB",
+      "modifiedTime": "2019-02-20T20:16:37.220Z",
+      "accessTime": "2019-02-20T20:16:37.220Z",
+      "changeTime": "2019-02-20T20:16:37.220Z",
       "birthTime": "2019-02-20T19:19:10.400Z",
       "root": "C:/",
       "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/blue-lagoon",
@@ -5340,13 +5207,13 @@
       "gid": 0,
       "rdev": 0,
       "ino": 12103423998911830,
-      "atimeMs": 1550690448407.38,
-      "mtimeMs": 1550690448407.38,
-      "ctimeMs": 1550690448407.38,
+      "atimeMs": 1550693797220.0022,
+      "mtimeMs": 1550693797220.0022,
+      "ctimeMs": 1550693797220.0022,
       "birthtimeMs": 1550690350400.2869,
-      "atime": "2019-02-20T19:20:48.407Z",
-      "mtime": "2019-02-20T19:20:48.407Z",
-      "ctime": "2019-02-20T19:20:48.407Z",
+      "atime": "2019-02-20T20:16:37.220Z",
+      "mtime": "2019-02-20T20:16:37.220Z",
+      "ctime": "2019-02-20T20:16:37.220Z",
       "birthtime": "2019-02-20T19:19:10.400Z"
     },
     "ec6f8f7b-e640-5f11-92a4-d41a5c7418eb": {
@@ -5356,7 +5223,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "7e4abed83d6c766da78156fc93d3b6c4",
+        "contentDigest": "affac5a7df34b725dbe911890314ea82",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"content\\pages\\brac\\brac.md\"",
@@ -5366,11 +5233,11 @@
       "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/brac/brac.md",
       "relativePath": "brac/brac.md",
       "extension": "md",
-      "size": 1354,
-      "prettySize": "1.35 kB",
-      "modifiedTime": "2019-02-20T19:59:47.256Z",
-      "accessTime": "2019-02-20T19:59:47.256Z",
-      "changeTime": "2019-02-20T19:59:47.256Z",
+      "size": 1385,
+      "prettySize": "1.39 kB",
+      "modifiedTime": "2019-02-20T20:16:37.220Z",
+      "accessTime": "2019-02-20T20:16:37.220Z",
+      "changeTime": "2019-02-20T20:16:37.220Z",
       "birthTime": "2019-02-20T19:19:30.346Z",
       "root": "C:/",
       "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/brac",
@@ -5385,33 +5252,14 @@
       "gid": 0,
       "rdev": 0,
       "ino": 101893941569289330,
-      "atimeMs": 1550692787256.17,
-      "mtimeMs": 1550692787256.17,
-      "ctimeMs": 1550692787256.17,
+      "atimeMs": 1550693797220.0022,
+      "mtimeMs": 1550693797220.0022,
+      "ctimeMs": 1550693797220.0022,
       "birthtimeMs": 1550690370346.1848,
-      "atime": "2019-02-20T19:59:47.256Z",
-      "mtime": "2019-02-20T19:59:47.256Z",
-      "ctime": "2019-02-20T19:59:47.256Z",
+      "atime": "2019-02-20T20:16:37.220Z",
+      "mtime": "2019-02-20T20:16:37.220Z",
+      "ctime": "2019-02-20T20:16:37.220Z",
       "birthtime": "2019-02-20T19:19:30.346Z"
-    },
-    "6d75ed64-5772-57ad-ab2b-bdd78ca3325f": {
-      "id": "6d75ed64-5772-57ad-ab2b-bdd78ca3325f",
-      "children": [],
-      "parent": "38eedf2a-ce38-5d71-b4a6-3cd6dfa2ff23",
-      "internal": {
-        "content": "\r\n# Blue Lagoon\r\n\r\nNestled between the two Krknjaši islands, this enchanting lagoon is blessed with crystal clear waters, ideal for swimming, snorkeling and fun in the sun.\r\n<br /> <br /> \r\nOur speedboat leaves from Riva, so you get to experience one of the best panoramic views of Split, prepare your cameras! After 30 minutes of exciting speed boat ride, we reach the first destination, the ancient city of Trogir, founded in the 3rd century BC and now UNESCO World Heritage site. Once you enter through the city gates (17th c) you find yourself in the maze of small stone streets, churches and palaces from the Romanesque, Gothic, Renaissance and Baroque periods. Enjoy your coffee and breakfast within the city walls (15th c) or just outside them on a picturesque promenade overlooking Fortress Kamerlengo and the bay. An hour of free time is just enough to soak up a bit of history and move on to swimming activities!\r\n<br /> <br /> \r\nThe Blue Lagoon is a snorkeler’s utopia featuring crystal clear sea with sea floor made out of crushed sea shells mixed with sand which, under the sunlight, produce mesmerizing sea color. After exploring the seabed, turn to your back and just float effortlessly as you observe the trio of islands that ring you.\r\n<br /> <br /> \r\nSnorkel masks are provided for you to discover the vibrant marine life!\r\n<br /> <br /> ",
-        "type": "MarkdownRemark",
-        "contentDigest": "c78766373787754c3150fd535df3d13b",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "blue lagoon",
-        "page": "blue-lagoon",
-        "slug": "blue-lagoon"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\r\n# Blue Lagoon\r\n\r\nNestled between the two Krknjaši islands, this enchanting lagoon is blessed with crystal clear waters, ideal for swimming, snorkeling and fun in the sun.\r\n<br /> <br /> \r\nOur speedboat leaves from Riva, so you get to experience one of the best panoramic views of Split, prepare your cameras! After 30 minutes of exciting speed boat ride, we reach the first destination, the ancient city of Trogir, founded in the 3rd century BC and now UNESCO World Heritage site. Once you enter through the city gates (17th c) you find yourself in the maze of small stone streets, churches and palaces from the Romanesque, Gothic, Renaissance and Baroque periods. Enjoy your coffee and breakfast within the city walls (15th c) or just outside them on a picturesque promenade overlooking Fortress Kamerlengo and the bay. An hour of free time is just enough to soak up a bit of history and move on to swimming activities!\r\n<br /> <br /> \r\nThe Blue Lagoon is a snorkeler’s utopia featuring crystal clear sea with sea floor made out of crushed sea shells mixed with sand which, under the sunlight, produce mesmerizing sea color. After exploring the seabed, turn to your back and just float effortlessly as you observe the trio of islands that ring you.\r\n<br /> <br /> \r\nSnorkel masks are provided for you to discover the vibrant marine life!\r\n<br /> <br /> ",
-      "fileAbsolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/blue-lagoon/blue-lagoon.md"
     },
     "01d04013-bca4-5c28-b450-2c81be30a522": {
       "id": "01d04013-bca4-5c28-b450-2c81be30a522",
@@ -5420,7 +5268,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "6455a93fa7aa78737835736db216f9c4",
+        "contentDigest": "80c6d5618ff1d8590323c87abceb71ee",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"content\\pages\\hvar\\hvar.md\"",
@@ -5430,11 +5278,11 @@
       "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/hvar/hvar.md",
       "relativePath": "hvar/hvar.md",
       "extension": "md",
-      "size": 2160,
-      "prettySize": "2.16 kB",
-      "modifiedTime": "2019-02-20T19:22:28.863Z",
-      "accessTime": "2019-02-20T19:22:28.863Z",
-      "changeTime": "2019-02-20T19:22:28.863Z",
+      "size": 2191,
+      "prettySize": "2.19 kB",
+      "modifiedTime": "2019-02-20T20:16:37.220Z",
+      "accessTime": "2019-02-20T20:16:37.220Z",
+      "changeTime": "2019-02-20T20:16:37.220Z",
       "birthTime": "2019-02-20T19:21:43.962Z",
       "root": "C:/",
       "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/hvar",
@@ -5449,40 +5297,21 @@
       "gid": 0,
       "rdev": 0,
       "ino": 3940649674727108,
-      "atimeMs": 1550690548862.5154,
-      "mtimeMs": 1550690548862.5154,
-      "ctimeMs": 1550690548862.5154,
+      "atimeMs": 1550693797220.0022,
+      "mtimeMs": 1550693797220.0022,
+      "ctimeMs": 1550693797220.0022,
       "birthtimeMs": 1550690503962.1414,
-      "atime": "2019-02-20T19:22:28.863Z",
-      "mtime": "2019-02-20T19:22:28.863Z",
-      "ctime": "2019-02-20T19:22:28.863Z",
+      "atime": "2019-02-20T20:16:37.220Z",
+      "mtime": "2019-02-20T20:16:37.220Z",
+      "ctime": "2019-02-20T20:16:37.220Z",
       "birthtime": "2019-02-20T19:21:43.962Z"
-    },
-    "da506b54-768a-51fb-8a70-9dba90eea2e0": {
-      "id": "da506b54-768a-51fb-8a70-9dba90eea2e0",
-      "children": [],
-      "parent": "01d04013-bca4-5c28-b450-2c81be30a522",
-      "internal": {
-        "content": "\r\n# Hvar\r\n\r\nFor all sea lovers, but also for those who want to see something unique, Blue cave tour from Split is perfect excursion!\r\n<br /> <br /> \r\nJump on speedboat for an early morning exciting 90 minutes ride to Biševo Island and the Blue cave visit from Split. We will arrive around 09:30h, just in time for memorable scenery when the sunlight reflects through the sea and illuminates the entire cave in aquamarine blue light. Listen the story from official local guide of how the cave was discovered and what makes the magic.\r\n<br /> <br /> \r\nAfter the cave tour, we are back on a speedboat to our next attraction which is Monk Seal cave, where the Mediterranean monk seal used to reside. Passing beside picturesque southern side of the island Vis, where full of caves, beaches and diverse forms of nature and rocks caused by changes on the sea, our next destination is Stiniva bay, voted best European beach in 2016., where we'll stop for a swim in the unique narrow bay that ends with a white pebbles beach.\r\n<br /> <br /> \r\nAfterwards we stop on Budikovac island for a longer swim on hidden white pebble beach with turquoise sea color.\r\nOn our way to the island of Hvar you will enjoy the panoramic view of the amazing archipelago of Pakleni islands – the oldest and the most famous Hvar’s resort, spacious lagoon with shallow  sandy beaches, surrounded by pine forest, fragrant heather and rosemary bushes and various exotic plants.\r\n<br /> <br /> \r\nFree time for a lunch in Palmizana at Pakleni islands. \r\n<br /> <br /> \r\nOur final stop is town of Hvar, on the island Hvar, one of most beautiful harbours of the world, with beautiful nature and surroundings, as well a rich cultural heritage, with walls dating back to the 7th century, and many 15th-17th century Venetian era noble houses.\r\nExplore the town by yourself and enjoy the real Mediterranean atmosphere and local hospitality.\r\n<br /> <br /> \r\nOur Blue cave and Hvar tour from Split ends with a quiet ride on the smooth sea at sunset, so you can enjoy all the beauty and all the colors of the sunset at the open sea.\r\n<br /> <br /> ",
-        "type": "MarkdownRemark",
-        "contentDigest": "f6ed0cc387bb5fa5287451e1ede486e2",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "hvar",
-        "page": "hvar",
-        "slug": "hvar"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\r\n# Hvar\r\n\r\nFor all sea lovers, but also for those who want to see something unique, Blue cave tour from Split is perfect excursion!\r\n<br /> <br /> \r\nJump on speedboat for an early morning exciting 90 minutes ride to Biševo Island and the Blue cave visit from Split. We will arrive around 09:30h, just in time for memorable scenery when the sunlight reflects through the sea and illuminates the entire cave in aquamarine blue light. Listen the story from official local guide of how the cave was discovered and what makes the magic.\r\n<br /> <br /> \r\nAfter the cave tour, we are back on a speedboat to our next attraction which is Monk Seal cave, where the Mediterranean monk seal used to reside. Passing beside picturesque southern side of the island Vis, where full of caves, beaches and diverse forms of nature and rocks caused by changes on the sea, our next destination is Stiniva bay, voted best European beach in 2016., where we'll stop for a swim in the unique narrow bay that ends with a white pebbles beach.\r\n<br /> <br /> \r\nAfterwards we stop on Budikovac island for a longer swim on hidden white pebble beach with turquoise sea color.\r\nOn our way to the island of Hvar you will enjoy the panoramic view of the amazing archipelago of Pakleni islands – the oldest and the most famous Hvar’s resort, spacious lagoon with shallow  sandy beaches, surrounded by pine forest, fragrant heather and rosemary bushes and various exotic plants.\r\n<br /> <br /> \r\nFree time for a lunch in Palmizana at Pakleni islands. \r\n<br /> <br /> \r\nOur final stop is town of Hvar, on the island Hvar, one of most beautiful harbours of the world, with beautiful nature and surroundings, as well a rich cultural heritage, with walls dating back to the 7th century, and many 15th-17th century Venetian era noble houses.\r\nExplore the town by yourself and enjoy the real Mediterranean atmosphere and local hospitality.\r\n<br /> <br /> \r\nOur Blue cave and Hvar tour from Split ends with a quiet ride on the smooth sea at sunset, so you can enjoy all the beauty and all the colors of the sunset at the open sea.\r\n<br /> <br /> ",
-      "fileAbsolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/hvar/hvar.md"
     },
     "17e6cacc-4283-521b-a00b-8d7f2bd853d6": {
       "id": "17e6cacc-4283-521b-a00b-8d7f2bd853d6",
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "08ee0681a08253ca17bae749c3868f7d",
+        "contentDigest": "320826651f4687f0895d83b343d66773",
         "type": "Directory",
         "description": "Directory \"content\\pages\\sailing\"",
         "owner": "gatsby-source-filesystem"
@@ -5494,7 +5323,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2019-02-20T19:23:38.587Z",
-      "accessTime": "2019-02-20T20:05:17.672Z",
+      "accessTime": "2019-02-20T20:22:53.915Z",
       "changeTime": "2019-02-20T19:23:43.153Z",
       "birthTime": "2019-02-20T19:18:45.963Z",
       "root": "C:/",
@@ -5510,11 +5339,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 5066549581569392,
-      "atimeMs": 1550693117672.1213,
+      "atimeMs": 1550694173915.127,
       "mtimeMs": 1550690618587.42,
       "ctimeMs": 1550690623153.0657,
       "birthtimeMs": 1550690325963.2766,
-      "atime": "2019-02-20T20:05:17.672Z",
+      "atime": "2019-02-20T20:22:53.915Z",
       "mtime": "2019-02-20T19:23:38.587Z",
       "ctime": "2019-02-20T19:23:43.153Z",
       "birthtime": "2019-02-20T19:18:45.963Z"
@@ -5526,7 +5355,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "e5b7cc7f41b94dba5b21cb3ef133c57b",
+        "contentDigest": "02da43c10739355b3a39e31f59247db8",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"content\\pages\\sailing\\sailing.md\"",
@@ -5536,11 +5365,11 @@
       "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/sailing/sailing.md",
       "relativePath": "sailing/sailing.md",
       "extension": "md",
-      "size": 1006,
-      "prettySize": "1.01 kB",
-      "modifiedTime": "2019-02-20T19:24:42.862Z",
-      "accessTime": "2019-02-20T19:24:42.862Z",
-      "changeTime": "2019-02-20T19:24:42.862Z",
+      "size": 1037,
+      "prettySize": "1.04 kB",
+      "modifiedTime": "2019-02-20T20:16:37.224Z",
+      "accessTime": "2019-02-20T20:16:37.224Z",
+      "changeTime": "2019-02-20T20:16:37.224Z",
       "birthTime": "2019-02-20T19:22:43.253Z",
       "root": "C:/",
       "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/sailing",
@@ -5555,13 +5384,13 @@
       "gid": 0,
       "rdev": 0,
       "ino": 7318349395254715,
-      "atimeMs": 1550690682861.971,
-      "mtimeMs": 1550690682861.971,
-      "ctimeMs": 1550690682861.971,
+      "atimeMs": 1550693797224.008,
+      "mtimeMs": 1550693797224.008,
+      "ctimeMs": 1550693797224.008,
       "birthtimeMs": 1550690563253.1487,
-      "atime": "2019-02-20T19:24:42.862Z",
-      "mtime": "2019-02-20T19:24:42.862Z",
-      "ctime": "2019-02-20T19:24:42.862Z",
+      "atime": "2019-02-20T20:16:37.224Z",
+      "mtime": "2019-02-20T20:16:37.224Z",
+      "ctime": "2019-02-20T20:16:37.224Z",
       "birthtime": "2019-02-20T19:22:43.253Z"
     },
     "6453ab78-086b-5432-aab2-31c57abf17a8": {
@@ -5571,7 +5400,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "d33534201f403a506defd019a846bd98",
+        "contentDigest": "aecdc1e17c19b0c295eaf1da1add5a85",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"content\\pages\\vis\\vis.md\"",
@@ -5581,11 +5410,11 @@
       "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/vis/vis.md",
       "relativePath": "vis/vis.md",
       "extension": "md",
-      "size": 2156,
-      "prettySize": "2.16 kB",
-      "modifiedTime": "2019-02-20T19:24:38.543Z",
-      "accessTime": "2019-02-20T19:24:38.543Z",
-      "changeTime": "2019-02-20T19:24:38.543Z",
+      "size": 2187,
+      "prettySize": "2.19 kB",
+      "modifiedTime": "2019-02-20T20:16:37.220Z",
+      "accessTime": "2019-02-20T20:16:37.220Z",
+      "changeTime": "2019-02-20T20:16:37.220Z",
       "birthTime": "2019-02-20T19:24:25.953Z",
       "root": "C:/",
       "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/vis",
@@ -5600,52 +5429,14 @@
       "gid": 0,
       "rdev": 0,
       "ino": 17169973579386030,
-      "atimeMs": 1550690678542.738,
-      "mtimeMs": 1550690678542.738,
-      "ctimeMs": 1550690678542.738,
+      "atimeMs": 1550693797220.0022,
+      "mtimeMs": 1550693797220.0022,
+      "ctimeMs": 1550693797220.0022,
       "birthtimeMs": 1550690665952.961,
-      "atime": "2019-02-20T19:24:38.543Z",
-      "mtime": "2019-02-20T19:24:38.543Z",
-      "ctime": "2019-02-20T19:24:38.543Z",
+      "atime": "2019-02-20T20:16:37.220Z",
+      "mtime": "2019-02-20T20:16:37.220Z",
+      "ctime": "2019-02-20T20:16:37.220Z",
       "birthtime": "2019-02-20T19:24:25.953Z"
-    },
-    "31f55316-0de8-541c-8988-d8433d9060c1": {
-      "id": "31f55316-0de8-541c-8988-d8433d9060c1",
-      "children": [],
-      "parent": "6453ab78-086b-5432-aab2-31c57abf17a8",
-      "internal": {
-        "content": "\r\n# Vis\r\n\r\nFor all sea lovers, but also for those who want to see something unique, Blue cave tour from Split is perfect excursion!\r\n<br /> <br /> \r\nJump on speedboat for an early morning exciting 90 minutes ride to Biševo Island and the Blue cave visit from Split. We will arrive around 09:30h, just in time for memorable scenery when the sunlight reflects through the sea and illuminates the entire cave in aquamarine blue light. Listen the story from official local guide of how the cave was discovered and what makes the magic.\r\n<br /> <br /> \r\nAfter the cave tour, we are back on a speedboat to our next attraction which is Monk Seal cave, where the Mediterranean monk seal used to reside. Passing beside picturesque southern side of the island Vis, where full of caves, beaches and diverse forms of nature and rocks caused by changes on the sea, our next destination is Stiniva bay, voted best European beach in 2016., where we'll stop for a swim in the unique narrow bay that ends with a white pebbles beach.\r\n<br /> <br /> \r\nAfterwards we stop on Budikovac island for a longer swim on hidden white pebble beach with turquoise sea color.\r\nOn our way to the island of Hvar you will enjoy the panoramic view of the amazing archipelago of Pakleni islands – the oldest and the most famous Hvar’s resort, spacious lagoon with shallow  sandy beaches, surrounded by pine forest, fragrant heather and rosemary bushes and various exotic plants.\r\n<br /> <br /> \r\nFree time for a lunch in Palmizana at Pakleni islands. \r\n<br /> <br /> \r\nOur final stop is town of Hvar, on the island Hvar, one of most beautiful harbours of the world, with beautiful nature and surroundings, as well a rich cultural heritage, with walls dating back to the 7th century, and many 15th-17th century Venetian era noble houses.\r\nExplore the town by yourself and enjoy the real Mediterranean atmosphere and local hospitality.\r\n<br /> <br /> \r\nOur Blue cave and Hvar tour from Split ends with a quiet ride on the smooth sea at sunset, so you can enjoy all the beauty and all the colors of the sunset at the open sea.\r\n<br /> <br /> ",
-        "type": "MarkdownRemark",
-        "contentDigest": "908dabe753e435fe6fd6c1277479250a",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "vis",
-        "page": "vis",
-        "slug": "vis"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\r\n# Vis\r\n\r\nFor all sea lovers, but also for those who want to see something unique, Blue cave tour from Split is perfect excursion!\r\n<br /> <br /> \r\nJump on speedboat for an early morning exciting 90 minutes ride to Biševo Island and the Blue cave visit from Split. We will arrive around 09:30h, just in time for memorable scenery when the sunlight reflects through the sea and illuminates the entire cave in aquamarine blue light. Listen the story from official local guide of how the cave was discovered and what makes the magic.\r\n<br /> <br /> \r\nAfter the cave tour, we are back on a speedboat to our next attraction which is Monk Seal cave, where the Mediterranean monk seal used to reside. Passing beside picturesque southern side of the island Vis, where full of caves, beaches and diverse forms of nature and rocks caused by changes on the sea, our next destination is Stiniva bay, voted best European beach in 2016., where we'll stop for a swim in the unique narrow bay that ends with a white pebbles beach.\r\n<br /> <br /> \r\nAfterwards we stop on Budikovac island for a longer swim on hidden white pebble beach with turquoise sea color.\r\nOn our way to the island of Hvar you will enjoy the panoramic view of the amazing archipelago of Pakleni islands – the oldest and the most famous Hvar’s resort, spacious lagoon with shallow  sandy beaches, surrounded by pine forest, fragrant heather and rosemary bushes and various exotic plants.\r\n<br /> <br /> \r\nFree time for a lunch in Palmizana at Pakleni islands. \r\n<br /> <br /> \r\nOur final stop is town of Hvar, on the island Hvar, one of most beautiful harbours of the world, with beautiful nature and surroundings, as well a rich cultural heritage, with walls dating back to the 7th century, and many 15th-17th century Venetian era noble houses.\r\nExplore the town by yourself and enjoy the real Mediterranean atmosphere and local hospitality.\r\n<br /> <br /> \r\nOur Blue cave and Hvar tour from Split ends with a quiet ride on the smooth sea at sunset, so you can enjoy all the beauty and all the colors of the sunset at the open sea.\r\n<br /> <br /> ",
-      "fileAbsolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/vis/vis.md"
-    },
-    "607974e8-8f64-5263-a194-05a115aba91c": {
-      "id": "607974e8-8f64-5263-a194-05a115aba91c",
-      "children": [],
-      "parent": "262d2119-032a-5df0-b77b-7a14c2f344f9",
-      "internal": {
-        "content": "\r\n# Sailing\r\n\r\nSet sail with us and cruise to the islands of Šolta, Brač or Čiovo on an unforgettable sailing tour. Anchor in secluded bay, discover rich underwater life while snorkeling. Visibility in the Adriatic can be clear up to 30 meters so snorkeling is a must.\r\n<br /> <br /> \r\nSwim in crystal clear Adriatic sea while our chef prepares light Dalmatian lunch with fresh ingredients. During lunch indigenous Croatian eco-wines will be served on the boat.\r\n<br /> <br /> \r\nTour departs at 10 am and return to Split is around 5 pm. There is no strict route here as sailing depends on the weather conditions but we know that islands Brac, Solta and Ciovo will reveal their pristine beauty and implant unforgettable memories.\r\n<br /> <br /> \r\nMaximum number of person on the boat is 8. Boat can also be rented for private sail.\r\n<br /> <br /> \r\nThis one day trip is the perfect choice to explore the whole area around Split.\r\n<br /> <br /> ",
-        "type": "MarkdownRemark",
-        "contentDigest": "4adf7a23ea2cbeae0e1b97db46e5a5fc",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "sailing",
-        "page": "sailing",
-        "slug": "sailing"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\r\n# Sailing\r\n\r\nSet sail with us and cruise to the islands of Šolta, Brač or Čiovo on an unforgettable sailing tour. Anchor in secluded bay, discover rich underwater life while snorkeling. Visibility in the Adriatic can be clear up to 30 meters so snorkeling is a must.\r\n<br /> <br /> \r\nSwim in crystal clear Adriatic sea while our chef prepares light Dalmatian lunch with fresh ingredients. During lunch indigenous Croatian eco-wines will be served on the boat.\r\n<br /> <br /> \r\nTour departs at 10 am and return to Split is around 5 pm. There is no strict route here as sailing depends on the weather conditions but we know that islands Brac, Solta and Ciovo will reveal their pristine beauty and implant unforgettable memories.\r\n<br /> <br /> \r\nMaximum number of person on the boat is 8. Boat can also be rented for private sail.\r\n<br /> <br /> \r\nThis one day trip is the perfect choice to explore the whole area around Split.\r\n<br /> <br /> ",
-      "fileAbsolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/sailing/sailing.md"
     },
     "960d26af-46df-58ff-8e06-f2d48fd246ef": {
       "id": "960d26af-46df-58ff-8e06-f2d48fd246ef",
@@ -5921,25 +5712,6 @@
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
-    },
-    "9ba6f9fa-38eb-5132-81e7-895de3c3716a": {
-      "id": "9ba6f9fa-38eb-5132-81e7-895de3c3716a",
-      "children": [],
-      "parent": "ec6f8f7b-e640-5f11-92a4-d41a5c7418eb",
-      "internal": {
-        "content": "\r\n# Brač\r\n\r\nGolden horn and Bol tour from Split starts with 1 hour cruise on the mega catamaran to island Brač, starting with Summer Blues welcome drink.\r\n<br /> <br /> \r\nDiscover the inland of island Brač during the organized 2 hour panoramic bus tour from Supetar to Bol with professional guide, including a stop on “Vidova Gora” to enjoy breathtaking views and take photos.\r\n<br /> <br /> \r\nFinaly we arrive at the famous beach Golden Horn where you’ll have 2 hours free time for swimming and sun.\r\n<br /> <br /> \r\nEarly afternoon, at 15:00, we’ll walk through the village of Bol and continue our journey on the Summer Blues catamaran. While we cruise along the south side of island Brač and admire the views of wineyards, lunch will be served and the bar with the all inclusive drinks is open till the end of the excursion.\r\n<br /> <br /> \r\nOur next highlight is the natural bay „Lučice“ where catamaran anchors for a swim stop, enjoy every second in the pure paradise. We are relaxed and ready to start the sailing tour to Split including one more swim stop in another hidden bay of island Brač.\r\n<br /> <br /> \r\nOn board more fresh fruits and delicious dailly cakes are served; the bar with drinks is still open and the dance music entertainment during the sunset\r\n<br /> <br /> ",
-        "type": "MarkdownRemark",
-        "contentDigest": "088cf098fe63f202727a6e54d8ea82f6",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "brac",
-        "page": "brac",
-        "slug": "brac"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\r\n# Brač\r\n\r\nGolden horn and Bol tour from Split starts with 1 hour cruise on the mega catamaran to island Brač, starting with Summer Blues welcome drink.\r\n<br /> <br /> \r\nDiscover the inland of island Brač during the organized 2 hour panoramic bus tour from Supetar to Bol with professional guide, including a stop on “Vidova Gora” to enjoy breathtaking views and take photos.\r\n<br /> <br /> \r\nFinaly we arrive at the famous beach Golden Horn where you’ll have 2 hours free time for swimming and sun.\r\n<br /> <br /> \r\nEarly afternoon, at 15:00, we’ll walk through the village of Bol and continue our journey on the Summer Blues catamaran. While we cruise along the south side of island Brač and admire the views of wineyards, lunch will be served and the bar with the all inclusive drinks is open till the end of the excursion.\r\n<br /> <br /> \r\nOur next highlight is the natural bay „Lučice“ where catamaran anchors for a swim stop, enjoy every second in the pure paradise. We are relaxed and ready to start the sailing tour to Split including one more swim stop in another hidden bay of island Brač.\r\n<br /> <br /> \r\nOn board more fresh fruits and delicious dailly cakes are served; the bar with drinks is still open and the dance music entertainment during the sunset\r\n<br /> <br /> ",
-      "fileAbsolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/brac/brac.md"
     },
     "9b353d1c-9743-50d8-9ee4-75ef0d7b537d": {
       "id": "9b353d1c-9743-50d8-9ee4-75ef0d7b537d",
@@ -6271,6 +6043,323 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
+    "97d87065-be8e-5ace-aab3-1e2e38b091af": {
+      "id": "97d87065-be8e-5ace-aab3-1e2e38b091af",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "ca8c33bf4222613076d686df6a8d755c",
+        "type": "Directory",
+        "description": "Directory \"content\\pages\\images\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/images",
+      "relativePath": "images",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2019-02-20T20:14:55.598Z",
+      "accessTime": "2019-02-20T20:22:53.915Z",
+      "changeTime": "2019-02-20T20:14:55.598Z",
+      "birthTime": "2019-02-20T20:14:25.562Z",
+      "root": "C:/",
+      "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "",
+      "dev": 2597077015,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 12103423998628476,
+      "atimeMs": 1550694173915.127,
+      "mtimeMs": 1550693695597.6511,
+      "ctimeMs": 1550693695597.6511,
+      "birthtimeMs": 1550693665562.1392,
+      "atime": "2019-02-20T20:22:53.915Z",
+      "mtime": "2019-02-20T20:14:55.598Z",
+      "ctime": "2019-02-20T20:14:55.598Z",
+      "birthtime": "2019-02-20T20:14:25.562Z"
+    },
+    "cb67ccec-55a3-55ef-9bab-c5410d835b53": {
+      "id": "cb67ccec-55a3-55ef-9bab-c5410d835b53",
+      "children": [
+        "5f4d3bd4-ab21-52c6-bcfb-6ddba26368ad"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "5bce18e7981897d3b1ef4ad2a5494278",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\pages\\images\\vis4x3.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/images/vis4x3.jpg",
+      "relativePath": "images/vis4x3.jpg",
+      "extension": "jpg",
+      "size": 106747,
+      "prettySize": "107 kB",
+      "modifiedTime": "2019-02-20T12:08:16.000Z",
+      "accessTime": "2019-02-20T20:14:55.601Z",
+      "changeTime": "2019-02-20T13:08:35.915Z",
+      "birthTime": "2019-02-20T20:14:55.598Z",
+      "root": "C:/",
+      "dir": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/images",
+      "base": "vis4x3.jpg",
+      "ext": ".jpg",
+      "name": "vis4x3",
+      "relativeDirectory": "images",
+      "dev": 2597077015,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 14918173766443044,
+      "atimeMs": 1550693695600.6567,
+      "mtimeMs": 1550664496000,
+      "ctimeMs": 1550668115914.6965,
+      "birthtimeMs": 1550693695597.6511,
+      "atime": "2019-02-20T20:14:55.601Z",
+      "mtime": "2019-02-20T12:08:16.000Z",
+      "ctime": "2019-02-20T13:08:35.915Z",
+      "birthtime": "2019-02-20T20:14:55.598Z"
+    },
+    "5f4d3bd4-ab21-52c6-bcfb-6ddba26368ad": {
+      "id": "5f4d3bd4-ab21-52c6-bcfb-6ddba26368ad",
+      "children": [],
+      "parent": "cb67ccec-55a3-55ef-9bab-c5410d835b53",
+      "internal": {
+        "contentDigest": "5bce18e7981897d3b1ef4ad2a5494278",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "6d75ed64-5772-57ad-ab2b-bdd78ca3325f": {
+      "id": "6d75ed64-5772-57ad-ab2b-bdd78ca3325f",
+      "children": [],
+      "parent": "38eedf2a-ce38-5d71-b4a6-3cd6dfa2ff23",
+      "internal": {
+        "content": "\r\n# Blue Lagoon\r\n\r\nNestled between the two Krknjaši islands, this enchanting lagoon is blessed with crystal clear waters, ideal for swimming, snorkeling and fun in the sun.\r\n<br /> <br /> \r\nOur speedboat leaves from Riva, so you get to experience one of the best panoramic views of Split, prepare your cameras! After 30 minutes of exciting speed boat ride, we reach the first destination, the ancient city of Trogir, founded in the 3rd century BC and now UNESCO World Heritage site. Once you enter through the city gates (17th c) you find yourself in the maze of small stone streets, churches and palaces from the Romanesque, Gothic, Renaissance and Baroque periods. Enjoy your coffee and breakfast within the city walls (15th c) or just outside them on a picturesque promenade overlooking Fortress Kamerlengo and the bay. An hour of free time is just enough to soak up a bit of history and move on to swimming activities!\r\n<br /> <br /> \r\nThe Blue Lagoon is a snorkeler’s utopia featuring crystal clear sea with sea floor made out of crushed sea shells mixed with sand which, under the sunlight, produce mesmerizing sea color. After exploring the seabed, turn to your back and just float effortlessly as you observe the trio of islands that ring you.\r\n<br /> <br /> \r\nSnorkel masks are provided for you to discover the vibrant marine life!\r\n<br /> <br /> ",
+        "type": "MarkdownRemark",
+        "contentDigest": "e571df691090c52ebfbc762d2059df5e",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Blue Lagoon",
+        "page": "blue-lagoon",
+        "slug": "blue-lagoon",
+        "image": "../images/vis4x3.jpg"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\r\n# Blue Lagoon\r\n\r\nNestled between the two Krknjaši islands, this enchanting lagoon is blessed with crystal clear waters, ideal for swimming, snorkeling and fun in the sun.\r\n<br /> <br /> \r\nOur speedboat leaves from Riva, so you get to experience one of the best panoramic views of Split, prepare your cameras! After 30 minutes of exciting speed boat ride, we reach the first destination, the ancient city of Trogir, founded in the 3rd century BC and now UNESCO World Heritage site. Once you enter through the city gates (17th c) you find yourself in the maze of small stone streets, churches and palaces from the Romanesque, Gothic, Renaissance and Baroque periods. Enjoy your coffee and breakfast within the city walls (15th c) or just outside them on a picturesque promenade overlooking Fortress Kamerlengo and the bay. An hour of free time is just enough to soak up a bit of history and move on to swimming activities!\r\n<br /> <br /> \r\nThe Blue Lagoon is a snorkeler’s utopia featuring crystal clear sea with sea floor made out of crushed sea shells mixed with sand which, under the sunlight, produce mesmerizing sea color. After exploring the seabed, turn to your back and just float effortlessly as you observe the trio of islands that ring you.\r\n<br /> <br /> \r\nSnorkel masks are provided for you to discover the vibrant marine life!\r\n<br /> <br /> ",
+      "fileAbsolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/blue-lagoon/blue-lagoon.md"
+    },
+    "5a35df30-f219-5c9d-8dc6-f61b1d36fda7": {
+      "id": "5a35df30-f219-5c9d-8dc6-f61b1d36fda7",
+      "children": [],
+      "parent": "43ec9c2e-7f84-59c9-a2c7-6afcb218098f",
+      "internal": {
+        "content": "\r\n# Blue Cave\r\n\r\nFor all sea lovers, but also for those who want to see something unique, Blue cave tour from Split is perfect excursion! \r\nJump on speedboat for an early morning exciting <strong> 90 minutes ride to Biševo Island </strong>and the Blue cave visit from Split. We will arrive around 09:30h, just in time for memorable scenery when the sunlight reflects through the sea and illuminates the entire cave in <strong>aquamarine blue light</strong>. Listen the story from official local guide of how the cave was discovered and what makes the magic.\r\n<br /> <br /> \r\nAfter the cave tour, we are back on a speedboat to our next attraction which is <strong>Monk Seal cave</strong>, where the Mediterranean\r\nmonk seal used to reside. Passing beside picturesque southern side of the island Vis, where full of caves, beaches and diverse forms of nature and rocks caused by changes on the sea, our next destination is Stiniva bay, voted best European beach in 2016., where we'll stop for a swim in the unique narrow bay that ends with a white pebbles beach.\r\n<br /> <br />\r\nAfterwards we stop on Budikovac island for a longer swim on hidden white pebble beach with turquoise sea color. On our way to the island of Hvar you will enjoy the panoramic view of the amazing archipelago of Pakleni islands – the oldest and the most famous Hvar’s resort, spacious lagoon with shallow  sandy beaches, surrounded by pine forest, \r\nfragrant heather and rosemary bushes and various exotic plants.\r\n<br /> <br />\r\nFree time for a lunch in Palmizana at Pakleni islands. \r\nOur final stop is town of Hvar, on the island Hvar,<strong> one of most beautiful harbours of the world</strong>, with beautiful nature and surroundings, as well a rich cultural heritage, with walls dating back to the 7th century, and many 15th-17th century Venetian era noble houses.\r\nExplore the town by yourself and enjoy the real Mediterranean atmosphere and local hospitality.\r\n<br /> <br />\r\nOur Blue cave and Hvar tour from Split ends with a quiet ride on the smooth sea at sunset, so you can enjoy all the beauty and all the colors of the sunset at the open sea.\r\nThere you will have more time for swimming and sunbathing on a beautiful pebble beach.\r\n<br /> <br />\r\n<strong>NOTE:</strong> Guest should have proper clothing, wind jacket, bathing suite, hat, additional clothes for change, towel, sunglasses and suncream.\r\n<br /> <br />",
+        "type": "MarkdownRemark",
+        "contentDigest": "c311ca2066be4f25049203ffae2b9bee",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Blue Cave",
+        "page": "blue-cave",
+        "slug": "blue-cave",
+        "image": "../images/vis4x3.jpg"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\r\n# Blue Cave\r\n\r\nFor all sea lovers, but also for those who want to see something unique, Blue cave tour from Split is perfect excursion! \r\nJump on speedboat for an early morning exciting <strong> 90 minutes ride to Biševo Island </strong>and the Blue cave visit from Split. We will arrive around 09:30h, just in time for memorable scenery when the sunlight reflects through the sea and illuminates the entire cave in <strong>aquamarine blue light</strong>. Listen the story from official local guide of how the cave was discovered and what makes the magic.\r\n<br /> <br /> \r\nAfter the cave tour, we are back on a speedboat to our next attraction which is <strong>Monk Seal cave</strong>, where the Mediterranean\r\nmonk seal used to reside. Passing beside picturesque southern side of the island Vis, where full of caves, beaches and diverse forms of nature and rocks caused by changes on the sea, our next destination is Stiniva bay, voted best European beach in 2016., where we'll stop for a swim in the unique narrow bay that ends with a white pebbles beach.\r\n<br /> <br />\r\nAfterwards we stop on Budikovac island for a longer swim on hidden white pebble beach with turquoise sea color. On our way to the island of Hvar you will enjoy the panoramic view of the amazing archipelago of Pakleni islands – the oldest and the most famous Hvar’s resort, spacious lagoon with shallow  sandy beaches, surrounded by pine forest, \r\nfragrant heather and rosemary bushes and various exotic plants.\r\n<br /> <br />\r\nFree time for a lunch in Palmizana at Pakleni islands. \r\nOur final stop is town of Hvar, on the island Hvar,<strong> one of most beautiful harbours of the world</strong>, with beautiful nature and surroundings, as well a rich cultural heritage, with walls dating back to the 7th century, and many 15th-17th century Venetian era noble houses.\r\nExplore the town by yourself and enjoy the real Mediterranean atmosphere and local hospitality.\r\n<br /> <br />\r\nOur Blue cave and Hvar tour from Split ends with a quiet ride on the smooth sea at sunset, so you can enjoy all the beauty and all the colors of the sunset at the open sea.\r\nThere you will have more time for swimming and sunbathing on a beautiful pebble beach.\r\n<br /> <br />\r\n<strong>NOTE:</strong> Guest should have proper clothing, wind jacket, bathing suite, hat, additional clothes for change, towel, sunglasses and suncream.\r\n<br /> <br />",
+      "fileAbsolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/blue-cave/blue-cave.md"
+    },
+    "9ba6f9fa-38eb-5132-81e7-895de3c3716a": {
+      "id": "9ba6f9fa-38eb-5132-81e7-895de3c3716a",
+      "children": [],
+      "parent": "ec6f8f7b-e640-5f11-92a4-d41a5c7418eb",
+      "internal": {
+        "content": "\r\n# Brač\r\n\r\nGolden horn and Bol tour from Split starts with 1 hour cruise on the mega catamaran to island Brač, starting with Summer Blues welcome drink.\r\n<br /> <br /> \r\nDiscover the inland of island Brač during the organized 2 hour panoramic bus tour from Supetar to Bol with professional guide, including a stop on “Vidova Gora” to enjoy breathtaking views and take photos.\r\n<br /> <br /> \r\nFinaly we arrive at the famous beach Golden Horn where you’ll have 2 hours free time for swimming and sun.\r\n<br /> <br /> \r\nEarly afternoon, at 15:00, we’ll walk through the village of Bol and continue our journey on the Summer Blues catamaran. While we cruise along the south side of island Brač and admire the views of wineyards, lunch will be served and the bar with the all inclusive drinks is open till the end of the excursion.\r\n<br /> <br /> \r\nOur next highlight is the natural bay „Lučice“ where catamaran anchors for a swim stop, enjoy every second in the pure paradise. We are relaxed and ready to start the sailing tour to Split including one more swim stop in another hidden bay of island Brač.\r\n<br /> <br /> \r\nOn board more fresh fruits and delicious dailly cakes are served; the bar with drinks is still open and the dance music entertainment during the sunset\r\n<br /> <br /> ",
+        "type": "MarkdownRemark",
+        "contentDigest": "688a7a775255d7740436d4754d73e1a0",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Brac",
+        "page": "brac",
+        "slug": "brac",
+        "image": "../images/vis4x3.jpg"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\r\n# Brač\r\n\r\nGolden horn and Bol tour from Split starts with 1 hour cruise on the mega catamaran to island Brač, starting with Summer Blues welcome drink.\r\n<br /> <br /> \r\nDiscover the inland of island Brač during the organized 2 hour panoramic bus tour from Supetar to Bol with professional guide, including a stop on “Vidova Gora” to enjoy breathtaking views and take photos.\r\n<br /> <br /> \r\nFinaly we arrive at the famous beach Golden Horn where you’ll have 2 hours free time for swimming and sun.\r\n<br /> <br /> \r\nEarly afternoon, at 15:00, we’ll walk through the village of Bol and continue our journey on the Summer Blues catamaran. While we cruise along the south side of island Brač and admire the views of wineyards, lunch will be served and the bar with the all inclusive drinks is open till the end of the excursion.\r\n<br /> <br /> \r\nOur next highlight is the natural bay „Lučice“ where catamaran anchors for a swim stop, enjoy every second in the pure paradise. We are relaxed and ready to start the sailing tour to Split including one more swim stop in another hidden bay of island Brač.\r\n<br /> <br /> \r\nOn board more fresh fruits and delicious dailly cakes are served; the bar with drinks is still open and the dance music entertainment during the sunset\r\n<br /> <br /> ",
+      "fileAbsolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/brac/brac.md"
+    },
+    "da506b54-768a-51fb-8a70-9dba90eea2e0": {
+      "id": "da506b54-768a-51fb-8a70-9dba90eea2e0",
+      "children": [],
+      "parent": "01d04013-bca4-5c28-b450-2c81be30a522",
+      "internal": {
+        "content": "\r\n# Hvar\r\n\r\nFor all sea lovers, but also for those who want to see something unique, Blue cave tour from Split is perfect excursion!\r\n<br /> <br /> \r\nJump on speedboat for an early morning exciting 90 minutes ride to Biševo Island and the Blue cave visit from Split. We will arrive around 09:30h, just in time for memorable scenery when the sunlight reflects through the sea and illuminates the entire cave in aquamarine blue light. Listen the story from official local guide of how the cave was discovered and what makes the magic.\r\n<br /> <br /> \r\nAfter the cave tour, we are back on a speedboat to our next attraction which is Monk Seal cave, where the Mediterranean monk seal used to reside. Passing beside picturesque southern side of the island Vis, where full of caves, beaches and diverse forms of nature and rocks caused by changes on the sea, our next destination is Stiniva bay, voted best European beach in 2016., where we'll stop for a swim in the unique narrow bay that ends with a white pebbles beach.\r\n<br /> <br /> \r\nAfterwards we stop on Budikovac island for a longer swim on hidden white pebble beach with turquoise sea color.\r\nOn our way to the island of Hvar you will enjoy the panoramic view of the amazing archipelago of Pakleni islands – the oldest and the most famous Hvar’s resort, spacious lagoon with shallow  sandy beaches, surrounded by pine forest, fragrant heather and rosemary bushes and various exotic plants.\r\n<br /> <br /> \r\nFree time for a lunch in Palmizana at Pakleni islands. \r\n<br /> <br /> \r\nOur final stop is town of Hvar, on the island Hvar, one of most beautiful harbours of the world, with beautiful nature and surroundings, as well a rich cultural heritage, with walls dating back to the 7th century, and many 15th-17th century Venetian era noble houses.\r\nExplore the town by yourself and enjoy the real Mediterranean atmosphere and local hospitality.\r\n<br /> <br /> \r\nOur Blue cave and Hvar tour from Split ends with a quiet ride on the smooth sea at sunset, so you can enjoy all the beauty and all the colors of the sunset at the open sea.\r\n<br /> <br /> ",
+        "type": "MarkdownRemark",
+        "contentDigest": "04287fe7c04548ab315dbb1946bd176f",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Hvar",
+        "page": "hvar",
+        "slug": "hvar",
+        "image": "../images/vis4x3.jpg"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\r\n# Hvar\r\n\r\nFor all sea lovers, but also for those who want to see something unique, Blue cave tour from Split is perfect excursion!\r\n<br /> <br /> \r\nJump on speedboat for an early morning exciting 90 minutes ride to Biševo Island and the Blue cave visit from Split. We will arrive around 09:30h, just in time for memorable scenery when the sunlight reflects through the sea and illuminates the entire cave in aquamarine blue light. Listen the story from official local guide of how the cave was discovered and what makes the magic.\r\n<br /> <br /> \r\nAfter the cave tour, we are back on a speedboat to our next attraction which is Monk Seal cave, where the Mediterranean monk seal used to reside. Passing beside picturesque southern side of the island Vis, where full of caves, beaches and diverse forms of nature and rocks caused by changes on the sea, our next destination is Stiniva bay, voted best European beach in 2016., where we'll stop for a swim in the unique narrow bay that ends with a white pebbles beach.\r\n<br /> <br /> \r\nAfterwards we stop on Budikovac island for a longer swim on hidden white pebble beach with turquoise sea color.\r\nOn our way to the island of Hvar you will enjoy the panoramic view of the amazing archipelago of Pakleni islands – the oldest and the most famous Hvar’s resort, spacious lagoon with shallow  sandy beaches, surrounded by pine forest, fragrant heather and rosemary bushes and various exotic plants.\r\n<br /> <br /> \r\nFree time for a lunch in Palmizana at Pakleni islands. \r\n<br /> <br /> \r\nOur final stop is town of Hvar, on the island Hvar, one of most beautiful harbours of the world, with beautiful nature and surroundings, as well a rich cultural heritage, with walls dating back to the 7th century, and many 15th-17th century Venetian era noble houses.\r\nExplore the town by yourself and enjoy the real Mediterranean atmosphere and local hospitality.\r\n<br /> <br /> \r\nOur Blue cave and Hvar tour from Split ends with a quiet ride on the smooth sea at sunset, so you can enjoy all the beauty and all the colors of the sunset at the open sea.\r\n<br /> <br /> ",
+      "fileAbsolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/hvar/hvar.md"
+    },
+    "607974e8-8f64-5263-a194-05a115aba91c": {
+      "id": "607974e8-8f64-5263-a194-05a115aba91c",
+      "children": [],
+      "parent": "262d2119-032a-5df0-b77b-7a14c2f344f9",
+      "internal": {
+        "content": "\r\n# Sailing\r\n\r\nSet sail with us and cruise to the islands of Šolta, Brač or Čiovo on an unforgettable sailing tour. Anchor in secluded bay, discover rich underwater life while snorkeling. Visibility in the Adriatic can be clear up to 30 meters so snorkeling is a must.\r\n<br /> <br /> \r\nSwim in crystal clear Adriatic sea while our chef prepares light Dalmatian lunch with fresh ingredients. During lunch indigenous Croatian eco-wines will be served on the boat.\r\n<br /> <br /> \r\nTour departs at 10 am and return to Split is around 5 pm. There is no strict route here as sailing depends on the weather conditions but we know that islands Brac, Solta and Ciovo will reveal their pristine beauty and implant unforgettable memories.\r\n<br /> <br /> \r\nMaximum number of person on the boat is 8. Boat can also be rented for private sail.\r\n<br /> <br /> \r\nThis one day trip is the perfect choice to explore the whole area around Split.\r\n<br /> <br /> ",
+        "type": "MarkdownRemark",
+        "contentDigest": "9630887b0a2a28b4b3534078cfb9c6bc",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Sailing",
+        "page": "sailing",
+        "slug": "sailing",
+        "image": "../images/vis4x3.jpg"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\r\n# Sailing\r\n\r\nSet sail with us and cruise to the islands of Šolta, Brač or Čiovo on an unforgettable sailing tour. Anchor in secluded bay, discover rich underwater life while snorkeling. Visibility in the Adriatic can be clear up to 30 meters so snorkeling is a must.\r\n<br /> <br /> \r\nSwim in crystal clear Adriatic sea while our chef prepares light Dalmatian lunch with fresh ingredients. During lunch indigenous Croatian eco-wines will be served on the boat.\r\n<br /> <br /> \r\nTour departs at 10 am and return to Split is around 5 pm. There is no strict route here as sailing depends on the weather conditions but we know that islands Brac, Solta and Ciovo will reveal their pristine beauty and implant unforgettable memories.\r\n<br /> <br /> \r\nMaximum number of person on the boat is 8. Boat can also be rented for private sail.\r\n<br /> <br /> \r\nThis one day trip is the perfect choice to explore the whole area around Split.\r\n<br /> <br /> ",
+      "fileAbsolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/sailing/sailing.md"
+    },
+    "9412cf94-f3f4-555d-8040-0c06536d74eb": {
+      "id": "9412cf94-f3f4-555d-8040-0c06536d74eb",
+      "children": [],
+      "parent": "00a1791f-862d-5502-ab0c-9b7244903778",
+      "internal": {
+        "content": "\r\n# Dubrovnik\r\n\r\nExcursion starts at the pre-arranged meeting point, where you will begin a full day of experiencing and discovering  famous walls of Dubrovnik, a UNESCO World Heritage site.\r\n<br /> <br /> \r\nDrive in air-conditioned van goes along the winding coast and stops at several overlooks for amazing panoramic views of the Dalmatian islands.\r\n<br /> <br /> \r\nArrival to Dubrovnik (Croatia's most famous medieval city and also the “pearl of the Adriatic”) is around noon.\r\n<br /> <br /> \r\nThe tour begins at the monumental Pile Gate, built on the top of Stradun, a splendid main promenade street of the Old Town. You will get to sightsee Franciscan Monastery (its cloister is one of the most impressive sites in the city!) then stop by the oldest pharmacy in Europe opened in 1317. Nearby stands Sponza Palace, notable for its portico with columns and elaborate stone carvings which today houses the State Archives.\r\n<br /> <br /> \r\nTour ends with a visit to the Cathedral where you will learn more how it was built on the ruins of a 12th century church, then destroyed by the great earthquake of 1667. The guided tour lasts for about an hour and a half and after sightseeing the most important parts of the Old Town, there's time to go back and explore its hidden corners by yourself. You can climb the stairs to the walls that let you walk around the Old Town from high up on its ramparts or even take a cable car for a amazing view of the famous red tile roofs and the sea.\r\n<br /> <br /> \r\nDubrovnik leaves nobody unimpressed!\r\n<br /> <br /> \r\n<strong>Bring passport!</strong>\r\n<br /> <br /> ",
+        "type": "MarkdownRemark",
+        "contentDigest": "e46678d59a6a90b63f46abcdbb15d8f7",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Dubrovnik",
+        "page": "dubrovnik",
+        "slug": "dubrovnik",
+        "image": "../images/vis4x3.jpg"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\r\n# Dubrovnik\r\n\r\nExcursion starts at the pre-arranged meeting point, where you will begin a full day of experiencing and discovering  famous walls of Dubrovnik, a UNESCO World Heritage site.\r\n<br /> <br /> \r\nDrive in air-conditioned van goes along the winding coast and stops at several overlooks for amazing panoramic views of the Dalmatian islands.\r\n<br /> <br /> \r\nArrival to Dubrovnik (Croatia's most famous medieval city and also the “pearl of the Adriatic”) is around noon.\r\n<br /> <br /> \r\nThe tour begins at the monumental Pile Gate, built on the top of Stradun, a splendid main promenade street of the Old Town. You will get to sightsee Franciscan Monastery (its cloister is one of the most impressive sites in the city!) then stop by the oldest pharmacy in Europe opened in 1317. Nearby stands Sponza Palace, notable for its portico with columns and elaborate stone carvings which today houses the State Archives.\r\n<br /> <br /> \r\nTour ends with a visit to the Cathedral where you will learn more how it was built on the ruins of a 12th century church, then destroyed by the great earthquake of 1667. The guided tour lasts for about an hour and a half and after sightseeing the most important parts of the Old Town, there's time to go back and explore its hidden corners by yourself. You can climb the stairs to the walls that let you walk around the Old Town from high up on its ramparts or even take a cable car for a amazing view of the famous red tile roofs and the sea.\r\n<br /> <br /> \r\nDubrovnik leaves nobody unimpressed!\r\n<br /> <br /> \r\n<strong>Bring passport!</strong>\r\n<br /> <br /> ",
+      "fileAbsolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/dubrovnik/dubrovnik.md"
+    },
+    "7e29fb4c-b7ef-5c9e-b0d4-245240be97f4": {
+      "id": "7e29fb4c-b7ef-5c9e-b0d4-245240be97f4",
+      "children": [],
+      "parent": "b7ca4aab-f224-5e23-8b27-b99788fc8073",
+      "internal": {
+        "content": "\r\n# Plitvice lakes\r\n\r\nImmerse yourself in exceptional natural beauty, in a place so magical you can't even believe it exists. A magical mix of waterfalls and lakes, all set against a lush green backdrop, this national park is a must. \r\n<br /> <br /> \r\nIn about three and a half hours drive we arrive to Plitvice National Park, the largest, the oldest and most famous national park in Croatia, which was declared as UNESCO world heritage in 1979. (among the first in the world). Plitvice Lakes National Park is a special geological and hydrogeological phenomenon with natural and rich biodiversity. The oldest national park in Croatia represents a forested mountain area and a series of 16 crystal blue lakes. Lakes receive water from numerous rivers and streams, and they are connected by cascades and waterfalls. Travertine barriers, which were made in the period of ten thousand years ago are one of the fundamental features of the park. Vast forests, extraordinary beauty of lakes and waterfalls, flora and fauna, contrasting autumn colors, trails and wooden bridges form a remarkable and unforgettable beauty.\r\n<br /> <br /> \r\nUpon arriving at Plitvice you will walk through woodland. The path takes you across Upper Lakes and then it is time for boat ride within the sound of the waterfalls to Lower Lakes. Get ready to walk across the lake on charming wooden paths, as well as an unforgettable thunder produced by Great Falls, 78 meters high waterfall. Tour ends with a panoramic train ride through the forest, but after that there is a plenty of time for lunch at local tavern or for a picnic in the shade, next to the magnificent lake.\r\n<br /> <br /> \r\n<strong>NOTE:</strong> Guests should have proper clothing; sportswear, closed comfortable shoes. Out of season don’t forget warm sweater, umbrella or raincoat.\r\n<br /> <br /> ",
+        "type": "MarkdownRemark",
+        "contentDigest": "32319e6da27b266ffbc90a92cc5b92b7",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Plitvice",
+        "page": "plitvice",
+        "slug": "plitvice",
+        "image": "../images/vis4x3.jpg"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\r\n# Plitvice lakes\r\n\r\nImmerse yourself in exceptional natural beauty, in a place so magical you can't even believe it exists. A magical mix of waterfalls and lakes, all set against a lush green backdrop, this national park is a must. \r\n<br /> <br /> \r\nIn about three and a half hours drive we arrive to Plitvice National Park, the largest, the oldest and most famous national park in Croatia, which was declared as UNESCO world heritage in 1979. (among the first in the world). Plitvice Lakes National Park is a special geological and hydrogeological phenomenon with natural and rich biodiversity. The oldest national park in Croatia represents a forested mountain area and a series of 16 crystal blue lakes. Lakes receive water from numerous rivers and streams, and they are connected by cascades and waterfalls. Travertine barriers, which were made in the period of ten thousand years ago are one of the fundamental features of the park. Vast forests, extraordinary beauty of lakes and waterfalls, flora and fauna, contrasting autumn colors, trails and wooden bridges form a remarkable and unforgettable beauty.\r\n<br /> <br /> \r\nUpon arriving at Plitvice you will walk through woodland. The path takes you across Upper Lakes and then it is time for boat ride within the sound of the waterfalls to Lower Lakes. Get ready to walk across the lake on charming wooden paths, as well as an unforgettable thunder produced by Great Falls, 78 meters high waterfall. Tour ends with a panoramic train ride through the forest, but after that there is a plenty of time for lunch at local tavern or for a picnic in the shade, next to the magnificent lake.\r\n<br /> <br /> \r\n<strong>NOTE:</strong> Guests should have proper clothing; sportswear, closed comfortable shoes. Out of season don’t forget warm sweater, umbrella or raincoat.\r\n<br /> <br /> ",
+      "fileAbsolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/plitvice/plitvice.md"
+    },
+    "31f55316-0de8-541c-8988-d8433d9060c1": {
+      "id": "31f55316-0de8-541c-8988-d8433d9060c1",
+      "children": [],
+      "parent": "6453ab78-086b-5432-aab2-31c57abf17a8",
+      "internal": {
+        "content": "\r\n# Vis\r\n\r\nFor all sea lovers, but also for those who want to see something unique, Blue cave tour from Split is perfect excursion!\r\n<br /> <br /> \r\nJump on speedboat for an early morning exciting 90 minutes ride to Biševo Island and the Blue cave visit from Split. We will arrive around 09:30h, just in time for memorable scenery when the sunlight reflects through the sea and illuminates the entire cave in aquamarine blue light. Listen the story from official local guide of how the cave was discovered and what makes the magic.\r\n<br /> <br /> \r\nAfter the cave tour, we are back on a speedboat to our next attraction which is Monk Seal cave, where the Mediterranean monk seal used to reside. Passing beside picturesque southern side of the island Vis, where full of caves, beaches and diverse forms of nature and rocks caused by changes on the sea, our next destination is Stiniva bay, voted best European beach in 2016., where we'll stop for a swim in the unique narrow bay that ends with a white pebbles beach.\r\n<br /> <br /> \r\nAfterwards we stop on Budikovac island for a longer swim on hidden white pebble beach with turquoise sea color.\r\nOn our way to the island of Hvar you will enjoy the panoramic view of the amazing archipelago of Pakleni islands – the oldest and the most famous Hvar’s resort, spacious lagoon with shallow  sandy beaches, surrounded by pine forest, fragrant heather and rosemary bushes and various exotic plants.\r\n<br /> <br /> \r\nFree time for a lunch in Palmizana at Pakleni islands. \r\n<br /> <br /> \r\nOur final stop is town of Hvar, on the island Hvar, one of most beautiful harbours of the world, with beautiful nature and surroundings, as well a rich cultural heritage, with walls dating back to the 7th century, and many 15th-17th century Venetian era noble houses.\r\nExplore the town by yourself and enjoy the real Mediterranean atmosphere and local hospitality.\r\n<br /> <br /> \r\nOur Blue cave and Hvar tour from Split ends with a quiet ride on the smooth sea at sunset, so you can enjoy all the beauty and all the colors of the sunset at the open sea.\r\n<br /> <br /> ",
+        "type": "MarkdownRemark",
+        "contentDigest": "00eeb2977ec06885a073893744c709f4",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Vis",
+        "page": "vis",
+        "slug": "vis",
+        "image": "../images/vis4x3.jpg"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\r\n# Vis\r\n\r\nFor all sea lovers, but also for those who want to see something unique, Blue cave tour from Split is perfect excursion!\r\n<br /> <br /> \r\nJump on speedboat for an early morning exciting 90 minutes ride to Biševo Island and the Blue cave visit from Split. We will arrive around 09:30h, just in time for memorable scenery when the sunlight reflects through the sea and illuminates the entire cave in aquamarine blue light. Listen the story from official local guide of how the cave was discovered and what makes the magic.\r\n<br /> <br /> \r\nAfter the cave tour, we are back on a speedboat to our next attraction which is Monk Seal cave, where the Mediterranean monk seal used to reside. Passing beside picturesque southern side of the island Vis, where full of caves, beaches and diverse forms of nature and rocks caused by changes on the sea, our next destination is Stiniva bay, voted best European beach in 2016., where we'll stop for a swim in the unique narrow bay that ends with a white pebbles beach.\r\n<br /> <br /> \r\nAfterwards we stop on Budikovac island for a longer swim on hidden white pebble beach with turquoise sea color.\r\nOn our way to the island of Hvar you will enjoy the panoramic view of the amazing archipelago of Pakleni islands – the oldest and the most famous Hvar’s resort, spacious lagoon with shallow  sandy beaches, surrounded by pine forest, fragrant heather and rosemary bushes and various exotic plants.\r\n<br /> <br /> \r\nFree time for a lunch in Palmizana at Pakleni islands. \r\n<br /> <br /> \r\nOur final stop is town of Hvar, on the island Hvar, one of most beautiful harbours of the world, with beautiful nature and surroundings, as well a rich cultural heritage, with walls dating back to the 7th century, and many 15th-17th century Venetian era noble houses.\r\nExplore the town by yourself and enjoy the real Mediterranean atmosphere and local hospitality.\r\n<br /> <br /> \r\nOur Blue cave and Hvar tour from Split ends with a quiet ride on the smooth sea at sunset, so you can enjoy all the beauty and all the colors of the sunset at the open sea.\r\n<br /> <br /> ",
+      "fileAbsolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/vis/vis.md"
+    },
+    "39e1144d-1e32-5e54-bbb2-e61bc2cf6539": {
+      "id": "39e1144d-1e32-5e54-bbb2-e61bc2cf6539",
+      "children": [],
+      "parent": "49fea3e2-292c-5f89-877e-2a1de7b27c95",
+      "internal": {
+        "content": "\r\n# Omiš\r\n\r\nYour relaxed day out of Split starts at your hotel or arranged meeting point.\r\n<br /> <br /> \r\nComfortably ensconced in car or minivan, with English speaking driver-guide we will arrive to Omiš. This small beautiful town famous for pirates of Omiš whose ships were a centuries-long symbol of retaliation, courage and strength, has become a modern tourist settlement.\r\n<br /> <br />\r\nWith your tour guide in Omiš you will find the Roman statues, famous pirate fortress, sand beaches and canyons of extraordinary beauty.\r\n<br /> <br />\r\nAfter a pleasant walk throught the ancient history and interesting sites of Omiš, guide will take you on a riverboat tour to the famous picnic resort Radmanove Mlinice. This place of freshnes and natural beauty will allow you to relax in traditional cuisine, sports facilities and river beaches which allow you to refresh in Cetina river. Upon your arrival the traditional lunch will wait for you. You can choose the fresh Grilled Trout from the Cetina river or traditional lunch \"Peka\".\r\n<br /> <br />\r\nAfter lunch you can spend your free time on the playground, swimming in the Cetina river or just relaxing walk in the nature.\r\n<br /> <br />\r\nAfterwards your tour guide will take you on a river boat ride back to Omiš from where we start our trip back to Split.\r\n<br /> <br />\r\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "13fd37f2e58a7b18e0e86624a17a4992",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Omis",
+        "page": "omis",
+        "slug": "omis",
+        "image": "../images/vis4x3.jpg"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\r\n# Omiš\r\n\r\nYour relaxed day out of Split starts at your hotel or arranged meeting point.\r\n<br /> <br /> \r\nComfortably ensconced in car or minivan, with English speaking driver-guide we will arrive to Omiš. This small beautiful town famous for pirates of Omiš whose ships were a centuries-long symbol of retaliation, courage and strength, has become a modern tourist settlement.\r\n<br /> <br />\r\nWith your tour guide in Omiš you will find the Roman statues, famous pirate fortress, sand beaches and canyons of extraordinary beauty.\r\n<br /> <br />\r\nAfter a pleasant walk throught the ancient history and interesting sites of Omiš, guide will take you on a riverboat tour to the famous picnic resort Radmanove Mlinice. This place of freshnes and natural beauty will allow you to relax in traditional cuisine, sports facilities and river beaches which allow you to refresh in Cetina river. Upon your arrival the traditional lunch will wait for you. You can choose the fresh Grilled Trout from the Cetina river or traditional lunch \"Peka\".\r\n<br /> <br />\r\nAfter lunch you can spend your free time on the playground, swimming in the Cetina river or just relaxing walk in the nature.\r\n<br /> <br />\r\nAfterwards your tour guide will take you on a river boat ride back to Omiš from where we start our trip back to Split.\r\n<br /> <br />\r\n",
+      "fileAbsolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/omis/omis.md"
+    },
+    "8a7c6994-fb5f-52ab-8c4c-434f063bc6d6": {
+      "id": "8a7c6994-fb5f-52ab-8c4c-434f063bc6d6",
+      "children": [],
+      "parent": "fd9c24f9-8f86-5963-b2aa-5ccc158a1dd4",
+      "internal": {
+        "content": "\r\n# KLIS & SALONA\r\n\r\nKLIS fortress is famous for its supreme position and the historical role it played. It was built overlooking the mountain pass between surrounding Mosor and Kozjak mountains, protecting the coastal area with Ilyrian, Roman and Slavic inhabitants from inland invaders (barbarians and Ottomans) for centuries.\r\n<br /> <br /> \r\nOnce upon a time it was the seat of Croatian kings, Venetians and Austrians. During WWII the fortress was last used for military purposes; it was a stronghold of Italian and German occupation forces. It gained world fame as a city of Meeren in popular Game of Thrones series. Its magnificent walls and passages offer an abundance of history and probably the most spectacular view of Split, mountains and islands you can witness! The excavations started at the beginning of last century, still undergoing, and as it looks now, it will be a never-ending story. Literally, wherever you start digging, something is found!\r\n<br /> <br />\r\nSALONA is a very special archaeological site, due to its very unusual destiny. Namely, the biggest Roman city of the whole area, with around 60.000 inhabitants at the highest of its power, massive stone walls, forum with great temples, amphitheater, theater, early christian basilicas, sophisticated sewage and street systems were completely devastated in Avar and Slavic raid in the early 7th century. As opposed to numerous sites hit by similar destiny, Salona never got inhabited afterwards, thus for centuries covered under soil, debris and grass.\r\n<br /> <br />\r\nSo join us on this amazing trip through history and experience the life of our ancestors!",
+        "type": "MarkdownRemark",
+        "contentDigest": "49c54a3620816c15d886fa7dd26d7b19",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Klis",
+        "page": "klis",
+        "slug": "klis",
+        "image": "../images/vis4x3.jpg"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\r\n# KLIS & SALONA\r\n\r\nKLIS fortress is famous for its supreme position and the historical role it played. It was built overlooking the mountain pass between surrounding Mosor and Kozjak mountains, protecting the coastal area with Ilyrian, Roman and Slavic inhabitants from inland invaders (barbarians and Ottomans) for centuries.\r\n<br /> <br /> \r\nOnce upon a time it was the seat of Croatian kings, Venetians and Austrians. During WWII the fortress was last used for military purposes; it was a stronghold of Italian and German occupation forces. It gained world fame as a city of Meeren in popular Game of Thrones series. Its magnificent walls and passages offer an abundance of history and probably the most spectacular view of Split, mountains and islands you can witness! The excavations started at the beginning of last century, still undergoing, and as it looks now, it will be a never-ending story. Literally, wherever you start digging, something is found!\r\n<br /> <br />\r\nSALONA is a very special archaeological site, due to its very unusual destiny. Namely, the biggest Roman city of the whole area, with around 60.000 inhabitants at the highest of its power, massive stone walls, forum with great temples, amphitheater, theater, early christian basilicas, sophisticated sewage and street systems were completely devastated in Avar and Slavic raid in the early 7th century. As opposed to numerous sites hit by similar destiny, Salona never got inhabited afterwards, thus for centuries covered under soil, debris and grass.\r\n<br /> <br />\r\nSo join us on this amazing trip through history and experience the life of our ancestors!",
+      "fileAbsolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/klis/klis.md"
+    },
+    "d4eadccc-47e9-58a5-99b1-017208d28c7a": {
+      "id": "d4eadccc-47e9-58a5-99b1-017208d28c7a",
+      "children": [],
+      "parent": "f5cff41f-de67-59da-90c1-282dbb8ac90d",
+      "internal": {
+        "content": "\r\n# Zip line Omiš\r\n\r\nZipline is an adrenaline entertainment where guests descend through the canyon down the steel wire rope, secured with a belt. Adventure also includes training and a short walk in nature.\r\n<br /> <br /> \r\nZipline is located 3 km from Omis, in the canyon of the Cetina River and consists of eight wires total length of 2100m . Depending on the size of the group, zipline gives you up to 3 hours of unforgettable fun and beautiful nature .\r\n<br /> <br /> \r\nWe organized the transfer to the start and back (3 km from Omis) by our vehicle. Before the beginning, the group goes to the training ground and each guest receives equipment . There are two short wires, length 25m , where guides show you how to brake and act on cable. The next thing is a short walk to the first wire. During the walk, you can enjoy the beautiful, almost untouched nature and stunning views of the Cetina river canyon. Before each wire, one of the guides demonstrate descend, while the second guide attaches you and gives you instructions. First guide welcomes you at the beginning of the second wire. That is the system to pass all eight wires.\r\n<br /> <br /> \r\nThe finish point of a zipline tour is located 50m from the road, and there is our van waiting to take you back to Split.",
+        "type": "MarkdownRemark",
+        "contentDigest": "2b15a27e943754f297dc67127819280c",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Zip line",
+        "page": "zip",
+        "slug": "zip",
+        "image": "../images/vis4x3.jpg"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\r\n# Zip line Omiš\r\n\r\nZipline is an adrenaline entertainment where guests descend through the canyon down the steel wire rope, secured with a belt. Adventure also includes training and a short walk in nature.\r\n<br /> <br /> \r\nZipline is located 3 km from Omis, in the canyon of the Cetina River and consists of eight wires total length of 2100m . Depending on the size of the group, zipline gives you up to 3 hours of unforgettable fun and beautiful nature .\r\n<br /> <br /> \r\nWe organized the transfer to the start and back (3 km from Omis) by our vehicle. Before the beginning, the group goes to the training ground and each guest receives equipment . There are two short wires, length 25m , where guides show you how to brake and act on cable. The next thing is a short walk to the first wire. During the walk, you can enjoy the beautiful, almost untouched nature and stunning views of the Cetina river canyon. Before each wire, one of the guides demonstrate descend, while the second guide attaches you and gives you instructions. First guide welcomes you at the beginning of the second wire. That is the system to pass all eight wires.\r\n<br /> <br /> \r\nThe finish point of a zipline tour is located 50m from the road, and there is our van waiting to take you back to Split.",
+      "fileAbsolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/zip/zip.md"
+    },
     "SitePage /blog/why-you-should-see-the-dalmatian-coast": {
       "jsonName": "blog-why-you-should-see-the-dalmatian-coast-8a5",
       "internalComponentName": "ComponentBlogWhyYouShouldSeeTheDalmatianCoast",
@@ -6403,6 +6492,204 @@
         "owner": "internal-data-bridge"
       }
     },
+    "SitePage /blog/blue-lagoon": {
+      "jsonName": "blog-blue-lagoon-b3b",
+      "internalComponentName": "ComponentBlogBlueLagoon",
+      "path": "/blog/blue-lagoon",
+      "component": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "blue-lagoon"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
+      "id": "SitePage /blog/blue-lagoon",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "be4ec1ddec41b18becf47ad084570b0f",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/blue-cave": {
+      "jsonName": "blog-blue-cave-3be",
+      "internalComponentName": "ComponentBlogBlueCave",
+      "path": "/blog/blue-cave",
+      "component": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "blue-cave"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
+      "id": "SitePage /blog/blue-cave",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c097d1e1351e490add32d6c9de820561",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/brac": {
+      "jsonName": "blog-brac-d58",
+      "internalComponentName": "ComponentBlogBrac",
+      "path": "/blog/brac",
+      "component": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "brac"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
+      "id": "SitePage /blog/brac",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "4381272f12f66bedab5b036747281f4c",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/hvar": {
+      "jsonName": "blog-hvar-2d1",
+      "internalComponentName": "ComponentBlogHvar",
+      "path": "/blog/hvar",
+      "component": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "hvar"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
+      "id": "SitePage /blog/hvar",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "bc94d2d6ca8f852eaa66056778481cc9",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/mostar": {
+      "jsonName": "blog-mostar-eca",
+      "internalComponentName": "ComponentBlogMostar",
+      "path": "/blog/mostar",
+      "component": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "mostar"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
+      "id": "SitePage /blog/mostar",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ac79b6ec0f7356799619d03118046c27",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/sailing": {
+      "jsonName": "blog-sailing-544",
+      "internalComponentName": "ComponentBlogSailing",
+      "path": "/blog/sailing",
+      "component": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "sailing"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
+      "id": "SitePage /blog/sailing",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "fb8610586e81f1657f62b03d3f918293",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/dubrovnik": {
+      "jsonName": "blog-dubrovnik-9a5",
+      "internalComponentName": "ComponentBlogDubrovnik",
+      "path": "/blog/dubrovnik",
+      "component": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "dubrovnik"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
+      "id": "SitePage /blog/dubrovnik",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "5bb113ea78b1e397a0d2901ed57142ef",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/plitvice": {
+      "jsonName": "blog-plitvice-dcf",
+      "internalComponentName": "ComponentBlogPlitvice",
+      "path": "/blog/plitvice",
+      "component": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "plitvice"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
+      "id": "SitePage /blog/plitvice",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "cfc935e7cb9d288272b4bd5b97a64afd",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/vis": {
+      "jsonName": "blog-vis-1ab",
+      "internalComponentName": "ComponentBlogVis",
+      "path": "/blog/vis",
+      "component": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "vis"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
+      "id": "SitePage /blog/vis",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "a4505efb8a993c92d4e02d367bdcb952",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
     "SitePage /blog/omis": {
       "jsonName": "blog-omis-f17",
       "internalComponentName": "ComponentBlogOmis",
@@ -6447,28 +6734,6 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /blog/blue-cave": {
-      "jsonName": "blog-blue-cave-3be",
-      "internalComponentName": "ComponentBlogBlueCave",
-      "path": "/blog/blue-cave",
-      "component": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "slug": "blue-cave"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
-      "id": "SitePage /blog/blue-cave",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "c097d1e1351e490add32d6c9de820561",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
     "SitePage /blog/zip": {
       "jsonName": "blog-zip-ca9",
       "internalComponentName": "ComponentBlogZip",
@@ -6487,182 +6752,6 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "57eb68b8b1b56fbacab52df351acb602",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /blog/plitvice": {
-      "jsonName": "blog-plitvice-dcf",
-      "internalComponentName": "ComponentBlogPlitvice",
-      "path": "/blog/plitvice",
-      "component": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "slug": "plitvice"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
-      "id": "SitePage /blog/plitvice",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "cfc935e7cb9d288272b4bd5b97a64afd",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /blog/dubrovnik": {
-      "jsonName": "blog-dubrovnik-9a5",
-      "internalComponentName": "ComponentBlogDubrovnik",
-      "path": "/blog/dubrovnik",
-      "component": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "slug": "dubrovnik"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
-      "id": "SitePage /blog/dubrovnik",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "5bb113ea78b1e397a0d2901ed57142ef",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /blog/mostar": {
-      "jsonName": "blog-mostar-eca",
-      "internalComponentName": "ComponentBlogMostar",
-      "path": "/blog/mostar",
-      "component": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "slug": "mostar"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
-      "id": "SitePage /blog/mostar",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "ac79b6ec0f7356799619d03118046c27",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /blog/blue-lagoon": {
-      "jsonName": "blog-blue-lagoon-b3b",
-      "internalComponentName": "ComponentBlogBlueLagoon",
-      "path": "/blog/blue-lagoon",
-      "component": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "slug": "blue-lagoon"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
-      "id": "SitePage /blog/blue-lagoon",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "be4ec1ddec41b18becf47ad084570b0f",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /blog/hvar": {
-      "jsonName": "blog-hvar-2d1",
-      "internalComponentName": "ComponentBlogHvar",
-      "path": "/blog/hvar",
-      "component": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "slug": "hvar"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
-      "id": "SitePage /blog/hvar",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "bc94d2d6ca8f852eaa66056778481cc9",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /blog/vis": {
-      "jsonName": "blog-vis-1ab",
-      "internalComponentName": "ComponentBlogVis",
-      "path": "/blog/vis",
-      "component": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "slug": "vis"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
-      "id": "SitePage /blog/vis",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "a4505efb8a993c92d4e02d367bdcb952",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /blog/sailing": {
-      "jsonName": "blog-sailing-544",
-      "internalComponentName": "ComponentBlogSailing",
-      "path": "/blog/sailing",
-      "component": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "slug": "sailing"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
-      "id": "SitePage /blog/sailing",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "fb8610586e81f1657f62b03d3f918293",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /blog/brac": {
-      "jsonName": "blog-brac-d58",
-      "internalComponentName": "ComponentBlogBrac",
-      "path": "/blog/brac",
-      "component": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "slug": "brac"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/templates/blog-post.js",
-      "id": "SitePage /blog/brac",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "4381272f12f66bedab5b036747281f4c",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -7127,6 +7216,26 @@
         "description": "ac7ebd2b-22cb-5ed1-81a3-ea896a28cb61",
         "owner": "internal-data-bridge"
       }
+    },
+    "f0ae55bd-44c8-5ebb-b33f-1903ee45eb8d": {
+      "id": "f0ae55bd-44c8-5ebb-b33f-1903ee45eb8d",
+      "children": [],
+      "parent": "8795da5a-3aa0-598f-a626-0267f648e762",
+      "internal": {
+        "content": "\r\n# Mostar\r\n\r\nThe journey starts with driving between the Dalmatian coast and hinterland.\r\n<br /> <br /> \r\nOur first destination is Mostar (ancient Ottoman city known as ˈthe window to the Orient'), where you will get to explore the Old Bazaar, full of picturesque shops and crafts workshops, then sightsee the Mosque.\r\n<br /> <br /> \r\nAfterwards, you will enjoy a walk along the famous 16th century Turkish bridge. After guided tour you’ll have enough free time for shopping unique souvenirs and opportunity to taste authentic Bosnian specialties like ćevapi, pita or burek.\r\n<br /> <br /> \r\nLast stop is amazing Kravica Waterfall to cool-off before we return to Split.\r\n<br /> <br /> \r\n<strong>Bring passport!</strong>\r\n<br /> <br /> ",
+        "type": "MarkdownRemark",
+        "contentDigest": "42ce381b51521bdf97e5f17c317ab611",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Mostar",
+        "page": "mostar",
+        "slug": "mostar",
+        "image": "../images/vis4x3.jpg"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\r\n# Mostar\r\n\r\nThe journey starts with driving between the Dalmatian coast and hinterland.\r\n<br /> <br /> \r\nOur first destination is Mostar (ancient Ottoman city known as ˈthe window to the Orient'), where you will get to explore the Old Bazaar, full of picturesque shops and crafts workshops, then sightsee the Mosque.\r\n<br /> <br /> \r\nAfterwards, you will enjoy a walk along the famous 16th century Turkish bridge. After guided tour you’ll have enough free time for shopping unique souvenirs and opportunity to taste authentic Bosnian specialties like ćevapi, pita or burek.\r\n<br /> <br /> \r\nLast stop is amazing Kravica Waterfall to cool-off before we return to Split.\r\n<br /> <br /> \r\n<strong>Bring passport!</strong>\r\n<br /> <br /> ",
+      "fileAbsolutePath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/content/pages/mostar/mostar.md"
     }
   },
   "status": {
@@ -7140,20 +7249,16 @@
         "/blog/blue-cave"
       ],
       "92581363-3063-568d-87f8-5c55d4c4ea40": [
-        "/proba/",
-        "/search/"
+        "/proba/"
       ],
       "8e009ef5-d9f1-5dc5-b452-cc8d86e97704": [
-        "/proba/",
-        "/search/"
+        "/proba/"
       ],
       "411a117b-e315-5202-af32-6d7adbf4755f": [
-        "/proba/",
-        "/search/"
+        "/proba/"
       ],
       "28f47bce-7938-57aa-b8d2-532cd7934c1b": [
-        "/proba/",
-        "/search/"
+        "/proba/"
       ],
       "d4eadccc-47e9-58a5-99b1-017208d28c7a": [
         "/zip/",
@@ -7226,6 +7331,14 @@
       "607974e8-8f64-5263-a194-05a115aba91c": [
         "/blog/sailing",
         "/sailing/"
+      ],
+      "cb67ccec-55a3-55ef-9bab-c5410d835b53": [
+        "/search/",
+        "/"
+      ],
+      "5f4d3bd4-ab21-52c6-bcfb-6ddba26368ad": [
+        "/search/",
+        "/"
       ]
     },
     "connections": {
@@ -7263,26 +7376,26 @@
     "zip-a67": "109/path---zip-a-67-85b-VuTYyMDq7HLpzGLKyHfi2JTQKm4",
     "blog-null-65f": "387/path---blog-null-65-f-ce2-473qBx44pctuFz18k2Yp2fSZhM",
     "proba-d13": "83/path---proba-d-13-a0a-cKseVzcxk8nnIs02RqI135ylA",
-    "search-a73": "454/path---search-a-73-83d-ePK9WIvpELJMM2sDmlGbRLuySKU",
-    "blog-zip-ca9": "772/path---blog-zip-ca-9-e36-WAjrOqByBG7t7ItRx8qgHyZyahk",
-    "blog-blue-cave-3be": "744/path---blog-blue-cave-3-be-f20-AYo4N90ht0VXKt7BrBxWvswKEA",
+    "search-a73": "227/path---search-a-73-83d-ArqeWexy5SyM021SJpMtnM1s",
+    "blog-zip-ca9": "18/path---blog-zip-ca-9-e36-9hesKDz3PYFUgE5aUcOVycprLw",
+    "blog-blue-cave-3be": "874/path---blog-blue-cave-3-be-f20-faRjLqIR1dYHmPsvsoc68LHuw",
     "log-in-ad0": "573/path---log-in-ad-0-a37-d84JprtpPS8If3tQ1mti7CNVOI0",
     "sign-up-684": "939/path---sign-up-684-533-NZuapzHg3X9TaN1iIixfv1W23E",
-    "blog-omis-f17": "186/path---blog-omis-f-17-131-kWrfYvEMY7tg7V9vLEjqaWTRsA",
+    "blog-omis-f17": "944/path---blog-omis-f-17-131-j4uT3qhmdhWs9fxX8Ax1LNmWkPs",
     "klis-714": "342/path---klis-714-110-RYTCIdImIySfVNQHsXbLUANi0wA",
     "omis-064": "606/path---omis-064-397-K4Z1SGAwuvzhv84FmHk0C5dQPYk",
     "blog-klis-d7c": "625/path---blog-klis-d-7-c-759-cGEvsV9WExPgMosyYka86PKzv1k",
-    "blog-plitvice-dcf": "401/path---blog-plitvice-dcf-ce4-rD3tl91uC6MH9tyifY10CDQM",
+    "blog-plitvice-dcf": "717/path---blog-plitvice-dcf-ce4-fZNPm4aa6XBnUbJ1xhpn8MOc",
     "mostar-9c3": "750/path---mostar-9-c-3-62b-dLa0sqBONY1YVGfEaGtyIcRr8",
     "dubrovnik-6bf": "413/path---dubrovnik-6-bf-960-7fI0ljDeB7MSyF9WtxbA3J8rGGE",
-    "blog-dubrovnik-9a5": "893/path---blog-dubrovnik-9-a-5-f80-R7sWAKfkKtprihfmOQGmZO0kXko",
-    "blog-mostar-eca": "440/path---blog-mostar-eca-9c9-v9pHnSyvcMUSqLLOWyXrC76vQI0",
-    "blog-blue-lagoon-b3b": "50/path---blog-blue-lagoon-b-3-b-64f-H5ejjNNUDNt9N7fOAsxTvsuU5JM",
-    "blog-brac-d58": "506/path---blog-brac-d-58-312-Xi1tuZO0PGEighI6RkXIr2e62FI",
-    "blog-hvar-2d1": "637/path---blog-hvar-2-d-1-be4-FYOjEMXVMOXY5y2LJRnl27hRKw4",
+    "blog-dubrovnik-9a5": "528/path---blog-dubrovnik-9-a-5-f80-UA6OvAEmfi01KHTsU8kaXQMPpkA",
+    "blog-mostar-eca": "162/path---blog-mostar-eca-9c9-AkRNL2JGqO3mAbQKXvGzJ5YADt0",
+    "blog-blue-lagoon-b3b": "273/path---blog-blue-lagoon-b-3-b-64f-3yybFvH8YJw25ZHuDpAl9PsGWX8",
+    "blog-brac-d58": "581/path---blog-brac-d-58-312-HIzXRmW9rfhTvFJFJ3vuEAgKGrI",
+    "blog-hvar-2d1": "486/path---blog-hvar-2-d-1-be4-F3ToaRllxZMr7OFxTBgQXxTH48E",
     "blog-sailing-f72": "771/path---blog-sailing-f-72-49d-xGo7YRNJMxSLSHjdfT3qRAyVBzA",
-    "blog-vis-1ab": "258/path---blog-vis-1-ab-4ce-oS3vJVlaW1pvUZdNitZIzAyGk4",
-    "blog-sailing-544": "898/path---blog-sailing-544-c7d-fn4TRZF2O00bigSlIOao77TKc",
+    "blog-vis-1ab": "545/path---blog-vis-1-ab-4ce-p9Vce68lCmFeUAWuq25PWiKzhU",
+    "blog-sailing-544": "806/path---blog-sailing-544-c7d-MNP5hDWKYbL5r3VJqnp4vWZgB0",
     "blue-lagoon-ef4": "725/path---blue-lagoon-ef-4-7ef-kc1kNwQHrkZpo0pfEMS4EKg5Ng",
     "brac-d73": "997/path---brac-d-73-feb-kobeCG65fsYYcj0SlTvmAFyirw",
     "hvar-165": "447/path---hvar-165-7b3-slqgcWIL4Wq3iEjVFfssJkgcc8",
@@ -7340,7 +7453,7 @@
       "componentPath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/pages/rafting.js"
     },
     "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/pages/search.js": {
-      "query": "query cMyDocumentsHciTravelAgencyCreatingBlogSplittripSrcPagesSearchJs1523609304 {\n  posts: allMarkdownRemark(filter: {fileAbsolutePath: {regex: \"/pages/\"}}, sort: {fields: [frontmatter___title], order: ASC}) {\n    markdowns: edges {\n      markdown: node {\n        id\n        excerpt(pruneLength: 600)\n        frontmatter {\n          title\n          slug\n          image {\n            childImageSharp {\n              fluid(maxWidth: 350, maxHeight: 260, cropFocus: NORTH) {\n                src\n              }\n            }\n          }\n        }\n      }\n    }\n  }\n}\n",
+      "query": "query cMyDocumentsHciTravelAgencyCreatingBlogSplittripSrcPagesSearchJs841532221 {\n  posts: allMarkdownRemark(filter: {fileAbsolutePath: {regex: \"/pages/\"}}, sort: {fields: [frontmatter___title], order: ASC}) {\n    markdowns: edges {\n      markdown: node {\n        id\n        excerpt(pruneLength: 600)\n        frontmatter {\n          title\n          slug\n          image {\n            childImageSharp {\n              fluid(maxWidth: 350, maxHeight: 260, cropFocus: NORTH) {\n                src\n              }\n            }\n          }\n        }\n      }\n    }\n  }\n}\n",
       "componentPath": "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/pages/search.js"
     },
     "C:/My Documents/HCI/travel-agency/creating-blog/splittrip/src/pages/zip.js": {
