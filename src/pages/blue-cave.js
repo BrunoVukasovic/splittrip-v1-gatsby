@@ -1,5 +1,5 @@
 import React from "react";
-import { Layout, TripDescription, Button, ButtonContainer, MainImage } from "../components";
+import { Layout, Button, ButtonContainer, MainImage } from "../components";
 import mainImage from "../images/bluecave16x9.jpg";
 
 

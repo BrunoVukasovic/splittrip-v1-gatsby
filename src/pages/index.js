@@ -3,9 +3,9 @@ import { Link } from "gatsby";
 import { Layout, Container, MainImage, TripItem, TripItemHeading, TripItemDescription } from "../components";
 import krkaPhoto from "../images/krka 4x3.jpg";
 import zipPhoto from "../images/zip 4x3.jpg";
-import blueCavePhoto from "../images/blue cave 4x3.jpg";
+import blueCavePhoto from "../images/blueCave4x3.jpg";
 import raftingPhoto from "../images/rafting 4x3.jpg";
-import mainImage from "../images/plitvice 16x9.jpg";
+import mainImage from "../images/plitvice16x9.jpg";
 
 
 export default () => {
@@ -27,7 +27,7 @@ export default () => {
           <TripItem>
           <img src={zipPhoto} alt="Zip line" width= "100%"/>
           <TripItemHeading>Zip line</TripItemHeading>
-          <TripItemDescription>Our program includes a fascinating tour of an authentically restored ensemble of stone small houses, experience the rich diversity of flora and fauna there.</TripItemDescription>
+          <TripItemDescription>Zipline is an adrenaline entertainment where guests descend through the canyon down the steel wire rope, secured with a belt. Adventure also includes training and a short walk in nature.</TripItemDescription>
           </TripItem>
         </Link>
 

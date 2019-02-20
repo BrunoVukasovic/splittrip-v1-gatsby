@@ -21,6 +21,46 @@
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "blog-blue-lagoon-b3b",
+        "path": "/blog/blue-lagoon"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "blog-brac-d58",
+        "path": "/blog/brac"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "blog-dubrovnik-9a5",
+        "path": "/blog/dubrovnik"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "blog-hvar-2d1",
+        "path": "/blog/hvar"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "blog-klis-d7c",
+        "path": "/blog/klis"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "blog-mostar-eca",
+        "path": "/blog/mostar"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "blog-omis-f17",
+        "path": "/blog/omis"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "blog-plitvice-dcf",
+        "path": "/blog/plitvice"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "blog-post-four-acd",
         "path": "/blog/post-four"
     },
@@ -38,6 +78,16 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "blog-post-two-99a",
         "path": "/blog/post-two"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "blog-sailing-544",
+        "path": "/blog/sailing"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "blog-vis-1ab",
+        "path": "/blog/vis"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
@@ -60,6 +110,16 @@
         "path": "/blue-cave/"
     },
     {
+        "componentChunkName": "component---src-pages-blue-lagoon-js",
+        "jsonName": "blue-lagoon-ef4",
+        "path": "/blue-lagoon/"
+    },
+    {
+        "componentChunkName": "component---src-pages-brac-js",
+        "jsonName": "brac-d73",
+        "path": "/brac/"
+    },
+    {
         "componentChunkName": "component---cache-dev-404-page-js",
         "jsonName": "dev-404-page-5f9",
         "path": "/dev-404-page/"
@@ -68,6 +128,21 @@
         "componentChunkName": "component---src-pages-dropdown-js",
         "jsonName": "dropdown-8c1",
         "path": "/dropdown/"
+    },
+    {
+        "componentChunkName": "component---src-pages-dubrovnik-js",
+        "jsonName": "dubrovnik-6bf",
+        "path": "/dubrovnik/"
+    },
+    {
+        "componentChunkName": "component---src-pages-hvar-js",
+        "jsonName": "hvar-165",
+        "path": "/hvar/"
+    },
+    {
+        "componentChunkName": "component---src-pages-klis-js",
+        "jsonName": "klis-714",
+        "path": "/klis/"
     },
     {
         "componentChunkName": "component---src-pages-krka-js",
@@ -80,19 +155,34 @@
         "path": "/land tours/"
     },
     {
+        "componentChunkName": "component---src-pages-mostar-js",
+        "jsonName": "mostar-9c3",
+        "path": "/mostar/"
+    },
+    {
+        "componentChunkName": "component---src-pages-omis-js",
+        "jsonName": "omis-064",
+        "path": "/omis/"
+    },
+    {
         "componentChunkName": "component---src-pages-plitvice-js",
         "jsonName": "plitvice-2e9",
         "path": "/plitvice/"
     },
     {
-        "componentChunkName": "component---src-pages-proba-js",
-        "jsonName": "proba-d13",
-        "path": "/proba/"
-    },
-    {
         "componentChunkName": "component---src-pages-rafting-js",
         "jsonName": "rafting-159",
         "path": "/rafting/"
+    },
+    {
+        "componentChunkName": "component---src-pages-sailing-js",
+        "jsonName": "sailing-7ac",
+        "path": "/sailing/"
+    },
+    {
+        "componentChunkName": "component---src-pages-sea-tours-js",
+        "jsonName": "sea-tours-aab",
+        "path": "/sea-tours/"
     },
     {
         "componentChunkName": "component---src-pages-search-js",
@@ -103,6 +193,11 @@
         "componentChunkName": "component---src-pages-sign-up-js",
         "jsonName": "sign-up-684",
         "path": "/sign-up/"
+    },
+    {
+        "componentChunkName": "component---src-pages-vis-js",
+        "jsonName": "vis-af7",
+        "path": "/vis/"
     },
     {
         "componentChunkName": "component---src-pages-zip-js",

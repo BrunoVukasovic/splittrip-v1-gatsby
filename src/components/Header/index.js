@@ -19,7 +19,13 @@ import dropCycling from "./Images/dropCycling.jpg";
 import dropDiving from "./Images/dropDiving.jpg";
 import dropSeaKayaking from "./Images/dropSeaKayaking.jpg";
 
-import dropBlueCave from "./Images/dropBlueCave.jpg"; 
+import dropBlueCave from "./Images/dropBlueCave.jpg";
+import dropBlueLagoon from "./Images/dropBlueLagoon.jpg";
+import dropBrac from "./Images/dropBrac.jpg";
+import dropHvar from "./Images/dropHvar.jpg";
+import dropSailing from "./Images/dropSailing.jpg";
+import dropVis from "./Images/dropVis.jpg";
+
 import classNames from 'classnames';
 import { Link } from "gatsby";
 import { library } from '@fortawesome/fontawesome-svg-core'
@@ -73,13 +79,23 @@ export default () => {
           <NavLinkDrpodown to="/land tours" >Land Tours <FontAwesomeIcon icon="angle-double-down" />  
             <DropdownContent>
               <Link to ="/krka">
-              <img className={classNames({[styles.DropImage]: true, [styles.Image1]: true})} src={dropKrka} alt="Cinque Terre"   />
+              <img className={classNames({[styles.DropImage]: true, [styles.Image1]: true})} src={dropKrka} alt="dropKrka"   />
               </Link>
-              <img className={classNames({[styles.DropImage]: true, [styles.Image2]: true})} src={dropPlitvice} alt="Cinque Terre"  />
-              <img className={classNames({[styles.DropImage]: true, [styles.Image3]: true})} src={dropKlis} alt="Cinque Terre"   />
-              <img className={classNames({[styles.DropImage]: true, [styles.Image4]: true})} src={dropOmis} alt="Cinque Terre" />
-              <img className={classNames({[styles.DropImage]: true, [styles.Image5]: true})} src={dropDubrovnik} alt="Cinque Terre" />
-              <img className={classNames({[styles.DropImage]: true, [styles.Image6]: true})} src={dropMostar} alt="Cinque Terre" />
+              <Link to ="/plitvice">
+              <img className={classNames({[styles.DropImage]: true, [styles.Image2]: true})} src={dropPlitvice} alt="dropPlitvice"  />
+              </Link>
+              <Link to ="/klis">
+              <img className={classNames({[styles.DropImage]: true, [styles.Image3]: true})} src={dropKlis} alt="dropKlis"   />
+              </Link>
+              <Link to ="/omis">
+              <img className={classNames({[styles.DropImage]: true, [styles.Image4]: true})} src={dropOmis} alt="dropOmis" />
+              </Link>
+              <Link to ="/dubrovnik">
+              <img className={classNames({[styles.DropImage]: true, [styles.Image5]: true})} src={dropDubrovnik} alt="dropDubrovnik" />
+              </Link>
+              <Link to ="/mostar">
+              <img className={classNames({[styles.DropImage]: true, [styles.Image6]: true})} src={dropMostar} alt="dropMostar" />
+              </Link>
             </DropdownContent>
           </NavLinkDrpodown>
         </div>
@@ -87,12 +103,25 @@ export default () => {
         <div className={styles.SeaToursDropDown}>
           <NavLinkDrpodown to="/land tours" >Sea Tours <FontAwesomeIcon icon="angle-double-down" />  
             <DropdownContent>
-              <Link to ="/krka">
-              <img className={classNames({[styles.DropImage]: true, [styles.Image1]: true})} src={dropBlueCave} alt="Cinque Terre"   />
+              <Link to ="/blue-cave">
+              <img className={classNames({[styles.DropImage]: true, [styles.Image1]: true})} src={dropBlueCave} alt="dropBlueCave"   />
               </Link>
-              <img className={classNames({[styles.DropImage]: true, [styles.Image2]: true})} src={dropPlitvice} alt="Cinque Terre"  />
-              <img className={classNames({[styles.DropImage]: true, [styles.Image3]: true})} src={dropRafting} alt="Cinque Terre"   />
-              <img className={classNames({[styles.DropImage]: true, [styles.Image4]: true})} src={dropZip} alt="Cinque Terre" />
+              <Link to ="/blue-lagoon">
+              <img className={classNames({[styles.DropImage]: true, [styles.Image2]: true})} src={dropBlueLagoon} alt="dropBlueLagoon"  />
+              </Link>
+              <Link to ="/brac">
+              <img className={classNames({[styles.DropImage]: true, [styles.Image3]: true})} src={dropBrac} alt="dropBrac"   />
+              </Link>
+              <Link to ="/hvar">
+              <img className={classNames({[styles.DropImage]: true, [styles.Image4]: true})} src={dropHvar} alt="dropHvar" />
+              </Link>
+              <Link to ="/sailing">
+              <img className={classNames({[styles.DropImage]: true, [styles.Image5]: true})} src={dropSailing} alt="dropSailing" />
+              </Link>
+              <Link to ="/vis">
+              <img className={classNames({[styles.DropImage]: true, [styles.Image6]: true})} src={dropVis} alt="dropVis" />
+              </Link>
+
             </DropdownContent>
           </NavLinkDrpodown>
         </div>
@@ -100,12 +129,12 @@ export default () => {
         <div className={styles.AdventuresDropDown}>
           <NavLinkDrpodown to="/land tours">Adventures <FontAwesomeIcon icon="angle-double-down" />  
           <DropdownContent>
-            <img className={classNames({[styles.DropImage]: true, [styles.Image1]: true})} src={dropRafting} alt="Cinque Terre"   />
-            <img className={classNames({[styles.DropImage]: true, [styles.Image2]: true})} src={dropZip} alt="Cinque Terre" />
-            <img className={classNames({[styles.DropImage]: true, [styles.Image3]: true})} src={dropCanyoning} alt="Cinque Terre" />
-            <img className={classNames({[styles.DropImage]: true, [styles.Image4]: true})} src={dropCycling} alt="Cinque Terre" />
-            <img className={classNames({[styles.DropImage]: true, [styles.Image5]: true})} src={dropDiving} alt="Cinque Terre" />
-            <img className={classNames({[styles.DropImage]: true, [styles.Image6]: true})} src={dropSeaKayaking} alt="Cinque Terre" />
+            <img className={classNames({[styles.DropImage]: true, [styles.Image1]: true})} src={dropRafting} alt="dropRafting"   />
+            <img className={classNames({[styles.DropImage]: true, [styles.Image2]: true})} src={dropZip} alt="dropZip" />
+            <img className={classNames({[styles.DropImage]: true, [styles.Image3]: true})} src={dropCanyoning} alt="dropCanyoning" />
+            <img className={classNames({[styles.DropImage]: true, [styles.Image4]: true})} src={dropCycling} alt="dropCycling" />
+            <img className={classNames({[styles.DropImage]: true, [styles.Image5]: true})} src={dropDiving} alt="dropDiving" />
+            <img className={classNames({[styles.DropImage]: true, [styles.Image6]: true})} src={dropSeaKayaking} alt="dropSeaKayaking" />
           </DropdownContent>
           </NavLinkDrpodown>
         </div>
