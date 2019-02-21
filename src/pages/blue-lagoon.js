@@ -9,8 +9,8 @@ export default ({ data: {blueLagoon} }) => {
         <MainImage src={mainImage} />
 
         <ButtonContainer>
-          <Button>Contact Us</Button>
-          <Button>Book Now</Button>
+          <Button trip={blueLagoon.frontmatter.title}>Contact Us</Button>
+          <Button trip={blueLagoon.frontmatter.title}>Book Now</Button>
         </ButtonContainer>
         <div dangerouslySetInnerHTML = {{ __html: blueLagoon.html}} />
     </Layout>
@@ -21,6 +21,7 @@ export const query = graphql`
   query {
     blueLagoon: markdownRemark(frontmatter: { page: { eq: "blue-lagoon" } }) {
       html
+      frontmatter{title}
     }
   }
 `;

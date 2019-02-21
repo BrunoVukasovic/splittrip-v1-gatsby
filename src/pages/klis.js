@@ -9,8 +9,8 @@ export default ({ data: {klis} }) => {
         <MainImage src={mainImage} />
 
         <ButtonContainer>
-          <Button>Contact Us</Button>
-          <Button>Book Now</Button>
+          <Button trip={klis.frontmatter.title}>Contact Us</Button>
+          <Button trip={klis.frontmatter.title}>Book Now</Button>
         </ButtonContainer>
 
         <div dangerouslySetInnerHTML={{ __html: klis.html }} />
@@ -23,6 +23,7 @@ export const query = graphql`
     klis: markdownRemark(
       frontmatter: { page: { eq: "klis" } }) {
       html
+      frontmatter{title}
     }
   }
 `;

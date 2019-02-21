@@ -8,13 +8,9 @@ class Button extends Component {
     this.state = {clicked: false};
     this.handleClick = this.handleClick.bind(this);
     this.handleSubmit = this.handleSubmit.bind(this);
-    /*console.log(props);
-    console.log(props.children);
-    console.log(props.heading);*/
   }
   
   handleClick(){
-      console.log("klik!!!!");
       this.setState({ clicked: true});
   }
 
@@ -32,7 +28,7 @@ class Button extends Component {
         <div className={styles.ModalContent}>
           <span onClick={this.handleSubmit} className={styles.Close}>&times;</span>
           <h2>{this.props.children}</h2>
-          <Modal type={this.props.children}></Modal>
+          <Modal type={this.props.children} trip={this.props.trip}></Modal>
           <div className={styles.SubmitCancleDiv}>
             <button onClick={this.handleSubmit} className={styles.Cancle}>Cancle</button>
             <button onClick={this.handleSubmit} className={styles.Submit}>Submit</button>

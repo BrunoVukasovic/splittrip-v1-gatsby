@@ -1,10 +1,10 @@
 import React from "react";
 import { Link } from "gatsby";
 import { Layout, Container, MainImage, TripItem, TripItemHeading, TripItemDescription } from "../components";
-import krkaPhoto from "../images/krka 4x3.jpg";
-import zipPhoto from "../images/zip 4x3.jpg";
+import krkaPhoto from "../images/krka4x3.jpg";
+import zipPhoto from "../images/zip4x3.jpg";
 import blueCavePhoto from "../images/blueCave4x3.jpg";
-import raftingPhoto from "../images/rafting 4x3.jpg";
+import raftingPhoto from "../images/rafting4x3.jpg";
 import mainImage from "../images/plitvice16x9.jpg";
 
 

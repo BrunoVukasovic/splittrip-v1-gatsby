@@ -9,8 +9,8 @@ export default ({ data: {sailing} }) => {
         <MainImage src={mainImage} />
 
         <ButtonContainer>
-          <Button>Contact Us</Button>
-          <Button>Book Now</Button>
+          <Button trip={sailing.frontmatter.title}>Contact Us</Button>
+          <Button trip={sailing.frontmatter.title}>Book Now</Button>
         </ButtonContainer>
         <div dangerouslySetInnerHTML = {{ __html: sailing.html}} />
     </Layout>
@@ -21,6 +21,7 @@ export const query = graphql`
   query {
     sailing: markdownRemark(frontmatter: { page: { eq: "sailing" } }) {
       html
+      frontmatter{title}
     }
   }
 `;

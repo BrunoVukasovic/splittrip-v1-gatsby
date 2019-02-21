@@ -1,33 +1,27 @@
 ---
 date: "2018-11-01"
-title: "Post 3"
-slug: post-three
-image: "./images/nathan-anderson-443540-unsplash.jpg"
+title: "Best authentic coastal destination in Croatia"
+slug: best-authentic-coastal-destination-croatia
+image: "./images/solta.jpg"
 ---
-<!-- frontmetter je ovo troje -->
-
-<!-- markdownlint-disable MD033 -->
-
-<!-- pomocu plugina gatsby md pretvori u html -->
-
-# [Lorem Ipsum](https://www.lipsum.com/)
 
 <figure class="figure">
-    <img src="./images/geran-de-klerk-136351-unsplash.jpg" alt="Title"/>
-    <figcaption class="figure__caption">Title</figcaption>
+    <img src="./images/solta.jpg" alt="Solta"/>
+    <figcaption class="figure__caption">Šolta</figcaption>
 </figure>
 
-## What is Lorem Ipsum
+## Best authentic coastal destination in Croatia
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Authentic Croatia on the coast – the choices are seemingly endless, but where to find the best authentic coastal destination?
 
-## Where does it come from?
+The answer, for 2017 at least, is a small boat ride from Split. While the islands of Brac, Hvar and Vis may attract most of the tourism headlines when it comes to central Dalmatian islands, there is one hidden gem which lies outside of the spotlight, but which is growing in reputation as one of Croatia’s most relaxing and enticing experiences.
 
-<figure class="figure">
-    <img src="./images/nathan-anderson-443540-unsplash.jpg" alt="Title"/>
-    <figcaption class="figure__caption">Title</figcaption>
-</figure>
+Just an hour by ferry from Split, the island of Solta offers an escape from the daily pressures of life, its spectacular nature and unhurried way of life, combined with its authentic gourmet offer, which includes some of the best olives and honey in the region. A timeless Dalmatian experience, just a short ride from Split.
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+Solta’s magic was recognised recently ar the annual Days of Croatian Tourism Awards in Split, where Maslinica on Solta was crowned Best Authentic Coastal Tourism Destination in Croatia.
 
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+The Solta Tourist Board Director Zorana Kastelanac accepted the award from the Director of the Croatian Tourist Board, Kristijan Stanicic and the State Secretary of the Ministry of Tourism, Tonci Glavina.
+
+Zorana said: “Our efforts paid off and we can be very happy and proud, Maslinica really deserved to take the victory in this category.”
+
+# [Source](http://www.dalmatia.hr/blog/maslinica-solta-best-authentic-coastal-destination-croatia/)

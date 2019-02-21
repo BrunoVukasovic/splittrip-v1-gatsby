@@ -48,15 +48,16 @@ export default () => {
       </div>
 
       <div className={styles.MobileDropdown}>
-        <button className={styles.MobileDropbtn}>Dropdown <FontAwesomeIcon icon="angle-double-down" /></button>
+        <button className={styles.MobileDropbtn}>Menu
+         <FontAwesomeIcon icon="angle-double-down" /></button>
         <div className={styles.MobileDropdownContent}>
           <Link to="/" exact="true" className={styles.MobileLink}>Home</Link>
-          <Link to="/land tours" className={styles.MobileLink}>Land Tours</Link>
-          <Link to="/land tours" className={styles.MobileLink}>Land Tours</Link>
-          <Link to="/land tours" className={styles.MobileLink}>Land Tours</Link>
-          <Link to="/land tours" className={styles.MobileLink}>Land Tours</Link>
-          <Link to="/land tours" className={styles.MobileLink}>Land Tours</Link>
-          <Link to="/land tours" className={styles.MobileLink}>Land Tours</Link>
+          <Link to="/land-tours" className={styles.MobileLink}>Land Tours</Link>
+          <Link to="/sea-tours" className={styles.MobileLink}>Sea Tours</Link>
+          <Link to="/adventures" className={styles.MobileLink}>Adventures</Link>
+          <Link to="/log-in" className={styles.MobileLink}>My Trips</Link>
+          <Link to="/blog" className={styles.MobileLink}>Travel Stories</Link>
+          <Link to="/search" className={styles.MobileLink}>Search</Link>
           
         </div>
       </div>
@@ -76,7 +77,7 @@ export default () => {
       </div>
 
         <div className={styles.LandToursDropDown}>
-          <NavLinkDrpodown to="/land tours" >Land Tours <FontAwesomeIcon icon="angle-double-down" />  
+          <NavLinkDrpodown to="/land-tours" >Land Tours <FontAwesomeIcon icon="angle-double-down" />  
             <DropdownContent>
               <Link to ="/krka">
               <img className={classNames({[styles.DropImage]: true, [styles.Image1]: true})} src={dropKrka} alt="dropKrka"   />
@@ -101,7 +102,7 @@ export default () => {
         </div>
 
         <div className={styles.SeaToursDropDown}>
-          <NavLinkDrpodown to="/land tours" >Sea Tours <FontAwesomeIcon icon="angle-double-down" />  
+          <NavLinkDrpodown to="/sea-tours" >Sea Tours <FontAwesomeIcon icon="angle-double-down" />  
             <DropdownContent>
               <Link to ="/blue-cave">
               <img className={classNames({[styles.DropImage]: true, [styles.Image1]: true})} src={dropBlueCave} alt="dropBlueCave"   />
@@ -127,15 +128,27 @@ export default () => {
         </div>
 
         <div className={styles.AdventuresDropDown}>
-          <NavLinkDrpodown to="/land tours">Adventures <FontAwesomeIcon icon="angle-double-down" />  
-          <DropdownContent>
-            <img className={classNames({[styles.DropImage]: true, [styles.Image1]: true})} src={dropRafting} alt="dropRafting"   />
-            <img className={classNames({[styles.DropImage]: true, [styles.Image2]: true})} src={dropZip} alt="dropZip" />
-            <img className={classNames({[styles.DropImage]: true, [styles.Image3]: true})} src={dropCanyoning} alt="dropCanyoning" />
-            <img className={classNames({[styles.DropImage]: true, [styles.Image4]: true})} src={dropCycling} alt="dropCycling" />
-            <img className={classNames({[styles.DropImage]: true, [styles.Image5]: true})} src={dropDiving} alt="dropDiving" />
-            <img className={classNames({[styles.DropImage]: true, [styles.Image6]: true})} src={dropSeaKayaking} alt="dropSeaKayaking" />
-          </DropdownContent>
+          <NavLinkDrpodown to="/adventures">Adventures <FontAwesomeIcon icon="angle-double-down" />  
+            <DropdownContent>
+              <Link to ="/rafting">
+              <img className={classNames({[styles.DropImage]: true, [styles.Image1]: true})} src={dropRafting} alt="dropRafting"   />
+              </Link>
+              <Link to ="/zip">
+              <img className={classNames({[styles.DropImage]: true, [styles.Image2]: true})} src={dropZip} alt="dropZip" />
+              </Link>
+              <Link to ="/canyoning">
+              <img className={classNames({[styles.DropImage]: true, [styles.Image3]: true})} src={dropCanyoning} alt="dropCanyoning" />
+              </Link>
+              <Link to ="/cycling">
+              <img className={classNames({[styles.DropImage]: true, [styles.Image4]: true})} src={dropCycling} alt="dropCycling" />
+              </Link>
+              <Link to ="/diving">
+              <img className={classNames({[styles.DropImage]: true, [styles.Image5]: true})} src={dropDiving} alt="dropDiving" />
+              </Link>
+              <Link to ="/sea-kayaking">
+              <img className={classNames({[styles.DropImage]: true, [styles.Image6]: true})} src={dropSeaKayaking} alt="dropSeaKayaking" />
+              </Link>
+            </DropdownContent>
           </NavLinkDrpodown>
         </div>
 

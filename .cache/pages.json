@@ -5,14 +5,19 @@
         "path": "/"
     },
     {
-        "componentChunkName": "component---src-pages-about-js",
-        "jsonName": "about-f34",
-        "path": "/about/"
+        "componentChunkName": "component---src-pages-adventures-js",
+        "jsonName": "adventures-2f1",
+        "path": "/adventures/"
     },
     {
         "componentChunkName": "component---src-pages-blog-js",
         "jsonName": "blog-f7a",
         "path": "/blog/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "blog-best-authentic-coastal-destination-croatia-842",
+        "path": "/blog/best-authentic-coastal-destination-croatia"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
@@ -31,6 +36,21 @@
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "blog-canyoning-b7d",
+        "path": "/blog/canyoning"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "blog-cycling-fc5",
+        "path": "/blog/cycling"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "blog-diving-6c0",
+        "path": "/blog/diving"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "blog-dubrovnik-9a5",
         "path": "/blog/dubrovnik"
     },
@@ -43,6 +63,11 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "blog-klis-d7c",
         "path": "/blog/klis"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "blog-krka-01f",
+        "path": "/blog/krka"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
@@ -61,28 +86,23 @@
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
-        "jsonName": "blog-post-four-acd",
-        "path": "/blog/post-four"
-    },
-    {
-        "componentChunkName": "component---src-templates-blog-post-js",
-        "jsonName": "blog-post-one-638",
-        "path": "/blog/post-one"
-    },
-    {
-        "componentChunkName": "component---src-templates-blog-post-js",
-        "jsonName": "blog-post-three-0ca",
-        "path": "/blog/post-three"
-    },
-    {
-        "componentChunkName": "component---src-templates-blog-post-js",
-        "jsonName": "blog-post-two-99a",
-        "path": "/blog/post-two"
+        "jsonName": "blog-rafting-f95",
+        "path": "/blog/rafting"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "blog-sailing-544",
         "path": "/blog/sailing"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "blog-sea-kayaking-617",
+        "path": "/blog/sea-kayaking"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "blog-things-to-do-in-dalmatia-unesco-sites-c52",
+        "path": "/blog/things-to-do-in-Dalmatia-UNESCO-sites"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
@@ -120,9 +140,24 @@
         "path": "/brac/"
     },
     {
+        "componentChunkName": "component---src-pages-canyoning-js",
+        "jsonName": "canyoning-8f5",
+        "path": "/canyoning/"
+    },
+    {
+        "componentChunkName": "component---src-pages-cycling-js",
+        "jsonName": "cycling-2a7",
+        "path": "/cycling/"
+    },
+    {
         "componentChunkName": "component---cache-dev-404-page-js",
         "jsonName": "dev-404-page-5f9",
         "path": "/dev-404-page/"
+    },
+    {
+        "componentChunkName": "component---src-pages-diving-js",
+        "jsonName": "diving-37b",
+        "path": "/diving/"
     },
     {
         "componentChunkName": "component---src-pages-dropdown-js",
@@ -151,8 +186,8 @@
     },
     {
         "componentChunkName": "component---src-pages-land-tours-js",
-        "jsonName": "land-tours-c24",
-        "path": "/land tours/"
+        "jsonName": "land-tours-dbf",
+        "path": "/land-tours/"
     },
     {
         "componentChunkName": "component---src-pages-mostar-js",
@@ -178,6 +213,11 @@
         "componentChunkName": "component---src-pages-sailing-js",
         "jsonName": "sailing-7ac",
         "path": "/sailing/"
+    },
+    {
+        "componentChunkName": "component---src-pages-sea-kayaking-js",
+        "jsonName": "sea-kayaking-de9",
+        "path": "/sea-kayaking/"
     },
     {
         "componentChunkName": "component---src-pages-sea-tours-js",

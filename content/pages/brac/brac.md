@@ -1,6 +1,6 @@
 ---
 page: "brac"
-title: "Brac"
+title: "Brač"
 slug: brac
 image: "../images/vis4x3.jpg"
 ---

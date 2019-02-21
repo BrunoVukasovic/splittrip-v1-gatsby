@@ -9,8 +9,8 @@ export default ({ data: {vis} }) => {
         <MainImage src={mainImage} />
 
         <ButtonContainer>
-          <Button>Contact Us</Button>
-          <Button>Book Now</Button>
+          <Button trip={vis.frontmatter.title}>Contact Us</Button>
+          <Button trip={vis.frontmatter.title}>Book Now</Button>
         </ButtonContainer>
         <div dangerouslySetInnerHTML = {{ __html: vis.html}} />
     </Layout>
@@ -21,6 +21,7 @@ export const query = graphql`
   query {
     vis: markdownRemark(frontmatter: { page: { eq: "vis" } }) {
       html
+      frontmatter{title}
     }
   }
 `;

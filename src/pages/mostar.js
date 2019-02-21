@@ -9,8 +9,8 @@ export default ({ data: {mostar} }) => {
         <MainImage src={mainImage} />
 
         <ButtonContainer>
-          <Button>Contact Us</Button>
-          <Button>Book Now</Button>
+          <Button trip={mostar.frontmatter.title}>Contact Us</Button>
+          <Button trip={mostar.frontmatter.title}>Book Now</Button>
         </ButtonContainer>
 
         <div dangerouslySetInnerHTML={{ __html: mostar.html }} />
@@ -23,6 +23,7 @@ export const query = graphql`
     mostar: markdownRemark(
       frontmatter: { page: { eq: "mostar" } }) {
       html
+      frontmatter{title}
     }
   }
 `;

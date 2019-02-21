@@ -9,8 +9,8 @@ export default ({ data: {dubrovnik} }) => {
         <MainImage src={mainImage} />
 
         <ButtonContainer>
-          <Button>Contact Us</Button>
-          <Button>Book Now</Button>
+          <Button trip={dubrovnik.frontmatter.title}>Contact Us</Button>
+          <Button trip={dubrovnik.frontmatter.title}>Book Now</Button>
         </ButtonContainer>
 
         <div dangerouslySetInnerHTML={{ __html: dubrovnik.html }} />

@@ -4,13 +4,14 @@ import mainImage from "../images/brac16x9.jpg";
 
 
 export default ({ data: {brac} }) => {
+  console.log(brac.frontmatter.title);
   return (
     <Layout>
         <MainImage src={mainImage} />
 
         <ButtonContainer>
-          <Button>Contact Us</Button>
-          <Button>Book Now</Button>
+          <Button trip={brac.frontmatter.title}>Contact Us</Button>
+          <Button trip={brac.frontmatter.title}>Book Now</Button>
         </ButtonContainer>
         <div dangerouslySetInnerHTML = {{ __html: brac.html}} />
     </Layout>
@@ -18,9 +19,10 @@ export default ({ data: {brac} }) => {
 };
 
 export const query = graphql`
-  query {
-    brac: markdownRemark(frontmatter: { page: { eq: "brac" } }) {
-      html
-    }
+query {
+  brac: markdownRemark(frontmatter: { page: { eq: "brac" } }) {
+    html
+    frontmatter{title}
   }
+}
 `;

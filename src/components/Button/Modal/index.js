@@ -6,40 +6,65 @@ class Modal extends Component {
     super(props);
     this.state = {clicked: false};
     this.handleClick = this.handleClick.bind(this);
-    console.log(props);
-    console.log(props.type);
+    console.log(this.props.type);
   }
   
   handleClick(){
-      console.log("klik!!!!");
       this.setState({ clicked: true});
   }
 
   render() {
-      
-    if(this.props.type == "Contact Us"){
+      // Contact Us button
+    if(this.props.type == "Contact Us" || this.props.type == "Contact us"){
         return(
           <div>
-            <label for="fname">First Name</label>
-            <input className={styles.InputText} type="text" id="fname" name="firstname" placeholder="Your name.." />
+            <h3>Trip: {this.props.trip}</h3>
+
+            <label for="fname">First Name:</label>
+            <input className={styles.InputText} type="text" placeholder="Your name.." />
         
-            <label for="lname">Last Name</label>
-            <input className={styles.InputText} type="text" id="lname" name="lastname" placeholder="Your last name.." />
-        
-            <label for="country">Country</label>
-            <select className={styles.InputText} id="country" name="country">
-              <option value="australia">Australia</option>
-              <option value="canada">Canada</option>
-              <option value="usa">USA</option>
-            </select>
-          
-            <input className={styles.InputSubmit} type="submit" value="Submit" />
+            <label for="lname">Last Name:</label>
+            <input className={styles.InputText} type="text" placeholder="Your last name.." />
+
+            <label for="pnumber">Phone Number:</label>
+            <input className={styles.InputText} type="number" placeholder="Your phone number.." />
+
+            <label for="email">E-mail:</label>
+            <input className={styles.InputText} type="text" placeholder="Your e-mail.." />
+
+            <label for="message">Message:</label>
+            <input className={styles.InputText} type="text" placeholder="Your message.." />
           </div>
         );
     }
+    // Book Now button
     else{
       return(
-        <p>Nije Contact Us</p>
+        <div>
+        <h3>Trip: {this.props.trip}</h3>
+
+        <label for="fname">First Name:</label>
+        <input className={styles.InputText} type="text" placeholder="Your name.." />
+    
+        <label for="lname">Last Name:</label>
+        <input className={styles.InputText} type="text"  placeholder="Your last name.." />
+
+        <label for="pnumber">Phone Number:</label>
+        <input className={styles.InputText} type="number" placeholder="Your phone number.." />
+
+        <label for="email">E-mail:</label>
+        <input className={styles.InputText} type="text" placeholder="Your e-mail.." />
+
+        <label for="date">Date:</label>
+        <input className={styles.InputText} type="date" />
+
+        <label for="pnumber">Time:</label>
+        <input className={styles.InputText} type="time" />
+
+        <label for="message">Message:
+        </label>
+        <input className={styles.InputText} type="text" placeholder="Your message.." />
+      </div>
       );
     }
   }

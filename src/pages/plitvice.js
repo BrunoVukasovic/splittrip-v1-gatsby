@@ -9,8 +9,8 @@ export default ({ data: {plitvice} }) => {
         <MainImage src={mainImage} />
 
         <ButtonContainer>
-          <Button>Contact Us</Button>
-          <Button>Book Now</Button>
+          <Button trip={plitvice.frontmatter.title}>Contact Us</Button>
+          <Button trip={plitvice.frontmatter.title}>Book Now</Button>
         </ButtonContainer>
 
         <div dangerouslySetInnerHTML={{ __html: plitvice.html }} />
@@ -23,6 +23,7 @@ export const query = graphql`
     plitvice: markdownRemark(
       frontmatter: { page: { eq: "plitvice" } }) {
       html
+      frontmatter{title}
     }
   }
 `;

@@ -9,8 +9,8 @@ export default ({ data: {zip} }) => {
         <MainImage src={mainImage} />
 
         <ButtonContainer>
-          <Button>Contact Us</Button>
-          <Button>Book Now</Button>
+          <Button trip={zip.frontmatter.title}>Contact Us</Button>
+          <Button trip={zip.frontmatter.title}>Book Now</Button>
         </ButtonContainer>
 
         <div dangerouslySetInnerHTML={{ __html: zip.html }} />
@@ -23,6 +23,7 @@ export const query = graphql`
     zip: markdownRemark(
       frontmatter: { page: { eq: "zip" } }) {
       html
+      frontmatter{title}
     }
   }
 `;

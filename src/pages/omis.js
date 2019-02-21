@@ -9,8 +9,8 @@ export default ({ data: {omis} }) => {
         <MainImage src={mainImage} />
 
         <ButtonContainer>
-          <Button>Contact Us</Button>
-          <Button>Book Now</Button>
+          <Button trip={omis.frontmatter.title}>Contact Us</Button>
+          <Button trip={omis.frontmatter.title}>Book Now</Button>
         </ButtonContainer>
 
         <div dangerouslySetInnerHTML={{ __html: omis.html }} />
@@ -23,6 +23,7 @@ export const query = graphql`
     omis: markdownRemark(
       frontmatter: { page: { eq: "omis" } }) {
       html
+      frontmatter{title}
     }
   }
 `;

@@ -73,7 +73,7 @@ class FilteredProducts extends Component {
         <div className={styles.ResultsContainer}>
           <p>We do not have that trip yet. Contact us and we will find it for you!</p>
           <div className={styles.divBtn}>
-            <Button>Contact us!</Button>
+            <Button>Contact us</Button>
           </div>
         </div>
         </>

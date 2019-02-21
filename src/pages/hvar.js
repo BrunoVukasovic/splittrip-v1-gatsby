@@ -9,8 +9,8 @@ export default ({ data: {hvar} }) => {
         <MainImage src={mainImage} />
 
         <ButtonContainer>
-          <Button>Contact Us</Button>
-          <Button>Book Now</Button>
+          <Button trip={hvar.frontmatter.title}>Contact Us</Button>
+          <Button trip={hvar.frontmatter.title}>Book Now</Button>
         </ButtonContainer>
         <div dangerouslySetInnerHTML = {{ __html: hvar.html}} />
     </Layout>
@@ -21,6 +21,7 @@ export const query = graphql`
   query {
     hvar: markdownRemark(frontmatter: { page: { eq: "hvar" } }) {
       html
+      frontmatter{title}
     }
   }
 `;
